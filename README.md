@@ -311,8 +311,8 @@ PLS regression searches for latent score directions that explain both descriptor
 
 $$
 w_1
-= \arg\max_{\|w\|=1} \operatorname{Cov}(\tilde X w, y)^2
-= \arg\max_{\|w\|=1} w^\top \tilde X^\top yy^\top \tilde X w
+= \underset{\|w\|=1}{\arg\max}\; \mathrm{Cov}(\tilde{X} w, y)^2
+= \underset{\|w\|=1}{\arg\max}\; w^\top \tilde{X}^\top y y^\top \tilde{X} w
 $$
 					
 
@@ -456,7 +456,7 @@ $$
 where each contains the leading block-specific PC scores. Shared structure is estimated by directions $a,b$ solving
 
 $$
-\max_{a,b} \operatorname{Corr}(Z_1a, Z_2b)
+\max_{a,b} \mathrm{Corr}(Z_1 a, Z_2 b)
 $$
 					
 
