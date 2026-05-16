@@ -660,6 +660,6 @@ interpretable modelling
 
 ---
 
-## 12. Disclaimer
+## 11. Disclaimer
 
 This repository is for statistical modelling and research-training purposes. The results should not be interpreted as experimental validation of any compound's biological, pharmacological, or clinical effectiveness.
