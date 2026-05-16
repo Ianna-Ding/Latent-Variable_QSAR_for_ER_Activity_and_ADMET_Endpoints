@@ -310,11 +310,10 @@ This separates compounds that are extreme **within** the principal-component sub
 PLS regression searches for latent score directions that explain both descriptor variation and the response $y$. For a univariate response, the first PLS weight vector can be written as
 
 $$
-					
-				
-				
-				xxxxxxxxxx w_1= \arg\max_{\|w\|=1} \operatorname{Cov}(\tilde X w, y)^2= \arg\max_{\|w\|=1} w^\top \tilde X^\top yy^\top \tilde X w
-				$$
+w_1
+= \arg\max_{\|w\|=1} \operatorname{Cov}(\tilde X w, y)^2
+= \arg\max_{\|w\|=1} w^\top \tilde X^\top yy^\top \tilde X w
+$$
 					
 
 The latent score is
@@ -457,11 +456,8 @@ $$
 where each contains the leading block-specific PC scores. Shared structure is estimated by directions $a,b$ solving
 
 $$
-					
-				
-				
-				xxxxxxxxxx \max_{a,b} \operatorname{Corr}(Z_1a, Z_2b)
-				$$
+\max_{a,b} \operatorname{Corr}(Z_1a, Z_2b)
+$$
 					
 
 Block-specific residual structure is then approximated by
