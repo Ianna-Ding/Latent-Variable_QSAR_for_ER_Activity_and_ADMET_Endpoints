@@ -1,0 +1,4 @@
+block_name,role,n_descriptors
+block_X_local_electronic_atom_environment,candidate_block,335
+block_Y_topological_connectivity_structure,candidate_block,129
+not_assigned,reference_only_not_candidate_block,40

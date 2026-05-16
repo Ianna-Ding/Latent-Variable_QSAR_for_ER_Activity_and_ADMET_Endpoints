@@ -1,0 +1,4 @@
+dataset_name,n_descriptors,description
+primary_remove_constant_only,504,Remove only constant/zero-variance descriptors; keep rare binary and other near-constant descriptors for primary PCA.
+sensitivity_remove_nonbinary_near_constant,336,Remove constant descriptors and non-binary near-constant descriptors; keep rare binary indicators.
+sensitivity_remove_all_near_constant,320,"Remove constant descriptors and all near-constant descriptors, including rare binary indicators."

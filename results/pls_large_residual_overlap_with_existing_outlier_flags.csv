@@ -1,0 +1,8 @@
+diagnostic_flag,n_flagged_by_diagnostic,n_large_residual_and_flagged,prop_large_residual_among_flagged,prop_diagnostic_flag_among_large_residual
+flag_pca_outlier_empirical,35,5,0.14285714285714285,0.050505050505050504
+flag_pIC50_iqr_outlier,0,0,,0.0
+flag_IC50_nM_iqr_outlier,309,32,0.10355987055016182,0.32323232323232326
+flag_PLS_score_space_unusual,32,5,0.15625,0.050505050505050504
+flag_PLS_T2_ge_99pct,20,5,0.25,0.050505050505050504
+flag_PLS_X_residual_ge_99pct,20,4,0.2,0.04040404040404041
+flag_many_univariate_descriptor_outliers,21,4,0.19047619047619047,0.04040404040404041

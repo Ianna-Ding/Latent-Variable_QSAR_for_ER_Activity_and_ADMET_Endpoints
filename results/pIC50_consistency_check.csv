@@ -1,0 +1,4 @@
+metric,value
+n_positive_IC50_values,1974.0
+max_abs_difference_between_given_and_calculated_pIC50,2.4868995751603507e-14
+mean_abs_difference_between_given_and_calculated_pIC50,2.572972792834431e-15

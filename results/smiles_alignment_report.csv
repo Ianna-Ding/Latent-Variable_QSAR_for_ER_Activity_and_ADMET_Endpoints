@@ -1,0 +1,3 @@
+split,n_desc_rows,n_activity_rows,n_admet_rows,desc_activity_same_order,desc_admet_same_order,activity_admet_same_order,desc_unique_smiles,activity_unique_smiles,admet_unique_smiles,desc_duplicate_smiles,activity_duplicate_smiles,admet_duplicate_smiles
+training,1974,1974,1974,True,True,True,1974,1974,1974,0,0,0
+test,50,50,50,True,True,True,50,50,50,0,0,0

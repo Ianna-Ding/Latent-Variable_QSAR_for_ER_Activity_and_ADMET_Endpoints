@@ -1,0 +1,58 @@
+descriptor_category,descriptor_numeric_type,n_descriptors
+ALOGP,continuous_float_like,3
+APol,continuous_float_like,1
+Acidic group count,integer_low_cardinality,1
+Aromatic atoms count,integer_count_like,1
+Aromatic bonds count,integer_count_like,1
+Atom count,integer_low_cardinality,8
+Atom count,integer_count_like,4
+Atom count,binary_like,2
+Atom type electrotopological state,binary_like,229
+Atom type electrotopological state,continuous_float_like,204
+Atom type electrotopological state,integer_low_cardinality,49
+Atom type electrotopological state,integer_count_like,6
+Autocorrelation (charge),continuous_float_like,5
+Autocorrelation (mass),continuous_float_like,5
+Autocorrelation (polarizability),continuous_float_like,5
+BCUT,continuous_float_like,6
+BPol,continuous_float_like,1
+Basic group count,integer_low_cardinality,1
+Bond count,integer_count_like,6
+Bond count,integer_low_cardinality,3
+Bond count,binary_like,1
+Carbon types,integer_low_cardinality,7
+Carbon types,integer_count_like,2
+Chi chain,continuous_float_like,10
+Chi cluster,continuous_float_like,8
+Chi path,continuous_float_like,16
+Chi path cluster,continuous_float_like,6
+Crippen logP and MR,continuous_float_like,2
+Eccentric connectivity index,integer_count_like,1
+Extended topochemical atom,continuous_float_like,43
+FMFDescriptor,continuous_float_like,1
+Fragment complexity,continuous_float_like,1
+Hbond acceptor count,integer_low_cardinality,4
+Hbond donor count,integer_low_cardinality,2
+HybridizationRatioDescriptor,continuous_float_like,1
+Kappa shape indices,continuous_float_like,3
+Largest Pi system,integer_count_like,1
+Largest chain,integer_count_like,1
+Longest aliphatic chain,integer_low_cardinality,1
+Mannhold LogP,continuous_float_like,1
+McGowan volume,continuous_float_like,1
+Molecular distance edge,continuous_float_like,19
+Molecular linear free energy relation,continuous_float_like,6
+Petitjean number,continuous_float_like,1
+Ring count,integer_low_cardinality,14
+Ring count,binary_like,9
+RingCountDescriptor,integer_low_cardinality,11
+Rotatable bonds count,integer_count_like,1
+Rule of five,integer_low_cardinality,1
+Topological polar surface area,continuous_float_like,1
+Van der Waals volume,continuous_float_like,1
+Vertex adjacency information (magnitude),continuous_float_like,1
+Weight,continuous_float_like,1
+Weighted path,continuous_float_like,5
+Wiener numbers,integer_count_like,2
+XLogP,continuous_float_like,1
+Zagreb index,integer_count_like,1

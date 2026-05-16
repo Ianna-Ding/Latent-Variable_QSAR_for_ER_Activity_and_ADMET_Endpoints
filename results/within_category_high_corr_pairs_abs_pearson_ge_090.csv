@@ -1,0 +1,469 @@
+descriptor_1,descriptor_2,abs_pearson_corr,descriptor_category
+minsSH,maxHsSH,1.0,Atom type electrotopological state
+nssssNp,maxssssNp,1.0,Atom type electrotopological state
+nHsSH,nsSH,1.0,Atom type electrotopological state
+nsSH,maxsSH,1.0,Atom type electrotopological state
+nsSH,SHsSH,1.0,Atom type electrotopological state
+maxHsSH,maxsSH,1.0,Atom type electrotopological state
+nsSH,SsSH,1.0,Atom type electrotopological state
+mindS,maxdS,1.0,Atom type electrotopological state
+minsSH,maxsSH,1.0,Atom type electrotopological state
+nsSH,minHsSH,1.0,Atom type electrotopological state
+nsSH,minsSH,1.0,Atom type electrotopological state
+nsSH,maxHsSH,1.0,Atom type electrotopological state
+nssssNp,minssssNp,1.0,Atom type electrotopological state
+nHdsCH,ndsCH,1.0,Atom type electrotopological state
+nssssNp,SssssNp,1.0,Atom type electrotopological state
+minssssNp,maxssssNp,1.0,Atom type electrotopological state
+ndssS,SdssS,1.0,Atom type electrotopological state
+nHaaCH,naaCH,1.0,Atom type electrotopological state
+SHsSH,minsSH,1.0,Atom type electrotopological state
+nHdNH,ndNH,1.0,Atom type electrotopological state
+ndssS,mindssS,1.0,Atom type electrotopological state
+SHsSH,SsSH,1.0,Atom type electrotopological state
+SHsSH,maxsSH,1.0,Atom type electrotopological state
+nHsOH,nsOH,1.0,Atom type electrotopological state
+SsSH,minHsSH,1.0,Atom type electrotopological state
+nHsSH,minsSH,1.0,Atom type electrotopological state
+minHsSH,maxsSH,1.0,Atom type electrotopological state
+SssssNp,maxssssNp,1.0,Atom type electrotopological state
+SCH-3,VCH-3,1.0,Chi chain
+SddssS,minddssS,1.0,Atom type electrotopological state
+nHsSH,SsSH,1.0,Atom type electrotopological state
+nHsSH,minHsSH,1.0,Atom type electrotopological state
+nHsSH,maxHsSH,1.0,Atom type electrotopological state
+nHsSH,maxsSH,1.0,Atom type electrotopological state
+SdCH2,mindCH2,1.0,Atom type electrotopological state
+nHssNH,nssNH,1.0,Atom type electrotopological state
+minHsSH,minsSH,1.0,Atom type electrotopological state
+SssssNp,minssssNp,1.0,Atom type electrotopological state
+mindCH2,maxdCH2,1.0,Atom type electrotopological state
+SdCH2,maxdCH2,1.0,Atom type electrotopological state
+nHsSH,SHsSH,1.0,Atom type electrotopological state
+SsSH,minsSH,1.0,Atom type electrotopological state
+SsSH,maxHsSH,1.0,Atom type electrotopological state
+SsSH,maxsSH,1.0,Atom type electrotopological state
+SdS,mindS,1.0,Atom type electrotopological state
+SdS,maxdS,1.0,Atom type electrotopological state
+nHdCH2,ndCH2,1.0,Atom type electrotopological state
+nHtCH,ntCH,1.0,Atom type electrotopological state
+SdssS,mindssS,1.0,Atom type electrotopological state
+SHsSH,maxHsSH,0.9999999999999998,Atom type electrotopological state
+SHsSH,minHsSH,0.9999999999999998,Atom type electrotopological state
+minHsSH,maxHsSH,0.9999999999999998,Atom type electrotopological state
+StCH,mintCH,0.9999999999999997,Atom type electrotopological state
+mintCH,maxtCH,0.9999999999999997,Atom type electrotopological state
+StCH,maxtCH,0.9999999999999997,Atom type electrotopological state
+SHtCH,maxHtCH,0.9999999999999993,Atom type electrotopological state
+nHaaNH,naaNH,0.9999999999999993,Atom type electrotopological state
+SHtCH,minHtCH,0.9999999999999993,Atom type electrotopological state
+minHtCH,maxHtCH,0.9999999999999993,Atom type electrotopological state
+nHsNH2,nsNH2,0.9999999999999972,Atom type electrotopological state
+SHdCH2,maxHdCH2,0.999999999999997,Atom type electrotopological state
+minHdCH2,maxHdCH2,0.999999999999997,Atom type electrotopological state
+SHdCH2,minHdCH2,0.999999999999997,Atom type electrotopological state
+SdsssP,mindsssP,0.9999999999999961,Atom type electrotopological state
+ndsssP,SdsssP,0.9999995235070723,Atom type electrotopological state
+ndsssP,mindsssP,0.9999995235070723,Atom type electrotopological state
+mintN,maxtN,0.9999984899824197,Atom type electrotopological state
+mindsN,maxdsN,0.9999479219443793,Atom type electrotopological state
+minaaNH,maxaaNH,0.9999342017851521,Atom type electrotopological state
+minsOm,maxsOm,0.9999273368295991,Atom type electrotopological state
+minaaO,maxaaO,0.999880069309453,Atom type electrotopological state
+mintsC,maxtsC,0.9998553620789276,Atom type electrotopological state
+mindNH,maxdNH,0.9998335700117916,Atom type electrotopological state
+ETA_Psi_1,ETA_dPsi_A,0.9996598912153339,Extended topochemical atom
+minsF,maxsF,0.9996582657887029,Atom type electrotopological state
+nHdNH,SdNH,0.999636468894933,Atom type electrotopological state
+ndNH,SdNH,0.999636468894933,Atom type electrotopological state
+minHAvin,maxHAvin,0.9996141714363823,Atom type electrotopological state
+minaasN,maxaasN,0.9996010521994282,Atom type electrotopological state
+nsNH2,SsNH2,0.9995682671550886,Atom type electrotopological state
+nHsNH2,SsNH2,0.9995682671550886,Atom type electrotopological state
+ntCH,StCH,0.9995625407633782,Atom type electrotopological state
+nHtCH,maxtCH,0.9995625407633782,Atom type electrotopological state
+nHtCH,StCH,0.9995625407633782,Atom type electrotopological state
+ntCH,mintCH,0.9995625407633782,Atom type electrotopological state
+ntCH,maxtCH,0.9995625407633782,Atom type electrotopological state
+nHtCH,mintCH,0.9995625407633782,Atom type electrotopological state
+nsOm,SsOm,0.999399286254787,Atom type electrotopological state
+minHaaNH,maxHaaNH,0.9993506914322704,Atom type electrotopological state
+ntN,StN,0.9991624229437394,Atom type electrotopological state
+minaaN,maxaaN,0.9989879529580117,Atom type electrotopological state
+minHdNH,maxHdNH,0.9989860686999936,Atom type electrotopological state
+minsCl,maxsCl,0.9989710586882744,Atom type electrotopological state
+ETA_Epsilon_1,ETA_dEpsilon_A,0.9987520211296845,Extended topochemical atom
+nHsNH2,SHsNH2,0.9987352189960418,Atom type electrotopological state
+nsNH2,SHsNH2,0.9987352189960418,Atom type electrotopological state
+MAXDP,MAXDP2,0.9986249194500367,Atom type electrotopological state
+MLFER_BH,MLFER_BO,0.9986175135085138,Molecular linear free energy relation
+nsF,SsF,0.998573812204803,Atom type electrotopological state
+minsNH2,maxsNH2,0.9984281071840925,Atom type electrotopological state
+minssNH,maxssNH,0.9983505821436237,Atom type electrotopological state
+naaO,SaaO,0.9980935097473527,Atom type electrotopological state
+nHdNH,SHdNH,0.9980914635676179,Atom type electrotopological state
+ndNH,SHdNH,0.9980914635676179,Atom type electrotopological state
+nHsOH,SsOH,0.9979168170228099,Atom type electrotopological state
+nsOH,SsOH,0.9979168170228099,Atom type electrotopological state
+ndCH2,mindCH2,0.9977624581154826,Atom type electrotopological state
+ndCH2,SdCH2,0.9977624581154826,Atom type electrotopological state
+nHdCH2,maxdCH2,0.9977624581154826,Atom type electrotopological state
+nHdCH2,SdCH2,0.9977624581154826,Atom type electrotopological state
+ndCH2,maxdCH2,0.9977624581154826,Atom type electrotopological state
+nHdCH2,mindCH2,0.9977624581154826,Atom type electrotopological state
+SHsNH2,SsNH2,0.9977445159533472,Atom type electrotopological state
+nddssS,SddssS,0.9973479748786808,Atom type electrotopological state
+nddssS,minddssS,0.9973479748786808,Atom type electrotopological state
+naaN,SaaN,0.9971979373314007,Atom type electrotopological state
+DELS,DELS2,0.9970834489364213,Atom type electrotopological state
+ndO,SdO,0.9969499319258736,Atom type electrotopological state
+ETA_Epsilon_4,ETA_dEpsilon_C,0.9968940514381017,Extended topochemical atom
+mindO,maxdO,0.9967026483672787,Atom type electrotopological state
+minssO,maxssO,0.9963004683562591,Atom type electrotopological state
+SHdNH,SdNH,0.9962592064980693,Atom type electrotopological state
+minsOH,maxsOH,0.9962344045238318,Atom type electrotopological state
+ATSp1,ATSp2,0.9961903875850509,Autocorrelation (polarizability)
+nssO,SssO,0.9960369625153994,Atom type electrotopological state
+minsssN,maxsssN,0.9956181544874827,Atom type electrotopological state
+ETA_Alpha,ETA_Eta_R_L,0.9954042513335315,Extended topochemical atom
+nHaaNH,SaaNH,0.9953418258389651,Atom type electrotopological state
+naaNH,SaaNH,0.9953418258389651,Atom type electrotopological state
+nssNH,SssNH,0.9952728356568421,Atom type electrotopological state
+nHssNH,SssNH,0.9952728356568421,Atom type electrotopological state
+minHdsCH,maxHdsCH,0.9946700988377262,Atom type electrotopological state
+VP-6,VP-7,0.9935591859721804,Chi path
+ndsN,SdsN,0.993435795825287,Atom type electrotopological state
+minHssNH,maxHssNH,0.9927980246677907,Atom type electrotopological state
+SHCHnX,maxHCHnX,0.9926958949179641,Atom type electrotopological state
+ETA_EtaP_L,ETA_EtaP_F_L,0.992644333452416,Extended topochemical atom
+SwHBd,maxwHBd,0.9925355414819536,Atom type electrotopological state
+VPC-5,VPC-6,0.9922614299257708,Chi path cluster
+SCH-4,VCH-4,0.9922485141533073,Chi chain
+nHAvin,SHAvin,0.992030121743818,Atom type electrotopological state
+minHsNH2,maxHsNH2,0.9916311200738768,Atom type electrotopological state
+nHBDon,nHBDon_Lipinski,0.991335094101486,Hbond donor count
+nBonds2,nBondsS,0.9911632427936872,Bond count
+minHCHnX,maxHCHnX,0.9911420439865012,Atom type electrotopological state
+SaasN,maxaasN,0.9910766798606664,Atom type electrotopological state
+minsCH3,maxsCH3,0.9909977577858753,Atom type electrotopological state
+minwHBd,maxwHBd,0.9909150003059117,Atom type electrotopological state
+SP-0,SP-1,0.9904156584866554,Chi path
+SP-6,SP-7,0.9899975768398421,Chi path
+ETA_Beta_s,ETA_Eta_R_L,0.9898459795370389,Extended topochemical atom
+nsCH3,SsCH3,0.9895839329118842,Atom type electrotopological state
+SHaaNH,maxHaaNH,0.9895830182432829,Atom type electrotopological state
+VP-0,VP-1,0.9892574008814469,Chi path
+nsI,SsI,0.9890597558914866,Atom type electrotopological state
+nHtCH,minHtCH,0.9889814225391306,Atom type electrotopological state
+nHtCH,SHtCH,0.9889814225391306,Atom type electrotopological state
+ntCH,maxHtCH,0.9889814225391306,Atom type electrotopological state
+ntCH,minHtCH,0.9889814225391306,Atom type electrotopological state
+ntCH,SHtCH,0.9889814225391306,Atom type electrotopological state
+nHtCH,maxHtCH,0.9889814225391306,Atom type electrotopological state
+SaasN,minaasN,0.9889108250753837,Atom type electrotopological state
+ETA_BetaP,ETA_BetaP_ns,0.9887793625924494,Extended topochemical atom
+ATSp2,ATSp3,0.9884651392176339,Autocorrelation (polarizability)
+SP-1,SP-2,0.9879497728114136,Chi path
+maxHsNH2,maxsNH2,0.9875715602454208,Atom type electrotopological state
+ETA_BetaP_ns,ETA_dBetaP,0.9875370763447792,Extended topochemical atom
+SwHBd,SHCHnX,0.9874052288483924,Atom type electrotopological state
+ATSp4,ATSp5,0.9873894504313915,Autocorrelation (polarizability)
+ATSp3,ATSp4,0.9869968715205529,Autocorrelation (polarizability)
+VP-4,VP-5,0.9868289691344124,Chi path
+SP-0,SP-2,0.9867975386323362,Chi path
+ntsC,StsC,0.9864472829122195,Atom type electrotopological state
+mindsCH,maxdsCH,0.9864015673134604,Atom type electrotopological state
+maxwHBd,maxHCHnX,0.986327204868593,Atom type electrotopological state
+SaaNH,maxaaNH,0.9862344588232261,Atom type electrotopological state
+maxHdNH,maxdNH,0.9860940227897611,Atom type electrotopological state
+mindNH,maxHdNH,0.986002986978105,Atom type electrotopological state
+minsNH2,maxHsNH2,0.9857331610619502,Atom type electrotopological state
+SHaaNH,minHaaNH,0.9856731652406322,Atom type electrotopological state
+VP-3,VP-4,0.9856600925496903,Chi path
+minwHBd,minHCHnX,0.9855705223309317,Atom type electrotopological state
+VP-5,VP-6,0.9852454676643737,Chi path
+SaaNH,minaaNH,0.985133198761337,Atom type electrotopological state
+minHdNH,mindNH,0.9846244948625468,Atom type electrotopological state
+minHtCH,mintCH,0.9844673716360306,Atom type electrotopological state
+SHtCH,StCH,0.9844673716360306,Atom type electrotopological state
+SHtCH,mintCH,0.9844673716360306,Atom type electrotopological state
+mintCH,maxHtCH,0.9844673716360306,Atom type electrotopological state
+StCH,maxHtCH,0.9844673716360306,Atom type electrotopological state
+StCH,minHtCH,0.9844673716360306,Atom type electrotopological state
+minHtCH,maxtCH,0.9844673716360306,Atom type electrotopological state
+SHtCH,maxtCH,0.9844673716360306,Atom type electrotopological state
+maxHtCH,maxtCH,0.9844673716360306,Atom type electrotopological state
+minaaaC,maxaaaC,0.9841772370048004,Atom type electrotopological state
+minHsNH2,minsNH2,0.9839947999005393,Atom type electrotopological state
+SP-3,SP-4,0.9839502932179038,Chi path
+minHdNH,maxdNH,0.9839031078624257,Atom type electrotopological state
+naasN,SaasN,0.983567357644979,Atom type electrotopological state
+nBondsS,nBondsS2,0.9834079111449306,Bond count
+VPC-4,VPC-5,0.9832483803317722,Chi path cluster
+nHaaNH,maxaaNH,0.9830846891198679,Atom type electrotopological state
+naaNH,maxaaNH,0.9830846891198679,Atom type electrotopological state
+SP-4,SP-5,0.9825334415755781,Chi path
+SPC-5,SPC-6,0.9822233299009103,Chi path cluster
+ndCH2,minHdCH2,0.9820427163227964,Atom type electrotopological state
+nHdCH2,minHdCH2,0.9820427163227964,Atom type electrotopological state
+nHdCH2,SHdCH2,0.9820427163227964,Atom type electrotopological state
+ndCH2,maxHdCH2,0.9820427163227964,Atom type electrotopological state
+ndCH2,SHdCH2,0.9820427163227964,Atom type electrotopological state
+nHdCH2,maxHdCH2,0.9820427163227964,Atom type electrotopological state
+naaNH,minaaNH,0.9818873969452109,Atom type electrotopological state
+nHaaNH,minaaNH,0.9818873969452109,Atom type electrotopological state
+SP-5,SP-6,0.9815852724407257,Chi path
+SHBa,DELS,0.9815666347776978,Atom type electrotopological state
+naaS,SaaS,0.981509010014823,Atom type electrotopological state
+SHBa,DELS2,0.9812966316727485,Atom type electrotopological state
+ETA_Alpha,ETA_Beta_s,0.981235217004237,Extended topochemical atom
+SP-1,VP-0,0.980555475577757,Chi path
+SHCHnX,maxwHBd,0.9800130151626428,Atom type electrotopological state
+VP-1,VP-2,0.9797992496504858,Chi path
+SP-0,VP-0,0.9796673546839075,Chi path
+SdsN,maxdsN,0.9792045179379549,Atom type electrotopological state
+SwHBd,maxHCHnX,0.9789742439681305,Atom type electrotopological state
+minHsNH2,maxsNH2,0.9786173392725483,Atom type electrotopological state
+SaaS,minaaS,0.9780898194517365,Atom type electrotopological state
+ATSm2,ATSm3,0.9778659442005878,Autocorrelation (mass)
+SdsN,mindsN,0.9774110712304311,Atom type electrotopological state
+minwHBd,maxHCHnX,0.9773560149655698,Atom type electrotopological state
+minHCsatu,maxHCsatu,0.9768425599732429,Atom type electrotopological state
+minHCHnX,maxwHBd,0.9766105849321401,Atom type electrotopological state
+ATSp3,ATSp5,0.9764866379954232,Autocorrelation (polarizability)
+Kier1,Kier2,0.9758952341897139,Kappa shape indices
+nsssN,SsssN,0.9751145877973401,Atom type electrotopological state
+StN,maxtN,0.9742505532240195,Atom type electrotopological state
+nHaaCH,SaaCH,0.9740861141578699,Atom type electrotopological state
+naaCH,SaaCH,0.9740861141578699,Atom type electrotopological state
+StN,mintN,0.9739089032964809,Atom type electrotopological state
+nHother,naaCH,0.9735714039014735,Atom type electrotopological state
+nHaaCH,nHother,0.9735714039014735,Atom type electrotopological state
+maxHBa,gmax,0.9735535562847945,Atom type electrotopological state
+naasN,maxaasN,0.9731304201085187,Atom type electrotopological state
+ATSp2,ATSp5,0.9730006974139191,Autocorrelation (polarizability)
+ETA_Beta,ETA_Eta_F_L,0.9729728443424223,Extended topochemical atom
+ETA_BetaP,ETA_EtaP_F_L,0.9727812396737419,Extended topochemical atom
+ntN,maxtN,0.9726038811877356,Atom type electrotopological state
+ndsN,maxdsN,0.9725557200648666,Atom type electrotopological state
+ATSp2,ATSp4,0.9725280609377669,Autocorrelation (polarizability)
+ntN,mintN,0.972267809682727,Atom type electrotopological state
+SaaO,maxaaO,0.9721535895169047,Atom type electrotopological state
+ATSp1,ATSp3,0.9719780326010113,Autocorrelation (polarizability)
+SHaaCH,SHother,0.9719463806762986,Atom type electrotopological state
+SP-5,SP-7,0.9712477085468599,Chi path
+VP-5,VP-7,0.9712204092494778,Chi path
+ndsN,mindsN,0.9707629295572925,Atom type electrotopological state
+naasN,minaasN,0.9705351873796395,Atom type electrotopological state
+gmin,MAXDN,0.9704895145934521,Atom type electrotopological state
+SP-2,SP-3,0.9704669249456138,Chi path
+SssssC,minssssC,0.9701768907608767,Atom type electrotopological state
+nAtom,nH,0.9699941300958648,Atom count
+nssNH,SHssNH,0.9699561967859918,Atom type electrotopological state
+nHssNH,SHssNH,0.9699561967859918,Atom type electrotopological state
+nsCl,SsCl,0.9696027174400781,Atom type electrotopological state
+Kier2,Kier3,0.9693671023740184,Kappa shape indices
+SaaO,minaaO,0.969142732851651,Atom type electrotopological state
+naaO,maxaaO,0.9684583986567952,Atom type electrotopological state
+nHaaCH,SHaaCH,0.9680988060807983,Atom type electrotopological state
+naaCH,SHaaCH,0.9680988060807983,Atom type electrotopological state
+SHCHnX,minHCHnX,0.9678804475000959,Atom type electrotopological state
+ntsC,maxtsC,0.9678267922377259,Atom type electrotopological state
+minHdCH2,mindCH2,0.9676269076601135,Atom type electrotopological state
+mindCH2,maxHdCH2,0.9676269076601135,Atom type electrotopological state
+minHdCH2,maxdCH2,0.9676269076601135,Atom type electrotopological state
+maxHdCH2,maxdCH2,0.9676269076601135,Atom type electrotopological state
+SHdCH2,SdCH2,0.9676269076601135,Atom type electrotopological state
+SHdCH2,maxdCH2,0.9676269076601135,Atom type electrotopological state
+SHdCH2,mindCH2,0.9676269076601135,Atom type electrotopological state
+SdCH2,minHdCH2,0.9676269076601135,Atom type electrotopological state
+SdCH2,maxHdCH2,0.9676269076601135,Atom type electrotopological state
+MAXDN,MAXDN2,0.9671687086185725,Atom type electrotopological state
+SwHBd,minwHBd,0.9671165753189286,Atom type electrotopological state
+SP-1,VP-1,0.966848175220501,Chi path
+nHBint2,SHBint2,0.9665515499183953,Atom type electrotopological state
+naaNH,SHaaNH,0.9662692811928107,Atom type electrotopological state
+nHaaNH,SHaaNH,0.9662692811928107,Atom type electrotopological state
+naaO,minaaO,0.9654713253806657,Atom type electrotopological state
+ETA_Epsilon_2,ETA_dEpsilon_C,0.965414832056779,Extended topochemical atom
+nBondsS2,nBondsS3,0.9653954134144868,Bond count
+SP-2,VP-0,0.9653228472148891,Chi path
+SssS,minssS,0.9653114760981987,Atom type electrotopological state
+VPC-4,VPC-6,0.9651992560287319,Chi path cluster
+ntsC,mintsC,0.9648044510623107,Atom type electrotopological state
+nHother,SHother,0.9647239335322889,Atom type electrotopological state
+SP-1,SP-3,0.9646446172856395,Chi path
+nHBint8,SHBint8,0.9645504113867323,Atom type electrotopological state
+ndsCH,SdsCH,0.9645494583164446,Atom type electrotopological state
+nHdsCH,SdsCH,0.9645494583164446,Atom type electrotopological state
+ndsCH,SHdsCH,0.9636670917844803,Atom type electrotopological state
+nHdsCH,SHdsCH,0.9636670917844803,Atom type electrotopological state
+nHCsatu,SHCsatu,0.9631691461734927,Atom type electrotopological state
+VP-2,VP-3,0.9629402503562061,Chi path
+VP-4,VP-6,0.9628390510213205,Chi path
+ATSp1,ATSp5,0.9619241955534482,Autocorrelation (polarizability)
+ETA_BetaP,ETA_EtaP_L,0.9614211349151423,Extended topochemical atom
+SP-4,SP-6,0.9603103415603244,Chi path
+SP-3,SP-5,0.9601114949673523,Chi path
+nssS,SssS,0.9599521067298117,Atom type electrotopological state
+ETA_Epsilon_2,ETA_Epsilon_4,0.9592599567972606,Extended topochemical atom
+VP-0,VP-2,0.9592506931444192,Chi path
+ETA_Eta,ETA_Eta_L,0.959203061769366,Extended topochemical atom
+SHssNH,SssNH,0.9591058300245889,Atom type electrotopological state
+nHBint9,SHBint9,0.9589304682443496,Atom type electrotopological state
+nHsOH,SHsOH,0.9581249136157737,Atom type electrotopological state
+nsOH,SHsOH,0.9581249136157737,Atom type electrotopological state
+SPC-4,SPC-5,0.9577921746602694,Chi path cluster
+ETA_Eta_R,ETA_Eta_R_L,0.957781338476431,Extended topochemical atom
+ETA_BetaP_ns,ETA_EtaP_F_L,0.9574564822400103,Extended topochemical atom
+VP-3,VP-5,0.9573077089179763,Chi path
+nBonds2,nBondsS2,0.9570383516187306,Bond count
+nHBAcc2,nHBAcc3,0.9565509007188254,Hbond acceptor count
+SsBr,minsBr,0.9563830687996427,Atom type electrotopological state
+StsC,maxtsC,0.9558968649133469,Atom type electrotopological state
+SHAvin,maxHAvin,0.9549693112531601,Atom type electrotopological state
+ETA_Beta_s,ETA_Eta_R,0.954936592869251,Extended topochemical atom
+SHCHnX,minwHBd,0.9548905664776337,Atom type electrotopological state
+ATSp1,ATSp4,0.9548881785881926,Autocorrelation (polarizability)
+gmax,MAXDP,0.9544459241449678,Atom type electrotopological state
+gmax,MAXDP2,0.9544086228203116,Atom type electrotopological state
+nHBd,SHBd,0.9544012009773005,Atom type electrotopological state
+ATSm3,ATSm4,0.9542370243931996,Autocorrelation (mass)
+SsOm,maxsOm,0.954231517925361,Atom type electrotopological state
+ETA_Alpha,ETA_Eta_R,0.9541748837726267,Extended topochemical atom
+SwHBd,minHCHnX,0.9531501858884861,Atom type electrotopological state
+ETA_BetaP,ETA_dBetaP,0.9529453599972932,Extended topochemical atom
+SP-0,VP-1,0.9527880592362385,Chi path
+ATSm4,ATSm5,0.9523739473958039,Autocorrelation (mass)
+naaNH,maxHaaNH,0.9518649383008492,Atom type electrotopological state
+nHaaNH,maxHaaNH,0.9518649383008492,Atom type electrotopological state
+SsOm,minsOm,0.951308576043318,Atom type electrotopological state
+StsC,mintsC,0.9511495839090535,Atom type electrotopological state
+nsOm,maxsOm,0.9511156889385416,Atom type electrotopological state
+minHsOH,maxHsOH,0.9507689042174169,Atom type electrotopological state
+nwHBd,nHCHnX,0.9503094374763175,Atom type electrotopological state
+ETA_BetaP_ns,ETA_EtaP_L,0.9500386566784096,Extended topochemical atom
+SHAvin,minHAvin,0.9490984601036768,Atom type electrotopological state
+nHCsats,SHCsats,0.948460150334135,Atom type electrotopological state
+nHeavyAtom,nC,0.9482472629655234,Atom count
+nsOm,minsOm,0.9481915990024962,Atom type electrotopological state
+naaNH,minHaaNH,0.948179593962732,Atom type electrotopological state
+nHaaNH,minHaaNH,0.948179593962732,Atom type electrotopological state
+SP-2,VP-1,0.9480104649328688,Chi path
+nAtom,nC,0.9474076343821844,Atom count
+nHother,SHaaCH,0.9469454164376653,Atom type electrotopological state
+ndS,maxdS,0.9464543760800985,Atom type electrotopological state
+ndS,mindS,0.9464543760800985,Atom type electrotopological state
+ndS,SdS,0.9464543760800985,Atom type electrotopological state
+nAtom,nHeavyAtom,0.9458919441594027,Atom count
+SsI,minsI,0.944748258204536,Atom type electrotopological state
+MDEC-24,MDEC-34,0.9446380548619588,Molecular distance edge
+naaaC,SaaaC,0.94447254791652,Atom type electrotopological state
+nBonds,nBonds2,0.9439926033957681,Bond count
+SwHBa,SaaCH,0.9432485653824073,Atom type electrotopological state
+SP-4,SP-7,0.9425291997436024,Chi path
+nHBAcc2,nHBAcc_Lipinski,0.9425203952358918,Hbond acceptor count
+minHBint8,maxHBint8,0.9420765173117959,Atom type electrotopological state
+SP-0,SP-3,0.9419726913156286,Chi path
+nHother,SaaCH,0.9415256430520789,Atom type electrotopological state
+VP-4,VP-7,0.9415093464454851,Chi path
+ETA_Beta_ns,ETA_Eta_F_L,0.9412199545123665,Extended topochemical atom
+naaS,minaaS,0.9411649710164438,Atom type electrotopological state
+ETA_Beta,ETA_Eta_F,0.941107400842694,Extended topochemical atom
+ETA_Eta,ETA_Eta_R,0.9408726125128796,Extended topochemical atom
+SP-3,VP-1,0.9400948732814437,Chi path
+SP-2,SP-4,0.9391251646105224,Chi path
+SHsOH,SsOH,0.9387079732926384,Atom type electrotopological state
+SP-3,VP-0,0.9386668404332092,Chi path
+SHaaNH,SaaNH,0.9382770880922348,Atom type electrotopological state
+ATSc1,ATSc2,0.9358862558185636,Autocorrelation (charge)
+nHAvin,maxHAvin,0.9353523595706531,Atom type electrotopological state
+maxHaaNH,maxaaNH,0.9342608875369437,Atom type electrotopological state
+minHaaNH,minaaNH,0.9341394440853809,Atom type electrotopological state
+minHaaNH,maxaaNH,0.9341118080654541,Atom type electrotopological state
+minaaNH,maxHaaNH,0.9338758204178925,Atom type electrotopological state
+nHaaCH,SHother,0.933407858778716,Atom type electrotopological state
+naaCH,SHother,0.933407858778716,Atom type electrotopological state
+nwHBd,SwHBd,0.932083929831576,Atom type electrotopological state
+nwHBa,SHother,0.9313220836238529,Atom type electrotopological state
+MDEN-11,MDEN-12,0.9294012159860484,Molecular distance edge
+nHAvin,minHAvin,0.9293755351686842,Atom type electrotopological state
+nwHBd,maxwHBd,0.9291234800828305,Atom type electrotopological state
+nHBint5,SHBint5,0.9276032975024922,Atom type electrotopological state
+SHaaNH,maxaaNH,0.9271429984690958,Atom type electrotopological state
+Kier1,Kier3,0.9271313399780897,Kappa shape indices
+ETA_BetaP,ETA_EtaP,0.92657381314734,Extended topochemical atom
+SP-1,SP-4,0.9261791740031737,Chi path
+SHdsCH,maxHdsCH,0.9260220442978312,Atom type electrotopological state
+SHaaNH,minaaNH,0.9257578745697885,Atom type electrotopological state
+ETA_BetaP_ns,ETA_EtaP,0.923967032347829,Extended topochemical atom
+nBondsS,nBondsS3,0.9231224117269416,Bond count
+nHBint6,SHBint6,0.9225142027185279,Atom type electrotopological state
+minHBint3,maxHBint3,0.9224423970568972,Atom type electrotopological state
+nHCHnX,SHCHnX,0.9223556489402539,Atom type electrotopological state
+maxHBa,MAXDP,0.9223217625781781,Atom type electrotopological state
+maxHBa,MAXDP2,0.9220401406433472,Atom type electrotopological state
+ETA_Epsilon_2,ETA_dPsi_A,0.9220004599506179,Extended topochemical atom
+SaaNH,maxHaaNH,0.9216091177456474,Atom type electrotopological state
+SPC-4,SPC-6,0.9215666148923909,Chi path cluster
+ATSm2,ATSm4,0.9214947319446766,Autocorrelation (mass)
+SP-3,SP-6,0.9214088690144991,Chi path
+ETA_EtaP,ETA_EtaP_F_L,0.9211121216081818,Extended topochemical atom
+nHCHnX,maxHCHnX,0.9205880589797183,Atom type electrotopological state
+nwHBd,SHCHnX,0.9202124908367523,Atom type electrotopological state
+SP-3,VP-2,0.9198809429216052,Chi path
+VP-1,VP-3,0.9197445492191754,Chi path
+minHaaCH,maxHaaCH,0.9195854311265742,Atom type electrotopological state
+SP-2,VP-2,0.9195832992908464,Chi path
+ETA_Epsilon_2,ETA_Psi_1,0.9193450732395945,Extended topochemical atom
+maxHssNH,maxssNH,0.9192935639965935,Atom type electrotopological state
+nssCH2,SssCH2,0.9192102333183414,Atom type electrotopological state
+ETA_dBeta,ETA_dBetaP,0.9192034609845003,Extended topochemical atom
+SP-1,VP-2,0.9187741733356602,Chi path
+ETA_EtaP,ETA_EtaP_L,0.9185614673272938,Extended topochemical atom
+SaaNH,minHaaNH,0.918081483243314,Atom type electrotopological state
+ETA_dBetaP,ETA_EtaP_F_L,0.9180592523598781,Extended topochemical atom
+VP-2,VP-4,0.9169551941352735,Chi path
+VP-3,VP-6,0.9166085031553103,Chi path
+ETA_Eta_F,ETA_Eta_F_L,0.9164832439001349,Extended topochemical atom
+nwHBd,maxHCHnX,0.9162945845744354,Atom type electrotopological state
+minHBint2,maxHBint2,0.9159068122859588,Atom type electrotopological state
+minHssNH,maxssNH,0.9152450140363827,Atom type electrotopological state
+ETA_dBetaP,ETA_EtaP_L,0.9149749474100458,Extended topochemical atom
+ETA_Epsilon_2,ETA_Epsilon_5,0.9144866928200635,Extended topochemical atom
+minHssNH,minssNH,0.9142184947365641,Atom type electrotopological state
+nsI,minsI,0.9130506158979399,Atom type electrotopological state
+SdsCH,maxdsCH,0.9126188412489217,Atom type electrotopological state
+minssNH,maxHssNH,0.9122404796694207,Atom type electrotopological state
+ETA_AlphaP,ETA_dAlpha_B,0.9119096868505644,Extended topochemical atom
+ETA_Eta_R,ETA_Eta_F,0.9116260633526766,Extended topochemical atom
+minHaaCH,minHother,0.9115727632604353,Atom type electrotopological state
+VCH-6,VCH-7,0.9115094282341969,Chi chain
+ETA_Eta_B,ETA_Eta_B_RC,0.9113862824768189,Extended topochemical atom
+nwHBa,SHaaCH,0.9110884512755224,Atom type electrotopological state
+nwHBa,nHother,0.9109622619396275,Atom type electrotopological state
+nHBint2,nHssNH,0.9108629848109216,Atom type electrotopological state
+nHBint2,nssNH,0.9108629848109216,Atom type electrotopological state
+ETA_Epsilon_4,ETA_dEpsilon_A,0.9106565507294619,Extended topochemical atom
+nHCsats,nssCH2,0.9106283181311416,Atom type electrotopological state
+maxHsOH,maxsOH,0.9102474378797039,Atom type electrotopological state
+nwHBd,minwHBd,0.9097695010027783,Atom type electrotopological state
+SP-2,SP-5,0.9094985206247735,Chi path
+SP-0,VP-2,0.9094203961779307,Chi path
+nFRing,nFG12Ring,0.9093228867574642,Ring count
+ETA_Beta_s,ETA_Eta_F,0.908817928307839,Extended topochemical atom
+ATSm3,ATSm5,0.9081948494640689,Autocorrelation (mass)
+ETA_Epsilon_1,ETA_Epsilon_4,0.9064859715940746,Extended topochemical atom
+ETA_BetaP_ns,ETA_dBeta,0.9059621484922032,Extended topochemical atom
+ETA_dEpsilon_A,ETA_dEpsilon_C,0.9052204493887236,Extended topochemical atom
+nHdsCH,maxdsCH,0.9051070456042912,Atom type electrotopological state
+ndsCH,maxdsCH,0.9051070456042912,Atom type electrotopological state
+ETA_Epsilon_5,ETA_dEpsilon_C,0.9047868900424288,Extended topochemical atom
+ETA_Epsilon_4,ETA_Epsilon_5,0.9044011627873747,Extended topochemical atom
+nHCHnX,minHCHnX,0.9030857919416097,Atom type electrotopological state
+nHBint8,ndNH,0.9025501404068679,Atom type electrotopological state
+nHBint8,nHdNH,0.9025501404068679,Atom type electrotopological state
+nHBint8,SdNH,0.9022275911668667,Atom type electrotopological state
+nHBint6,nHBint8,0.9017905994211355,Atom type electrotopological state
+nBondsD,nBondsM,0.900324715625844,Bond count
+SaaaC,maxaaaC,0.9000396080911942,Atom type electrotopological state

@@ -1,0 +1,49 @@
+descriptor_category,n_total_descriptors,n_nonconstant_descriptors,n_constant_descriptors
+Atom type electrotopological state,488,270,218
+Extended topochemical atom,43,43,0
+Molecular distance edge,19,19,0
+Ring count,23,18,5
+Chi path,16,16,0
+Atom count,14,13,1
+RingCountDescriptor,11,11,0
+Chi chain,10,10,0
+Carbon types,9,9,0
+Bond count,10,9,1
+Chi cluster,8,8,0
+BCUT,6,6,0
+Molecular linear free energy relation,6,6,0
+Chi path cluster,6,6,0
+Autocorrelation (mass),5,5,0
+Autocorrelation (charge),5,5,0
+Weighted path,5,5,0
+Autocorrelation (polarizability),5,5,0
+Hbond acceptor count,4,4,0
+Kappa shape indices,3,3,0
+ALOGP,3,3,0
+Wiener numbers,2,2,0
+Hbond donor count,2,2,0
+Crippen logP and MR,2,2,0
+Eccentric connectivity index,1,1,0
+Aromatic bonds count,1,1,0
+XLogP,1,1,0
+Acidic group count,1,1,0
+Weight,1,1,0
+Vertex adjacency information (magnitude),1,1,0
+Van der Waals volume,1,1,0
+Topological polar surface area,1,1,0
+Rule of five,1,1,0
+Rotatable bonds count,1,1,0
+Aromatic atoms count,1,1,0
+BPol,1,1,0
+Petitjean number,1,1,0
+FMFDescriptor,1,1,0
+Basic group count,1,1,0
+McGowan volume,1,1,0
+Mannhold LogP,1,1,0
+Longest aliphatic chain,1,1,0
+Largest chain,1,1,0
+Largest Pi system,1,1,0
+HybridizationRatioDescriptor,1,1,0
+APol,1,1,0
+Fragment complexity,1,1,0
+Zagreb index,1,1,0

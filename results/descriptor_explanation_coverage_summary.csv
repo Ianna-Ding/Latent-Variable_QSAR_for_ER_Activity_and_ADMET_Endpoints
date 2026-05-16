@@ -1,0 +1,6 @@
+metric,value
+n_actual_descriptor_columns,729.0
+n_unique_descriptors_in_explanation_file,863.0
+n_matched_descriptors,729.0
+n_unmatched_descriptors,0.0
+coverage_rate,1.0

@@ -1,0 +1,2 @@
+calibration_intercept_observed_on_predicted,calibration_slope_observed_on_predicted,mean_residual,median_residual,rmse_cv,mae_cv,q2_cv
+0.5429481658151374,0.9178599972458193,0.0021407534902470288,0.022083573135353203,0.8555413056106478,0.641078364622972,0.6383586977759292

@@ -1,0 +1,730 @@
+descriptor,descriptor_category,descriptor_category_source,is_constant,is_near_constant,dominant_value_ratio,descriptor_numeric_type,is_integer_like,is_binary_like,is_low_cardinality,is_continuous_like
+nAcid,Acidic group count,Summary.Descriptor type,False,True,0.9017223910840932,integer_low_cardinality,True,False,True,False
+ALogP,ALOGP,Summary.Descriptor type,False,False,0.004559270516717325,continuous_float_like,False,False,False,True
+ALogp2,ALOGP,Summary.Descriptor type,False,False,0.004559270516717325,continuous_float_like,False,False,False,True
+AMR,ALOGP,Summary.Descriptor type,False,False,0.004559270516717325,continuous_float_like,False,False,False,True
+apol,APol,Summary.Descriptor type,False,False,0.010638297872340425,continuous_float_like,False,False,False,True
+naAromAtom,Aromatic atoms count,Summary.Descriptor type,False,False,0.2806484295845998,integer_count_like,True,False,False,False
+nAromBond,Aromatic bonds count,Summary.Descriptor type,False,False,0.32978723404255317,integer_count_like,True,False,False,False
+nAtom,Atom count,Summary.Descriptor type,False,False,0.04305977710233029,integer_count_like,True,False,False,False
+nHeavyAtom,Atom count,Summary.Descriptor type,False,False,0.0795339412360689,integer_count_like,True,False,False,False
+nH,Atom count,Summary.Descriptor type,False,False,0.05369807497467072,integer_count_like,True,False,False,False
+nB,Atom count,Summary.Descriptor type,True,False,1.0,binary_like,True,True,True,False
+nC,Atom count,Summary.Descriptor type,False,False,0.08257345491388045,integer_count_like,True,False,False,False
+nN,Atom count,Summary.Descriptor type,False,True,0.3799392097264438,integer_low_cardinality,True,False,True,False
+nO,Atom count,Summary.Descriptor type,False,True,0.29533941236068895,integer_low_cardinality,True,False,True,False
+nS,Atom count,Summary.Descriptor type,False,True,0.7325227963525835,integer_low_cardinality,True,False,True,False
+nP,Atom count,Summary.Descriptor type,False,True,0.9989868287740629,binary_like,True,True,True,False
+nF,Atom count,Summary.Descriptor type,False,True,0.8348530901722391,integer_low_cardinality,True,False,True,False
+nCl,Atom count,Summary.Descriptor type,False,True,0.9123606889564336,integer_low_cardinality,True,False,True,False
+nBr,Atom count,Summary.Descriptor type,False,True,0.9417426545086119,integer_low_cardinality,True,False,True,False
+nI,Atom count,Summary.Descriptor type,False,True,0.9979736575481256,integer_low_cardinality,True,False,True,False
+nX,Atom count,Summary.Descriptor type,False,True,0.7077001013171226,integer_low_cardinality,True,False,True,False
+ATSc1,Autocorrelation (charge),Summary.Descriptor type,False,False,0.0035460992907801418,continuous_float_like,False,False,False,True
+ATSc2,Autocorrelation (charge),Summary.Descriptor type,False,False,0.0035460992907801418,continuous_float_like,False,False,False,True
+ATSc3,Autocorrelation (charge),Summary.Descriptor type,False,False,0.00303951367781155,continuous_float_like,False,False,False,True
+ATSc4,Autocorrelation (charge),Summary.Descriptor type,False,False,0.00303951367781155,continuous_float_like,False,False,False,True
+ATSc5,Autocorrelation (charge),Summary.Descriptor type,False,False,0.00303951367781155,continuous_float_like,False,False,False,True
+ATSm1,Autocorrelation (mass),Summary.Descriptor type,False,False,0.015197568389057751,continuous_float_like,False,False,False,True
+ATSm2,Autocorrelation (mass),Summary.Descriptor type,False,False,0.01165146909827761,continuous_float_like,False,False,False,True
+ATSm3,Autocorrelation (mass),Summary.Descriptor type,False,False,0.005572441742654508,continuous_float_like,False,False,False,True
+ATSm4,Autocorrelation (mass),Summary.Descriptor type,False,False,0.005065856129685917,continuous_float_like,False,False,False,True
+ATSm5,Autocorrelation (mass),Summary.Descriptor type,False,False,0.005572441742654508,continuous_float_like,False,False,False,True
+ATSp1,Autocorrelation (polarizability),Summary.Descriptor type,False,False,0.00303951367781155,continuous_float_like,False,False,False,True
+ATSp2,Autocorrelation (polarizability),Summary.Descriptor type,False,False,0.00303951367781155,continuous_float_like,False,False,False,True
+ATSp3,Autocorrelation (polarizability),Summary.Descriptor type,False,False,0.00303951367781155,continuous_float_like,False,False,False,True
+ATSp4,Autocorrelation (polarizability),Summary.Descriptor type,False,False,0.00303951367781155,continuous_float_like,False,False,False,True
+ATSp5,Autocorrelation (polarizability),Summary.Descriptor type,False,False,0.00303951367781155,continuous_float_like,False,False,False,True
+nBase,Basic group count,Summary.Descriptor type,False,True,0.6621073961499493,integer_low_cardinality,True,False,True,False
+BCUTw-1l,BCUT,Summary.Descriptor type,False,False,0.25379939209726443,continuous_float_like,False,False,False,True
+BCUTw-1h,BCUT,Summary.Descriptor type,False,False,0.014690982776089158,continuous_float_like,False,False,False,True
+BCUTc-1l,BCUT,Summary.Descriptor type,False,False,0.006585612968591692,continuous_float_like,False,False,False,True
+BCUTc-1h,BCUT,Summary.Descriptor type,False,False,0.00303951367781155,continuous_float_like,False,False,False,True
+BCUTp-1l,BCUT,Summary.Descriptor type,False,False,0.00303951367781155,continuous_float_like,False,False,False,True
+BCUTp-1h,BCUT,Summary.Descriptor type,False,False,0.00303951367781155,continuous_float_like,False,False,False,True
+nBonds,Bond count,Summary.Descriptor type,False,False,0.06788247213779129,integer_count_like,True,False,False,False
+nBonds2,Bond count,Summary.Descriptor type,False,False,0.04508611955420466,integer_count_like,True,False,False,False
+nBondsS,Bond count,Summary.Descriptor type,False,False,0.05521783181357649,integer_count_like,True,False,False,False
+nBondsS2,Bond count,Summary.Descriptor type,False,False,0.044072948328267476,integer_count_like,True,False,False,False
+nBondsS3,Bond count,Summary.Descriptor type,False,False,0.06281661600810537,integer_count_like,True,False,False,False
+nBondsD,Bond count,Summary.Descriptor type,False,True,0.171225937183384,integer_low_cardinality,True,False,True,False
+nBondsD2,Bond count,Summary.Descriptor type,False,True,0.32016210739615,integer_low_cardinality,True,False,True,False
+nBondsT,Bond count,Summary.Descriptor type,False,True,0.9483282674772037,integer_low_cardinality,True,False,True,False
+nBondsQ,Bond count,Summary.Descriptor type,True,False,1.0,binary_like,True,True,True,False
+nBondsM,Bond count,Summary.Descriptor type,False,False,0.1752786220871327,integer_count_like,True,False,False,False
+bpol,BPol,Summary.Descriptor type,False,False,0.013677811550151976,continuous_float_like,False,False,False,True
+C1SP1,Carbon types,Summary.Descriptor type,False,True,0.9513677811550152,integer_low_cardinality,True,False,True,False
+C2SP1,Carbon types,Summary.Descriptor type,False,True,0.9883485309017224,integer_low_cardinality,True,False,True,False
+C1SP2,Carbon types,Summary.Descriptor type,False,True,0.4868287740628166,integer_low_cardinality,True,False,True,False
+C2SP2,Carbon types,Summary.Descriptor type,False,False,0.14944275582573455,integer_count_like,True,False,False,False
+C3SP2,Carbon types,Summary.Descriptor type,False,True,0.21681864235055726,integer_low_cardinality,True,False,True,False
+C1SP3,Carbon types,Summary.Descriptor type,False,True,0.22036474164133737,integer_low_cardinality,True,False,True,False
+C2SP3,Carbon types,Summary.Descriptor type,False,False,0.342451874366768,integer_count_like,True,False,False,False
+C3SP3,Carbon types,Summary.Descriptor type,False,True,0.7639311043566362,integer_low_cardinality,True,False,True,False
+C4SP3,Carbon types,Summary.Descriptor type,False,True,0.8632218844984803,integer_low_cardinality,True,False,True,False
+SCH-3,Chi chain,Summary.Descriptor type,False,True,0.9934143870314083,continuous_float_like,False,False,True,True
+SCH-4,Chi chain,Summary.Descriptor type,False,True,0.9842958459979737,continuous_float_like,False,False,True,True
+SCH-5,Chi chain,Summary.Descriptor type,False,False,0.4265450861195542,continuous_float_like,False,False,False,True
+SCH-6,Chi chain,Summary.Descriptor type,False,False,0.0243161094224924,continuous_float_like,False,False,False,True
+SCH-7,Chi chain,Summary.Descriptor type,False,False,0.016210739614994935,continuous_float_like,False,False,False,True
+VCH-3,Chi chain,Summary.Descriptor type,False,True,0.9934143870314083,continuous_float_like,False,False,True,True
+VCH-4,Chi chain,Summary.Descriptor type,False,True,0.9842958459979737,continuous_float_like,False,False,True,True
+VCH-5,Chi chain,Summary.Descriptor type,False,False,0.4265450861195542,continuous_float_like,False,False,False,True
+VCH-6,Chi chain,Summary.Descriptor type,False,False,0.022289766970618033,continuous_float_like,False,False,False,True
+VCH-7,Chi chain,Summary.Descriptor type,False,False,0.014690982776089158,continuous_float_like,False,False,False,True
+SC-3,Chi cluster,Summary.Descriptor type,False,False,0.014184397163120567,continuous_float_like,False,False,False,True
+SC-4,Chi cluster,Summary.Descriptor type,False,False,0.7223910840932117,continuous_float_like,False,False,False,True
+SC-5,Chi cluster,Summary.Descriptor type,False,False,0.03546099290780142,continuous_float_like,False,False,False,True
+SC-6,Chi cluster,Summary.Descriptor type,False,False,0.7477203647416414,continuous_float_like,False,False,False,True
+VC-3,Chi cluster,Summary.Descriptor type,False,False,0.00911854103343465,continuous_float_like,False,False,False,True
+VC-4,Chi cluster,Summary.Descriptor type,False,False,0.7223910840932117,continuous_float_like,False,False,False,True
+VC-5,Chi cluster,Summary.Descriptor type,False,False,0.025329280648429583,continuous_float_like,False,False,False,True
+VC-6,Chi cluster,Summary.Descriptor type,False,False,0.7477203647416414,continuous_float_like,False,False,False,True
+SPC-4,Chi path cluster,Summary.Descriptor type,False,False,0.00911854103343465,continuous_float_like,False,False,False,True
+SPC-5,Chi path cluster,Summary.Descriptor type,False,False,0.008105369807497468,continuous_float_like,False,False,False,True
+SPC-6,Chi path cluster,Summary.Descriptor type,False,False,0.005572441742654508,continuous_float_like,False,False,False,True
+VPC-4,Chi path cluster,Summary.Descriptor type,False,False,0.0070921985815602835,continuous_float_like,False,False,False,True
+VPC-5,Chi path cluster,Summary.Descriptor type,False,False,0.004559270516717325,continuous_float_like,False,False,False,True
+VPC-6,Chi path cluster,Summary.Descriptor type,False,False,0.004559270516717325,continuous_float_like,False,False,False,True
+SP-0,Chi path,Summary.Descriptor type,False,False,0.02634245187436677,continuous_float_like,False,False,False,True
+SP-1,Chi path,Summary.Descriptor type,False,False,0.01165146909827761,continuous_float_like,False,False,False,True
+SP-2,Chi path,Summary.Descriptor type,False,False,0.005572441742654508,continuous_float_like,False,False,False,True
+SP-3,Chi path,Summary.Descriptor type,False,False,0.005572441742654508,continuous_float_like,False,False,False,True
+SP-4,Chi path,Summary.Descriptor type,False,False,0.005572441742654508,continuous_float_like,False,False,False,True
+SP-5,Chi path,Summary.Descriptor type,False,False,0.005065856129685917,continuous_float_like,False,False,False,True
+SP-6,Chi path,Summary.Descriptor type,False,False,0.005572441742654508,continuous_float_like,False,False,False,True
+SP-7,Chi path,Summary.Descriptor type,False,False,0.005065856129685917,continuous_float_like,False,False,False,True
+VP-0,Chi path,Summary.Descriptor type,False,False,0.0060790273556231,continuous_float_like,False,False,False,True
+VP-1,Chi path,Summary.Descriptor type,False,False,0.004559270516717325,continuous_float_like,False,False,False,True
+VP-2,Chi path,Summary.Descriptor type,False,False,0.0035460992907801418,continuous_float_like,False,False,False,True
+VP-3,Chi path,Summary.Descriptor type,False,False,0.00303951367781155,continuous_float_like,False,False,False,True
+VP-4,Chi path,Summary.Descriptor type,False,False,0.00303951367781155,continuous_float_like,False,False,False,True
+VP-5,Chi path,Summary.Descriptor type,False,False,0.00303951367781155,continuous_float_like,False,False,False,True
+VP-6,Chi path,Summary.Descriptor type,False,False,0.00303951367781155,continuous_float_like,False,False,False,True
+VP-7,Chi path,Summary.Descriptor type,False,False,0.00303951367781155,continuous_float_like,False,False,False,True
+CrippenLogP,Crippen logP and MR,Summary.Descriptor type,False,False,0.004052684903748734,continuous_float_like,False,False,False,True
+CrippenMR,Crippen logP and MR,Summary.Descriptor type,False,False,0.004052684903748734,continuous_float_like,False,False,False,True
+ECCEN,Eccentric connectivity index,Summary.Descriptor type,False,False,0.010638297872340425,integer_count_like,True,False,False,False
+nHBd,Atom type electrotopological state,Summary.Descriptor type,False,True,0.47416413373860183,integer_low_cardinality,True,False,True,False
+nwHBd,Atom type electrotopological state,Summary.Descriptor type,False,True,0.9822695035460993,integer_low_cardinality,True,False,True,False
+nHBa,Atom type electrotopological state,Summary.Descriptor type,False,True,0.19655521783181357,integer_low_cardinality,True,False,True,False
+nwHBa,Atom type electrotopological state,Summary.Descriptor type,False,False,0.12360688956433637,integer_count_like,True,False,False,False
+nHBint2,Atom type electrotopological state,Summary.Descriptor type,False,True,0.7826747720364742,integer_low_cardinality,True,False,True,False
+nHBint3,Atom type electrotopological state,Summary.Descriptor type,False,True,0.7938196555217831,integer_low_cardinality,True,False,True,False
+nHBint4,Atom type electrotopological state,Summary.Descriptor type,False,True,0.5785207700101317,integer_low_cardinality,True,False,True,False
+nHBint5,Atom type electrotopological state,Summary.Descriptor type,False,True,0.6388044579533941,integer_low_cardinality,True,False,True,False
+nHBint6,Atom type electrotopological state,Summary.Descriptor type,False,True,0.538500506585613,integer_low_cardinality,True,False,True,False
+nHBint7,Atom type electrotopological state,Summary.Descriptor type,False,True,0.6514690982776089,integer_low_cardinality,True,False,True,False
+nHBint8,Atom type electrotopological state,Summary.Descriptor type,False,True,0.7330293819655522,integer_low_cardinality,True,False,True,False
+nHBint9,Atom type electrotopological state,Summary.Descriptor type,False,True,0.7548125633232016,integer_low_cardinality,True,False,True,False
+nHBint10,Atom type electrotopological state,Summary.Descriptor type,False,True,0.5015197568389058,integer_low_cardinality,True,False,True,False
+nHsOH,Atom type electrotopological state,Summary.Descriptor type,False,True,0.42907801418439717,integer_low_cardinality,True,False,True,False
+nHdNH,Atom type electrotopological state,Summary.Descriptor type,False,True,0.9924012158054711,integer_low_cardinality,True,False,True,False
+nHsSH,Atom type electrotopological state,Summary.Descriptor type,False,True,0.9994934143870314,binary_like,True,True,True,False
+nHsNH2,Atom type electrotopological state,Summary.Descriptor type,False,True,0.9746707193515705,integer_low_cardinality,True,False,True,False
+nHssNH,Atom type electrotopological state,Summary.Descriptor type,False,True,0.8302938196555217,integer_low_cardinality,True,False,True,False
+nHaaNH,Atom type electrotopological state,Summary.Descriptor type,False,True,0.9275582573454914,integer_low_cardinality,True,False,True,False
+nHsNH3p,Atom type electrotopological state,Summary.Descriptor type,True,False,1.0,binary_like,True,True,True,False
+nHssNH2p,Atom type electrotopological state,Summary.Descriptor type,True,False,1.0,binary_like,True,True,True,False
+nHsssNHp,Atom type electrotopological state,Summary.Descriptor type,True,False,1.0,binary_like,True,True,True,False
+nHtCH,Atom type electrotopological state,Summary.Descriptor type,False,True,0.9913880445795339,binary_like,True,True,True,False
+nHdCH2,Atom type electrotopological state,Summary.Descriptor type,False,True,0.9766970618034447,binary_like,True,True,True,False
+nHdsCH,Atom type electrotopological state,Summary.Descriptor type,False,True,0.7781155015197568,integer_low_cardinality,True,False,True,False
+nHaaCH,Atom type electrotopological state,Summary.Descriptor type,False,False,0.20516717325227962,integer_count_like,True,False,False,False
+nHCHnX,Atom type electrotopological state,Summary.Descriptor type,False,True,0.9802431610942249,integer_low_cardinality,True,False,True,False
+nHCsats,Atom type electrotopological state,Summary.Descriptor type,False,False,0.30749746707193515,integer_count_like,True,False,False,False
+nHCsatu,Atom type electrotopological state,Summary.Descriptor type,False,True,0.6170212765957447,integer_low_cardinality,True,False,True,False
+nHAvin,Atom type electrotopological state,Summary.Descriptor type,False,True,0.8449848024316109,integer_low_cardinality,True,False,True,False
+nHother,Atom type electrotopological state,Summary.Descriptor type,False,False,0.16666666666666666,integer_count_like,True,False,False,False
+nHmisc,Atom type electrotopological state,Summary.Descriptor type,True,False,1.0,binary_like,True,True,True,False
+nsLi,Atom type electrotopological state,Summary.Descriptor type,True,False,1.0,binary_like,True,True,True,False
+nssBe,Atom type electrotopological state,Summary.Descriptor type,True,False,1.0,binary_like,True,True,True,False
+nssssBem,Atom type electrotopological state,Summary.Descriptor type,True,False,1.0,binary_like,True,True,True,False
+nsBH2,Atom type electrotopological state,Summary.Descriptor type,True,False,1.0,binary_like,True,True,True,False
+nssBH,Atom type electrotopological state,Summary.Descriptor type,True,False,1.0,binary_like,True,True,True,False
+nsssB,Atom type electrotopological state,Summary.Descriptor type,True,False,1.0,binary_like,True,True,True,False
+nssssBm,Atom type electrotopological state,Summary.Descriptor type,True,False,1.0,binary_like,True,True,True,False
+nsCH3,Atom type electrotopological state,Summary.Descriptor type,False,True,0.36423505572441744,integer_low_cardinality,True,False,True,False
+ndCH2,Atom type electrotopological state,Summary.Descriptor type,False,True,0.9766970618034447,binary_like,True,True,True,False
+nssCH2,Atom type electrotopological state,Summary.Descriptor type,False,False,0.2548125633232016,integer_count_like,True,False,False,False
+ntCH,Atom type electrotopological state,Summary.Descriptor type,False,True,0.9913880445795339,binary_like,True,True,True,False
+ndsCH,Atom type electrotopological state,Summary.Descriptor type,False,True,0.7781155015197568,integer_low_cardinality,True,False,True,False
+naaCH,Atom type electrotopological state,Summary.Descriptor type,False,False,0.20516717325227962,integer_count_like,True,False,False,False
+nsssCH,Atom type electrotopological state,Summary.Descriptor type,False,True,0.6063829787234043,integer_low_cardinality,True,False,True,False
+nddC,Atom type electrotopological state,Summary.Descriptor type,True,False,1.0,binary_like,True,True,True,False
+ntsC,Atom type electrotopological state,Summary.Descriptor type,False,True,0.9483282674772037,integer_low_cardinality,True,False,True,False
+ndssC,Atom type electrotopological state,Summary.Descriptor type,False,True,0.38247213779128675,integer_low_cardinality,True,False,True,False
+naasC,Atom type electrotopological state,Summary.Descriptor type,False,True,0.24113475177304963,integer_low_cardinality,True,False,True,False
+naaaC,Atom type electrotopological state,Summary.Descriptor type,False,True,0.6448834853090172,integer_low_cardinality,True,False,True,False
+nssssC,Atom type electrotopological state,Summary.Descriptor type,False,True,0.779128672745694,integer_low_cardinality,True,False,True,False
+nsNH3p,Atom type electrotopological state,Summary.Descriptor type,True,False,1.0,binary_like,True,True,True,False
+nsNH2,Atom type electrotopological state,Summary.Descriptor type,False,True,0.9746707193515705,integer_low_cardinality,True,False,True,False
+nssNH2p,Atom type electrotopological state,Summary.Descriptor type,True,False,1.0,binary_like,True,True,True,False
+ndNH,Atom type electrotopological state,Summary.Descriptor type,False,True,0.9924012158054711,integer_low_cardinality,True,False,True,False
+nssNH,Atom type electrotopological state,Summary.Descriptor type,False,True,0.8302938196555217,integer_low_cardinality,True,False,True,False
+naaNH,Atom type electrotopological state,Summary.Descriptor type,False,True,0.9275582573454914,integer_low_cardinality,True,False,True,False
+ntN,Atom type electrotopological state,Summary.Descriptor type,False,True,0.9599797365754813,integer_low_cardinality,True,False,True,False
+nsssNHp,Atom type electrotopological state,Summary.Descriptor type,True,False,1.0,binary_like,True,True,True,False
+ndsN,Atom type electrotopological state,Summary.Descriptor type,False,True,0.9371833839918946,integer_low_cardinality,True,False,True,False
+naaN,Atom type electrotopological state,Summary.Descriptor type,False,True,0.7583586626139818,integer_low_cardinality,True,False,True,False
+nsssN,Atom type electrotopological state,Summary.Descriptor type,False,True,0.5536980749746707,integer_low_cardinality,True,False,True,False
+nddsN,Atom type electrotopological state,Summary.Descriptor type,True,False,1.0,binary_like,True,True,True,False
+naasN,Atom type electrotopological state,Summary.Descriptor type,False,True,0.903242147922999,integer_low_cardinality,True,False,True,False
+nssssNp,Atom type electrotopological state,Summary.Descriptor type,False,True,0.9994934143870314,binary_like,True,True,True,False
+nsOH,Atom type electrotopological state,Summary.Descriptor type,False,True,0.42907801418439717,integer_low_cardinality,True,False,True,False
+ndO,Atom type electrotopological state,Summary.Descriptor type,False,True,0.46808510638297873,integer_low_cardinality,True,False,True,False
+nssO,Atom type electrotopological state,Summary.Descriptor type,False,True,0.47315096251266464,integer_low_cardinality,True,False,True,False
+naaO,Atom type electrotopological state,Summary.Descriptor type,False,True,0.8556231003039514,integer_low_cardinality,True,False,True,False
+naOm,Atom type electrotopological state,Summary.Descriptor type,True,False,1.0,binary_like,True,True,True,False
+nsOm,Atom type electrotopological state,Summary.Descriptor type,False,True,0.9908814589665653,integer_low_cardinality,True,False,True,False
+nsF,Atom type electrotopological state,Summary.Descriptor type,False,True,0.8348530901722391,integer_low_cardinality,True,False,True,False
+nsSiH3,Atom type electrotopological state,Summary.Descriptor type,True,False,1.0,binary_like,True,True,True,False
+nssSiH2,Atom type electrotopological state,Summary.Descriptor type,True,False,1.0,binary_like,True,True,True,False
+nsssSiH,Atom type electrotopological state,Summary.Descriptor type,True,False,1.0,binary_like,True,True,True,False
+nssssSi,Atom type electrotopological state,Summary.Descriptor type,True,False,1.0,binary_like,True,True,True,False
+nsPH2,Atom type electrotopological state,Summary.Descriptor type,True,False,1.0,binary_like,True,True,True,False
+nssPH,Atom type electrotopological state,Summary.Descriptor type,True,False,1.0,binary_like,True,True,True,False
+nsssP,Atom type electrotopological state,Summary.Descriptor type,True,False,1.0,binary_like,True,True,True,False
+ndsssP,Atom type electrotopological state,Summary.Descriptor type,False,True,0.9989868287740629,binary_like,True,True,True,False
+nddsP,Atom type electrotopological state,Summary.Descriptor type,True,False,1.0,binary_like,True,True,True,False
+nsssssP,Atom type electrotopological state,Summary.Descriptor type,True,False,1.0,binary_like,True,True,True,False
+nsSH,Atom type electrotopological state,Summary.Descriptor type,False,True,0.9994934143870314,binary_like,True,True,True,False
+ndS,Atom type electrotopological state,Summary.Descriptor type,False,True,0.9832826747720365,binary_like,True,True,True,False
+nssS,Atom type electrotopological state,Summary.Descriptor type,False,True,0.8880445795339412,integer_low_cardinality,True,False,True,False
+naaS,Atom type electrotopological state,Summary.Descriptor type,False,True,0.9052684903748733,integer_low_cardinality,True,False,True,False
+ndssS,Atom type electrotopological state,Summary.Descriptor type,False,True,0.9994934143870314,binary_like,True,True,True,False
+nddssS,Atom type electrotopological state,Summary.Descriptor type,False,True,0.9376899696048632,binary_like,True,True,True,False
+nssssssS,Atom type electrotopological state,Summary.Descriptor type,True,False,1.0,binary_like,True,True,True,False
+nSm,Atom type electrotopological state,Summary.Descriptor type,True,False,1.0,binary_like,True,True,True,False
+nsCl,Atom type electrotopological state,Summary.Descriptor type,False,True,0.9123606889564336,integer_low_cardinality,True,False,True,False
+nsGeH3,Atom type electrotopological state,Summary.Descriptor type,True,False,1.0,binary_like,True,True,True,False
+nssGeH2,Atom type electrotopological state,Summary.Descriptor type,True,False,1.0,binary_like,True,True,True,False
+nsssGeH,Atom type electrotopological state,Summary.Descriptor type,True,False,1.0,binary_like,True,True,True,False
+nssssGe,Atom type electrotopological state,Summary.Descriptor type,True,False,1.0,binary_like,True,True,True,False
+nsAsH2,Atom type electrotopological state,Summary.Descriptor type,True,False,1.0,binary_like,True,True,True,False
+nssAsH,Atom type electrotopological state,Summary.Descriptor type,True,False,1.0,binary_like,True,True,True,False
+nsssAs,Atom type electrotopological state,Summary.Descriptor type,True,False,1.0,binary_like,True,True,True,False
+ndsssAs,Atom type electrotopological state,Summary.Descriptor type,True,False,1.0,binary_like,True,True,True,False
+nddsAs,Atom type electrotopological state,Summary.Descriptor type,True,False,1.0,binary_like,True,True,True,False
+nsssssAs,Atom type electrotopological state,Summary.Descriptor type,True,False,1.0,binary_like,True,True,True,False
+nsSeH,Atom type electrotopological state,Summary.Descriptor type,True,False,1.0,binary_like,True,True,True,False
+ndSe,Atom type electrotopological state,Summary.Descriptor type,True,False,1.0,binary_like,True,True,True,False
+nssSe,Atom type electrotopological state,Summary.Descriptor type,True,False,1.0,binary_like,True,True,True,False
+naaSe,Atom type electrotopological state,Summary.Descriptor type,True,False,1.0,binary_like,True,True,True,False
+ndssSe,Atom type electrotopological state,Summary.Descriptor type,True,False,1.0,binary_like,True,True,True,False
+nssssssSe,Atom type electrotopological state,Summary.Descriptor type,True,False,1.0,binary_like,True,True,True,False
+nddssSe,Atom type electrotopological state,Summary.Descriptor type,True,False,1.0,binary_like,True,True,True,False
+nsBr,Atom type electrotopological state,Summary.Descriptor type,False,True,0.9417426545086119,integer_low_cardinality,True,False,True,False
+nsSnH3,Atom type electrotopological state,Summary.Descriptor type,True,False,1.0,binary_like,True,True,True,False
+nssSnH2,Atom type electrotopological state,Summary.Descriptor type,True,False,1.0,binary_like,True,True,True,False
+nsssSnH,Atom type electrotopological state,Summary.Descriptor type,True,False,1.0,binary_like,True,True,True,False
+nssssSn,Atom type electrotopological state,Summary.Descriptor type,True,False,1.0,binary_like,True,True,True,False
+nsI,Atom type electrotopological state,Summary.Descriptor type,False,True,0.9979736575481256,integer_low_cardinality,True,False,True,False
+nsPbH3,Atom type electrotopological state,Summary.Descriptor type,True,False,1.0,binary_like,True,True,True,False
+nssPbH2,Atom type electrotopological state,Summary.Descriptor type,True,False,1.0,binary_like,True,True,True,False
+nsssPbH,Atom type electrotopological state,Summary.Descriptor type,True,False,1.0,binary_like,True,True,True,False
+nssssPb,Atom type electrotopological state,Summary.Descriptor type,True,False,1.0,binary_like,True,True,True,False
+SHBd,Atom type electrotopological state,Summary.Descriptor type,False,False,0.06332320162107397,continuous_float_like,False,False,False,True
+SwHBd,Atom type electrotopological state,Summary.Descriptor type,False,True,0.9822695035460993,continuous_float_like,False,False,False,True
+SHBa,Atom type electrotopological state,Summary.Descriptor type,False,False,0.00303951367781155,continuous_float_like,False,False,False,True
+SwHBa,Atom type electrotopological state,Summary.Descriptor type,False,False,0.00303951367781155,continuous_float_like,False,False,False,True
+SHBint2,Atom type electrotopological state,Summary.Descriptor type,False,False,0.7826747720364742,continuous_float_like,False,False,False,True
+SHBint3,Atom type electrotopological state,Summary.Descriptor type,False,False,0.7938196555217831,continuous_float_like,False,False,False,True
+SHBint4,Atom type electrotopological state,Summary.Descriptor type,False,False,0.5785207700101317,continuous_float_like,False,False,False,True
+SHBint5,Atom type electrotopological state,Summary.Descriptor type,False,False,0.6388044579533941,continuous_float_like,False,False,False,True
+SHBint6,Atom type electrotopological state,Summary.Descriptor type,False,False,0.538500506585613,continuous_float_like,False,False,False,True
+SHBint7,Atom type electrotopological state,Summary.Descriptor type,False,False,0.6514690982776089,continuous_float_like,False,False,False,True
+SHBint8,Atom type electrotopological state,Summary.Descriptor type,False,False,0.7330293819655522,continuous_float_like,False,False,False,True
+SHBint9,Atom type electrotopological state,Summary.Descriptor type,False,False,0.7548125633232016,continuous_float_like,False,False,False,True
+SHBint10,Atom type electrotopological state,Summary.Descriptor type,False,False,0.5015197568389058,continuous_float_like,False,False,False,True
+SHsOH,Atom type electrotopological state,Summary.Descriptor type,False,False,0.21580547112462006,continuous_float_like,False,False,False,True
+SHdNH,Atom type electrotopological state,Summary.Descriptor type,False,True,0.9924012158054711,continuous_float_like,False,False,True,True
+SHsSH,Atom type electrotopological state,Summary.Descriptor type,False,True,0.9994934143870314,continuous_float_like,False,False,True,True
+SHsNH2,Atom type electrotopological state,Summary.Descriptor type,False,True,0.9746707193515705,continuous_float_like,False,False,False,True
+SHssNH,Atom type electrotopological state,Summary.Descriptor type,False,False,0.8302938196555217,continuous_float_like,False,False,False,True
+SHaaNH,Atom type electrotopological state,Summary.Descriptor type,False,False,0.9275582573454914,continuous_float_like,False,False,False,True
+SHsNH3p,Atom type electrotopological state,Summary.Descriptor type,True,False,1.0,binary_like,True,True,True,False
+SHssNH2p,Atom type electrotopological state,Summary.Descriptor type,True,False,1.0,binary_like,True,True,True,False
+SHsssNHp,Atom type electrotopological state,Summary.Descriptor type,True,False,1.0,binary_like,True,True,True,False
+SHtCH,Atom type electrotopological state,Summary.Descriptor type,False,True,0.9913880445795339,continuous_float_like,False,False,True,True
+SHdCH2,Atom type electrotopological state,Summary.Descriptor type,False,True,0.9766970618034447,continuous_float_like,False,False,False,True
+SHdsCH,Atom type electrotopological state,Summary.Descriptor type,False,False,0.7781155015197568,continuous_float_like,False,False,False,True
+SHaaCH,Atom type electrotopological state,Summary.Descriptor type,False,False,0.028875379939209727,continuous_float_like,False,False,False,True
+SHCHnX,Atom type electrotopological state,Summary.Descriptor type,False,True,0.9802431610942249,continuous_float_like,False,False,False,True
+SHCsats,Atom type electrotopological state,Summary.Descriptor type,False,False,0.30749746707193515,continuous_float_like,False,False,False,True
+SHCsatu,Atom type electrotopological state,Summary.Descriptor type,False,False,0.6170212765957447,continuous_float_like,False,False,False,True
+SHAvin,Atom type electrotopological state,Summary.Descriptor type,False,False,0.8449848024316109,continuous_float_like,False,False,False,True
+SHother,Atom type electrotopological state,Summary.Descriptor type,False,False,0.0060790273556231,continuous_float_like,False,False,False,True
+SHmisc,Atom type electrotopological state,Summary.Descriptor type,True,False,1.0,binary_like,True,True,True,False
+SsLi,Atom type electrotopological state,Summary.Descriptor type,True,False,1.0,binary_like,True,True,True,False
+SssBe,Atom type electrotopological state,Summary.Descriptor type,True,False,1.0,binary_like,True,True,True,False
+SssssBem,Atom type electrotopological state,Summary.Descriptor type,True,False,1.0,binary_like,True,True,True,False
+SsBH2,Atom type electrotopological state,Summary.Descriptor type,True,False,1.0,binary_like,True,True,True,False
+SssBH,Atom type electrotopological state,Summary.Descriptor type,True,False,1.0,binary_like,True,True,True,False
+SsssB,Atom type electrotopological state,Summary.Descriptor type,True,False,1.0,binary_like,True,True,True,False
+SssssBm,Atom type electrotopological state,Summary.Descriptor type,True,False,1.0,binary_like,True,True,True,False
+SsCH3,Atom type electrotopological state,Summary.Descriptor type,False,False,0.36423505572441744,continuous_float_like,False,False,False,True
+SdCH2,Atom type electrotopological state,Summary.Descriptor type,False,True,0.9766970618034447,continuous_float_like,False,False,False,True
+SssCH2,Atom type electrotopological state,Summary.Descriptor type,False,False,0.2548125633232016,continuous_float_like,False,False,False,True
+StCH,Atom type electrotopological state,Summary.Descriptor type,False,True,0.9913880445795339,continuous_float_like,False,False,True,True
+SdsCH,Atom type electrotopological state,Summary.Descriptor type,False,False,0.7781155015197568,continuous_float_like,False,False,False,True
+SaaCH,Atom type electrotopological state,Summary.Descriptor type,False,False,0.028875379939209727,continuous_float_like,False,False,False,True
+SsssCH,Atom type electrotopological state,Summary.Descriptor type,False,False,0.6063829787234043,continuous_float_like,False,False,False,True
+SddC,Atom type electrotopological state,Summary.Descriptor type,True,False,1.0,binary_like,True,True,True,False
+StsC,Atom type electrotopological state,Summary.Descriptor type,False,False,0.9483282674772037,continuous_float_like,False,False,False,True
+SdssC,Atom type electrotopological state,Summary.Descriptor type,False,False,0.38247213779128675,continuous_float_like,False,False,False,True
+SaasC,Atom type electrotopological state,Summary.Descriptor type,False,False,0.02684903748733536,continuous_float_like,False,False,False,True
+SaaaC,Atom type electrotopological state,Summary.Descriptor type,False,False,0.6448834853090172,continuous_float_like,False,False,False,True
+SssssC,Atom type electrotopological state,Summary.Descriptor type,False,False,0.779128672745694,continuous_float_like,False,False,False,True
+SsNH3p,Atom type electrotopological state,Summary.Descriptor type,True,False,1.0,binary_like,True,True,True,False
+SsNH2,Atom type electrotopological state,Summary.Descriptor type,False,True,0.9746707193515705,continuous_float_like,False,False,False,True
+SssNH2p,Atom type electrotopological state,Summary.Descriptor type,True,False,1.0,binary_like,True,True,True,False
+SdNH,Atom type electrotopological state,Summary.Descriptor type,False,True,0.9924012158054711,continuous_float_like,False,False,True,True
+SssNH,Atom type electrotopological state,Summary.Descriptor type,False,False,0.8302938196555217,continuous_float_like,False,False,False,True
+SaaNH,Atom type electrotopological state,Summary.Descriptor type,False,False,0.9275582573454914,continuous_float_like,False,False,False,True
+StN,Atom type electrotopological state,Summary.Descriptor type,False,True,0.9599797365754813,continuous_float_like,False,False,False,True
+SsssNHp,Atom type electrotopological state,Summary.Descriptor type,True,False,1.0,binary_like,True,True,True,False
+SdsN,Atom type electrotopological state,Summary.Descriptor type,False,False,0.9371833839918946,continuous_float_like,False,False,False,True
+SaaN,Atom type electrotopological state,Summary.Descriptor type,False,False,0.7583586626139818,continuous_float_like,False,False,False,True
+SsssN,Atom type electrotopological state,Summary.Descriptor type,False,False,0.5536980749746707,continuous_float_like,False,False,False,True
+SddsN,Atom type electrotopological state,Summary.Descriptor type,True,False,1.0,binary_like,True,True,True,False
+SaasN,Atom type electrotopological state,Summary.Descriptor type,False,False,0.903242147922999,continuous_float_like,False,False,False,True
+SssssNp,Atom type electrotopological state,Summary.Descriptor type,False,True,0.9994934143870314,continuous_float_like,False,False,True,True
+SsOH,Atom type electrotopological state,Summary.Descriptor type,False,False,0.21580547112462006,continuous_float_like,False,False,False,True
+SdO,Atom type electrotopological state,Summary.Descriptor type,False,False,0.46808510638297873,continuous_float_like,False,False,False,True
+SssO,Atom type electrotopological state,Summary.Descriptor type,False,False,0.47315096251266464,continuous_float_like,False,False,False,True
+SaaO,Atom type electrotopological state,Summary.Descriptor type,False,False,0.8556231003039514,continuous_float_like,False,False,False,True
+SaOm,Atom type electrotopological state,Summary.Descriptor type,True,False,1.0,binary_like,True,True,True,False
+SsOm,Atom type electrotopological state,Summary.Descriptor type,False,True,0.9908814589665653,continuous_float_like,False,False,True,True
+SsF,Atom type electrotopological state,Summary.Descriptor type,False,False,0.8348530901722391,continuous_float_like,False,False,False,True
+SsSiH3,Atom type electrotopological state,Summary.Descriptor type,True,False,1.0,binary_like,True,True,True,False
+SssSiH2,Atom type electrotopological state,Summary.Descriptor type,True,False,1.0,binary_like,True,True,True,False
+SsssSiH,Atom type electrotopological state,Summary.Descriptor type,True,False,1.0,binary_like,True,True,True,False
+SssssSi,Atom type electrotopological state,Summary.Descriptor type,True,False,1.0,binary_like,True,True,True,False
+SsPH2,Atom type electrotopological state,Summary.Descriptor type,True,False,1.0,binary_like,True,True,True,False
+SssPH,Atom type electrotopological state,Summary.Descriptor type,True,False,1.0,binary_like,True,True,True,False
+SsssP,Atom type electrotopological state,Summary.Descriptor type,True,False,1.0,binary_like,True,True,True,False
+SdsssP,Atom type electrotopological state,Summary.Descriptor type,False,True,0.9989868287740629,continuous_float_like,False,False,True,True
+SddsP,Atom type electrotopological state,Summary.Descriptor type,True,False,1.0,binary_like,True,True,True,False
+SsssssP,Atom type electrotopological state,Summary.Descriptor type,True,False,1.0,binary_like,True,True,True,False
+SsSH,Atom type electrotopological state,Summary.Descriptor type,False,True,0.9994934143870314,continuous_float_like,False,False,True,True
+SdS,Atom type electrotopological state,Summary.Descriptor type,False,True,0.9832826747720365,continuous_float_like,False,False,False,True
+SssS,Atom type electrotopological state,Summary.Descriptor type,False,False,0.8880445795339412,continuous_float_like,False,False,False,True
+SaaS,Atom type electrotopological state,Summary.Descriptor type,False,False,0.9052684903748733,continuous_float_like,False,False,False,True
+SdssS,Atom type electrotopological state,Summary.Descriptor type,False,True,0.9994934143870314,continuous_float_like,False,False,True,True
+SddssS,Atom type electrotopological state,Summary.Descriptor type,False,False,0.9376899696048632,continuous_float_like,False,False,False,True
+SssssssS,Atom type electrotopological state,Summary.Descriptor type,True,False,1.0,binary_like,True,True,True,False
+SSm,Atom type electrotopological state,Summary.Descriptor type,True,False,1.0,binary_like,True,True,True,False
+SsCl,Atom type electrotopological state,Summary.Descriptor type,False,False,0.9123606889564336,continuous_float_like,False,False,False,True
+SsGeH3,Atom type electrotopological state,Summary.Descriptor type,True,False,1.0,binary_like,True,True,True,False
+SssGeH2,Atom type electrotopological state,Summary.Descriptor type,True,False,1.0,binary_like,True,True,True,False
+SsssGeH,Atom type electrotopological state,Summary.Descriptor type,True,False,1.0,binary_like,True,True,True,False
+SssssGe,Atom type electrotopological state,Summary.Descriptor type,True,False,1.0,binary_like,True,True,True,False
+SsAsH2,Atom type electrotopological state,Summary.Descriptor type,True,False,1.0,binary_like,True,True,True,False
+SssAsH,Atom type electrotopological state,Summary.Descriptor type,True,False,1.0,binary_like,True,True,True,False
+SsssAs,Atom type electrotopological state,Summary.Descriptor type,True,False,1.0,binary_like,True,True,True,False
+SdsssAs,Atom type electrotopological state,Summary.Descriptor type,True,False,1.0,binary_like,True,True,True,False
+SddsAs,Atom type electrotopological state,Summary.Descriptor type,True,False,1.0,binary_like,True,True,True,False
+SsssssAs,Atom type electrotopological state,Summary.Descriptor type,True,False,1.0,binary_like,True,True,True,False
+SsSeH,Atom type electrotopological state,Summary.Descriptor type,True,False,1.0,binary_like,True,True,True,False
+SdSe,Atom type electrotopological state,Summary.Descriptor type,True,False,1.0,binary_like,True,True,True,False
+SssSe,Atom type electrotopological state,Summary.Descriptor type,True,False,1.0,binary_like,True,True,True,False
+SaaSe,Atom type electrotopological state,Summary.Descriptor type,True,False,1.0,binary_like,True,True,True,False
+SdssSe,Atom type electrotopological state,Summary.Descriptor type,True,False,1.0,binary_like,True,True,True,False
+SssssssSe,Atom type electrotopological state,Summary.Descriptor type,True,False,1.0,binary_like,True,True,True,False
+SddssSe,Atom type electrotopological state,Summary.Descriptor type,True,False,1.0,binary_like,True,True,True,False
+SsBr,Atom type electrotopological state,Summary.Descriptor type,False,False,0.9417426545086119,continuous_float_like,False,False,False,True
+SsSnH3,Atom type electrotopological state,Summary.Descriptor type,True,False,1.0,binary_like,True,True,True,False
+SssSnH2,Atom type electrotopological state,Summary.Descriptor type,True,False,1.0,binary_like,True,True,True,False
+SsssSnH,Atom type electrotopological state,Summary.Descriptor type,True,False,1.0,binary_like,True,True,True,False
+SssssSn,Atom type electrotopological state,Summary.Descriptor type,True,False,1.0,binary_like,True,True,True,False
+SsI,Atom type electrotopological state,Summary.Descriptor type,False,True,0.9979736575481256,continuous_float_like,False,False,True,True
+SsPbH3,Atom type electrotopological state,Summary.Descriptor type,True,False,1.0,binary_like,True,True,True,False
+SssPbH2,Atom type electrotopological state,Summary.Descriptor type,True,False,1.0,binary_like,True,True,True,False
+SsssPbH,Atom type electrotopological state,Summary.Descriptor type,True,False,1.0,binary_like,True,True,True,False
+SssssPb,Atom type electrotopological state,Summary.Descriptor type,True,False,1.0,binary_like,True,True,True,False
+minHBd,Atom type electrotopological state,Summary.Descriptor type,False,False,0.06332320162107397,continuous_float_like,False,False,False,True
+minwHBd,Atom type electrotopological state,Summary.Descriptor type,False,True,0.9822695035460993,continuous_float_like,False,False,False,True
+minHBa,Atom type electrotopological state,Summary.Descriptor type,False,False,0.0035460992907801418,continuous_float_like,False,False,False,True
+minwHBa,Atom type electrotopological state,Summary.Descriptor type,False,False,0.00303951367781155,continuous_float_like,False,False,False,True
+minHBint2,Atom type electrotopological state,Summary.Descriptor type,False,False,0.7826747720364742,continuous_float_like,False,False,False,True
+minHBint3,Atom type electrotopological state,Summary.Descriptor type,False,False,0.7938196555217831,continuous_float_like,False,False,False,True
+minHBint4,Atom type electrotopological state,Summary.Descriptor type,False,False,0.5785207700101317,continuous_float_like,False,False,False,True
+minHBint5,Atom type electrotopological state,Summary.Descriptor type,False,False,0.6388044579533941,continuous_float_like,False,False,False,True
+minHBint6,Atom type electrotopological state,Summary.Descriptor type,False,False,0.538500506585613,continuous_float_like,False,False,False,True
+minHBint7,Atom type electrotopological state,Summary.Descriptor type,False,False,0.6514690982776089,continuous_float_like,False,False,False,True
+minHBint8,Atom type electrotopological state,Summary.Descriptor type,False,False,0.7330293819655522,continuous_float_like,False,False,False,True
+minHBint9,Atom type electrotopological state,Summary.Descriptor type,False,False,0.7548125633232016,continuous_float_like,False,False,False,True
+minHBint10,Atom type electrotopological state,Summary.Descriptor type,False,False,0.5015197568389058,continuous_float_like,False,False,False,True
+minHsOH,Atom type electrotopological state,Summary.Descriptor type,False,False,0.21580547112462006,continuous_float_like,False,False,False,True
+minHdNH,Atom type electrotopological state,Summary.Descriptor type,False,True,0.9924012158054711,continuous_float_like,False,False,True,True
+minHsSH,Atom type electrotopological state,Summary.Descriptor type,False,True,0.9994934143870314,continuous_float_like,False,False,True,True
+minHsNH2,Atom type electrotopological state,Summary.Descriptor type,False,True,0.9746707193515705,continuous_float_like,False,False,False,True
+minHssNH,Atom type electrotopological state,Summary.Descriptor type,False,False,0.8302938196555217,continuous_float_like,False,False,False,True
+minHaaNH,Atom type electrotopological state,Summary.Descriptor type,False,False,0.9275582573454914,continuous_float_like,False,False,False,True
+minHsNH3p,Atom type electrotopological state,Summary.Descriptor type,True,False,1.0,binary_like,True,True,True,False
+minHssNH2p,Atom type electrotopological state,Summary.Descriptor type,True,False,1.0,binary_like,True,True,True,False
+minHsssNHp,Atom type electrotopological state,Summary.Descriptor type,True,False,1.0,binary_like,True,True,True,False
+minHtCH,Atom type electrotopological state,Summary.Descriptor type,False,True,0.9913880445795339,continuous_float_like,False,False,True,True
+minHdCH2,Atom type electrotopological state,Summary.Descriptor type,False,True,0.9766970618034447,continuous_float_like,False,False,False,True
+minHdsCH,Atom type electrotopological state,Summary.Descriptor type,False,False,0.7781155015197568,continuous_float_like,False,False,False,True
+minHaaCH,Atom type electrotopological state,Summary.Descriptor type,False,False,0.028875379939209727,continuous_float_like,False,False,False,True
+minHCHnX,Atom type electrotopological state,Summary.Descriptor type,False,True,0.9802431610942249,continuous_float_like,False,False,False,True
+minHCsats,Atom type electrotopological state,Summary.Descriptor type,False,False,0.30749746707193515,continuous_float_like,False,False,False,True
+minHCsatu,Atom type electrotopological state,Summary.Descriptor type,False,False,0.6170212765957447,continuous_float_like,False,False,False,True
+minHAvin,Atom type electrotopological state,Summary.Descriptor type,False,False,0.8449848024316109,continuous_float_like,False,False,False,True
+minHother,Atom type electrotopological state,Summary.Descriptor type,False,False,0.0060790273556231,continuous_float_like,False,False,False,True
+minHmisc,Atom type electrotopological state,Summary.Descriptor type,True,False,1.0,binary_like,True,True,True,False
+minsLi,Atom type electrotopological state,Summary.Descriptor type,True,False,1.0,binary_like,True,True,True,False
+minssBe,Atom type electrotopological state,Summary.Descriptor type,True,False,1.0,binary_like,True,True,True,False
+minssssBem,Atom type electrotopological state,Summary.Descriptor type,True,False,1.0,binary_like,True,True,True,False
+minsBH2,Atom type electrotopological state,Summary.Descriptor type,True,False,1.0,binary_like,True,True,True,False
+minssBH,Atom type electrotopological state,Summary.Descriptor type,True,False,1.0,binary_like,True,True,True,False
+minsssB,Atom type electrotopological state,Summary.Descriptor type,True,False,1.0,binary_like,True,True,True,False
+minssssBm,Atom type electrotopological state,Summary.Descriptor type,True,False,1.0,binary_like,True,True,True,False
+minsCH3,Atom type electrotopological state,Summary.Descriptor type,False,False,0.36423505572441744,continuous_float_like,False,False,False,True
+mindCH2,Atom type electrotopological state,Summary.Descriptor type,False,True,0.9766970618034447,continuous_float_like,False,False,False,True
+minssCH2,Atom type electrotopological state,Summary.Descriptor type,False,False,0.2548125633232016,continuous_float_like,False,False,False,True
+mintCH,Atom type electrotopological state,Summary.Descriptor type,False,True,0.9913880445795339,continuous_float_like,False,False,True,True
+mindsCH,Atom type electrotopological state,Summary.Descriptor type,False,False,0.7781155015197568,continuous_float_like,False,False,False,True
+minaaCH,Atom type electrotopological state,Summary.Descriptor type,False,False,0.028875379939209727,continuous_float_like,False,False,False,True
+minsssCH,Atom type electrotopological state,Summary.Descriptor type,False,False,0.6063829787234043,continuous_float_like,False,False,False,True
+minddC,Atom type electrotopological state,Summary.Descriptor type,True,False,1.0,binary_like,True,True,True,False
+mintsC,Atom type electrotopological state,Summary.Descriptor type,False,False,0.9483282674772037,continuous_float_like,False,False,False,True
+mindssC,Atom type electrotopological state,Summary.Descriptor type,False,False,0.38247213779128675,continuous_float_like,False,False,False,True
+minaasC,Atom type electrotopological state,Summary.Descriptor type,False,False,0.02684903748733536,continuous_float_like,False,False,False,True
+minaaaC,Atom type electrotopological state,Summary.Descriptor type,False,False,0.6448834853090172,continuous_float_like,False,False,False,True
+minssssC,Atom type electrotopological state,Summary.Descriptor type,False,False,0.779128672745694,continuous_float_like,False,False,False,True
+minsNH3p,Atom type electrotopological state,Summary.Descriptor type,True,False,1.0,binary_like,True,True,True,False
+minsNH2,Atom type electrotopological state,Summary.Descriptor type,False,True,0.9746707193515705,continuous_float_like,False,False,False,True
+minssNH2p,Atom type electrotopological state,Summary.Descriptor type,True,False,1.0,binary_like,True,True,True,False
+mindNH,Atom type electrotopological state,Summary.Descriptor type,False,True,0.9924012158054711,continuous_float_like,False,False,True,True
+minssNH,Atom type electrotopological state,Summary.Descriptor type,False,False,0.8302938196555217,continuous_float_like,False,False,False,True
+minaaNH,Atom type electrotopological state,Summary.Descriptor type,False,False,0.9275582573454914,continuous_float_like,False,False,False,True
+mintN,Atom type electrotopological state,Summary.Descriptor type,False,True,0.9599797365754813,continuous_float_like,False,False,False,True
+minsssNHp,Atom type electrotopological state,Summary.Descriptor type,True,False,1.0,binary_like,True,True,True,False
+mindsN,Atom type electrotopological state,Summary.Descriptor type,False,False,0.9371833839918946,continuous_float_like,False,False,False,True
+minaaN,Atom type electrotopological state,Summary.Descriptor type,False,False,0.7583586626139818,continuous_float_like,False,False,False,True
+minsssN,Atom type electrotopological state,Summary.Descriptor type,False,False,0.5536980749746707,continuous_float_like,False,False,False,True
+minddsN,Atom type electrotopological state,Summary.Descriptor type,True,False,1.0,binary_like,True,True,True,False
+minaasN,Atom type electrotopological state,Summary.Descriptor type,False,False,0.903242147922999,continuous_float_like,False,False,False,True
+minssssNp,Atom type electrotopological state,Summary.Descriptor type,False,True,0.9994934143870314,continuous_float_like,False,False,True,True
+minsOH,Atom type electrotopological state,Summary.Descriptor type,False,False,0.21580547112462006,continuous_float_like,False,False,False,True
+mindO,Atom type electrotopological state,Summary.Descriptor type,False,False,0.46808510638297873,continuous_float_like,False,False,False,True
+minssO,Atom type electrotopological state,Summary.Descriptor type,False,False,0.47315096251266464,continuous_float_like,False,False,False,True
+minaaO,Atom type electrotopological state,Summary.Descriptor type,False,False,0.8556231003039514,continuous_float_like,False,False,False,True
+minaOm,Atom type electrotopological state,Summary.Descriptor type,True,False,1.0,binary_like,True,True,True,False
+minsOm,Atom type electrotopological state,Summary.Descriptor type,False,True,0.9908814589665653,continuous_float_like,False,False,True,True
+minsF,Atom type electrotopological state,Summary.Descriptor type,False,False,0.8348530901722391,continuous_float_like,False,False,False,True
+minsSiH3,Atom type electrotopological state,Summary.Descriptor type,True,False,1.0,binary_like,True,True,True,False
+minssSiH2,Atom type electrotopological state,Summary.Descriptor type,True,False,1.0,binary_like,True,True,True,False
+minsssSiH,Atom type electrotopological state,Summary.Descriptor type,True,False,1.0,binary_like,True,True,True,False
+minssssSi,Atom type electrotopological state,Summary.Descriptor type,True,False,1.0,binary_like,True,True,True,False
+minsPH2,Atom type electrotopological state,Summary.Descriptor type,True,False,1.0,binary_like,True,True,True,False
+minssPH,Atom type electrotopological state,Summary.Descriptor type,True,False,1.0,binary_like,True,True,True,False
+minsssP,Atom type electrotopological state,Summary.Descriptor type,True,False,1.0,binary_like,True,True,True,False
+mindsssP,Atom type electrotopological state,Summary.Descriptor type,False,True,0.9989868287740629,continuous_float_like,False,False,True,True
+minddsP,Atom type electrotopological state,Summary.Descriptor type,True,False,1.0,binary_like,True,True,True,False
+minsssssP,Atom type electrotopological state,Summary.Descriptor type,True,False,1.0,binary_like,True,True,True,False
+minsSH,Atom type electrotopological state,Summary.Descriptor type,False,True,0.9994934143870314,continuous_float_like,False,False,True,True
+mindS,Atom type electrotopological state,Summary.Descriptor type,False,True,0.9832826747720365,continuous_float_like,False,False,False,True
+minssS,Atom type electrotopological state,Summary.Descriptor type,False,False,0.8880445795339412,continuous_float_like,False,False,False,True
+minaaS,Atom type electrotopological state,Summary.Descriptor type,False,False,0.9052684903748733,continuous_float_like,False,False,False,True
+mindssS,Atom type electrotopological state,Summary.Descriptor type,False,True,0.9994934143870314,continuous_float_like,False,False,True,True
+minddssS,Atom type electrotopological state,Summary.Descriptor type,False,False,0.9376899696048632,continuous_float_like,False,False,False,True
+minssssssS,Atom type electrotopological state,Summary.Descriptor type,True,False,1.0,binary_like,True,True,True,False
+minSm,Atom type electrotopological state,Summary.Descriptor type,True,False,1.0,binary_like,True,True,True,False
+minsCl,Atom type electrotopological state,Summary.Descriptor type,False,False,0.9123606889564336,continuous_float_like,False,False,False,True
+minsGeH3,Atom type electrotopological state,Summary.Descriptor type,True,False,1.0,binary_like,True,True,True,False
+minssGeH2,Atom type electrotopological state,Summary.Descriptor type,True,False,1.0,binary_like,True,True,True,False
+minsssGeH,Atom type electrotopological state,Summary.Descriptor type,True,False,1.0,binary_like,True,True,True,False
+minssssGe,Atom type electrotopological state,Summary.Descriptor type,True,False,1.0,binary_like,True,True,True,False
+minsAsH2,Atom type electrotopological state,Summary.Descriptor type,True,False,1.0,binary_like,True,True,True,False
+minssAsH,Atom type electrotopological state,Summary.Descriptor type,True,False,1.0,binary_like,True,True,True,False
+minsssAs,Atom type electrotopological state,Summary.Descriptor type,True,False,1.0,binary_like,True,True,True,False
+mindsssAs,Atom type electrotopological state,Summary.Descriptor type,True,False,1.0,binary_like,True,True,True,False
+minddsAs,Atom type electrotopological state,Summary.Descriptor type,True,False,1.0,binary_like,True,True,True,False
+minsssssAs,Atom type electrotopological state,Summary.Descriptor type,True,False,1.0,binary_like,True,True,True,False
+minsSeH,Atom type electrotopological state,Summary.Descriptor type,True,False,1.0,binary_like,True,True,True,False
+mindSe,Atom type electrotopological state,Summary.Descriptor type,True,False,1.0,binary_like,True,True,True,False
+minssSe,Atom type electrotopological state,Summary.Descriptor type,True,False,1.0,binary_like,True,True,True,False
+minaaSe,Atom type electrotopological state,Summary.Descriptor type,True,False,1.0,binary_like,True,True,True,False
+mindssSe,Atom type electrotopological state,Summary.Descriptor type,True,False,1.0,binary_like,True,True,True,False
+minssssssSe,Atom type electrotopological state,Summary.Descriptor type,True,False,1.0,binary_like,True,True,True,False
+minddssSe,Atom type electrotopological state,Summary.Descriptor type,True,False,1.0,binary_like,True,True,True,False
+minsBr,Atom type electrotopological state,Summary.Descriptor type,False,False,0.9417426545086119,continuous_float_like,False,False,False,True
+minsSnH3,Atom type electrotopological state,Summary.Descriptor type,True,False,1.0,binary_like,True,True,True,False
+minssSnH2,Atom type electrotopological state,Summary.Descriptor type,True,False,1.0,binary_like,True,True,True,False
+minsssSnH,Atom type electrotopological state,Summary.Descriptor type,True,False,1.0,binary_like,True,True,True,False
+minssssSn,Atom type electrotopological state,Summary.Descriptor type,True,False,1.0,binary_like,True,True,True,False
+minsI,Atom type electrotopological state,Summary.Descriptor type,False,True,0.9979736575481256,continuous_float_like,False,False,True,True
+minsPbH3,Atom type electrotopological state,Summary.Descriptor type,True,False,1.0,binary_like,True,True,True,False
+minssPbH2,Atom type electrotopological state,Summary.Descriptor type,True,False,1.0,binary_like,True,True,True,False
+minsssPbH,Atom type electrotopological state,Summary.Descriptor type,True,False,1.0,binary_like,True,True,True,False
+minssssPb,Atom type electrotopological state,Summary.Descriptor type,True,False,1.0,binary_like,True,True,True,False
+maxHBd,Atom type electrotopological state,Summary.Descriptor type,False,False,0.06332320162107397,continuous_float_like,False,False,False,True
+maxwHBd,Atom type electrotopological state,Summary.Descriptor type,False,True,0.9822695035460993,continuous_float_like,False,False,False,True
+maxHBa,Atom type electrotopological state,Summary.Descriptor type,False,False,0.00303951367781155,continuous_float_like,False,False,False,True
+maxwHBa,Atom type electrotopological state,Summary.Descriptor type,False,False,0.0035460992907801418,continuous_float_like,False,False,False,True
+maxHBint2,Atom type electrotopological state,Summary.Descriptor type,False,False,0.7847011144883486,continuous_float_like,False,False,False,True
+maxHBint3,Atom type electrotopological state,Summary.Descriptor type,False,False,0.8095238095238095,continuous_float_like,False,False,False,True
+maxHBint4,Atom type electrotopological state,Summary.Descriptor type,False,False,0.6940222897669707,continuous_float_like,False,False,False,True
+maxHBint5,Atom type electrotopological state,Summary.Descriptor type,False,False,0.6524822695035462,continuous_float_like,False,False,False,True
+maxHBint6,Atom type electrotopological state,Summary.Descriptor type,False,False,0.6099290780141844,continuous_float_like,False,False,False,True
+maxHBint7,Atom type electrotopological state,Summary.Descriptor type,False,False,0.6636271529888551,continuous_float_like,False,False,False,True
+maxHBint8,Atom type electrotopological state,Summary.Descriptor type,False,False,0.7406281661600811,continuous_float_like,False,False,False,True
+maxHBint9,Atom type electrotopological state,Summary.Descriptor type,False,False,0.7563323201621074,continuous_float_like,False,False,False,True
+maxHBint10,Atom type electrotopological state,Summary.Descriptor type,False,False,0.502532928064843,continuous_float_like,False,False,False,True
+maxHsOH,Atom type electrotopological state,Summary.Descriptor type,False,False,0.21580547112462006,continuous_float_like,False,False,False,True
+maxHdNH,Atom type electrotopological state,Summary.Descriptor type,False,True,0.9924012158054711,continuous_float_like,False,False,True,True
+maxHsSH,Atom type electrotopological state,Summary.Descriptor type,False,True,0.9994934143870314,continuous_float_like,False,False,True,True
+maxHsNH2,Atom type electrotopological state,Summary.Descriptor type,False,True,0.9746707193515705,continuous_float_like,False,False,False,True
+maxHssNH,Atom type electrotopological state,Summary.Descriptor type,False,False,0.8302938196555217,continuous_float_like,False,False,False,True
+maxHaaNH,Atom type electrotopological state,Summary.Descriptor type,False,False,0.9275582573454914,continuous_float_like,False,False,False,True
+maxHsNH3p,Atom type electrotopological state,Summary.Descriptor type,True,False,1.0,binary_like,True,True,True,False
+maxHssNH2p,Atom type electrotopological state,Summary.Descriptor type,True,False,1.0,binary_like,True,True,True,False
+maxHsssNHp,Atom type electrotopological state,Summary.Descriptor type,True,False,1.0,binary_like,True,True,True,False
+maxHtCH,Atom type electrotopological state,Summary.Descriptor type,False,True,0.9913880445795339,continuous_float_like,False,False,True,True
+maxHdCH2,Atom type electrotopological state,Summary.Descriptor type,False,True,0.9766970618034447,continuous_float_like,False,False,False,True
+maxHdsCH,Atom type electrotopological state,Summary.Descriptor type,False,False,0.7781155015197568,continuous_float_like,False,False,False,True
+maxHaaCH,Atom type electrotopological state,Summary.Descriptor type,False,False,0.028875379939209727,continuous_float_like,False,False,False,True
+maxHCHnX,Atom type electrotopological state,Summary.Descriptor type,False,True,0.9802431610942249,continuous_float_like,False,False,False,True
+maxHCsats,Atom type electrotopological state,Summary.Descriptor type,False,False,0.30749746707193515,continuous_float_like,False,False,False,True
+maxHCsatu,Atom type electrotopological state,Summary.Descriptor type,False,False,0.6170212765957447,continuous_float_like,False,False,False,True
+maxHAvin,Atom type electrotopological state,Summary.Descriptor type,False,False,0.8449848024316109,continuous_float_like,False,False,False,True
+maxHother,Atom type electrotopological state,Summary.Descriptor type,False,False,0.0060790273556231,continuous_float_like,False,False,False,True
+maxHmisc,Atom type electrotopological state,Summary.Descriptor type,True,False,1.0,binary_like,True,True,True,False
+maxsLi,Atom type electrotopological state,Summary.Descriptor type,True,False,1.0,binary_like,True,True,True,False
+maxssBe,Atom type electrotopological state,Summary.Descriptor type,True,False,1.0,binary_like,True,True,True,False
+maxssssBem,Atom type electrotopological state,Summary.Descriptor type,True,False,1.0,binary_like,True,True,True,False
+maxsBH2,Atom type electrotopological state,Summary.Descriptor type,True,False,1.0,binary_like,True,True,True,False
+maxssBH,Atom type electrotopological state,Summary.Descriptor type,True,False,1.0,binary_like,True,True,True,False
+maxsssB,Atom type electrotopological state,Summary.Descriptor type,True,False,1.0,binary_like,True,True,True,False
+maxssssBm,Atom type electrotopological state,Summary.Descriptor type,True,False,1.0,binary_like,True,True,True,False
+maxsCH3,Atom type electrotopological state,Summary.Descriptor type,False,False,0.36423505572441744,continuous_float_like,False,False,False,True
+maxdCH2,Atom type electrotopological state,Summary.Descriptor type,False,True,0.9766970618034447,continuous_float_like,False,False,False,True
+maxssCH2,Atom type electrotopological state,Summary.Descriptor type,False,False,0.26494427558257344,continuous_float_like,False,False,False,True
+maxtCH,Atom type electrotopological state,Summary.Descriptor type,False,True,0.9913880445795339,continuous_float_like,False,False,True,True
+maxdsCH,Atom type electrotopological state,Summary.Descriptor type,False,False,0.7781155015197568,continuous_float_like,False,False,False,True
+maxaaCH,Atom type electrotopological state,Summary.Descriptor type,False,False,0.028875379939209727,continuous_float_like,False,False,False,True
+maxsssCH,Atom type electrotopological state,Summary.Descriptor type,False,False,0.7416413373860182,continuous_float_like,False,False,False,True
+maxddC,Atom type electrotopological state,Summary.Descriptor type,True,False,1.0,binary_like,True,True,True,False
+maxtsC,Atom type electrotopological state,Summary.Descriptor type,False,False,0.9483282674772037,continuous_float_like,False,False,False,True
+maxdssC,Atom type electrotopological state,Summary.Descriptor type,False,False,0.6266464032421479,continuous_float_like,False,False,False,True
+maxaasC,Atom type electrotopological state,Summary.Descriptor type,False,False,0.028875379939209727,continuous_float_like,False,False,False,True
+maxaaaC,Atom type electrotopological state,Summary.Descriptor type,False,False,0.6474164133738601,continuous_float_like,False,False,False,True
+maxssssC,Atom type electrotopological state,Summary.Descriptor type,False,False,0.9199594731509625,continuous_float_like,False,False,False,True
+maxsNH3p,Atom type electrotopological state,Summary.Descriptor type,True,False,1.0,binary_like,True,True,True,False
+maxsNH2,Atom type electrotopological state,Summary.Descriptor type,False,True,0.9746707193515705,continuous_float_like,False,False,False,True
+maxssNH2p,Atom type electrotopological state,Summary.Descriptor type,True,False,1.0,binary_like,True,True,True,False
+maxdNH,Atom type electrotopological state,Summary.Descriptor type,False,True,0.9924012158054711,continuous_float_like,False,False,True,True
+maxssNH,Atom type electrotopological state,Summary.Descriptor type,False,False,0.8302938196555217,continuous_float_like,False,False,False,True
+maxaaNH,Atom type electrotopological state,Summary.Descriptor type,False,False,0.9275582573454914,continuous_float_like,False,False,False,True
+maxtN,Atom type electrotopological state,Summary.Descriptor type,False,True,0.9599797365754813,continuous_float_like,False,False,False,True
+maxsssNHp,Atom type electrotopological state,Summary.Descriptor type,True,False,1.0,binary_like,True,True,True,False
+maxdsN,Atom type electrotopological state,Summary.Descriptor type,False,False,0.9371833839918946,continuous_float_like,False,False,False,True
+maxaaN,Atom type electrotopological state,Summary.Descriptor type,False,False,0.7583586626139818,continuous_float_like,False,False,False,True
+maxsssN,Atom type electrotopological state,Summary.Descriptor type,False,False,0.5536980749746707,continuous_float_like,False,False,False,True
+maxddsN,Atom type electrotopological state,Summary.Descriptor type,True,False,1.0,binary_like,True,True,True,False
+maxaasN,Atom type electrotopological state,Summary.Descriptor type,False,False,0.903242147922999,continuous_float_like,False,False,False,True
+maxssssNp,Atom type electrotopological state,Summary.Descriptor type,False,True,0.9994934143870314,continuous_float_like,False,False,True,True
+maxsOH,Atom type electrotopological state,Summary.Descriptor type,False,False,0.21580547112462006,continuous_float_like,False,False,False,True
+maxdO,Atom type electrotopological state,Summary.Descriptor type,False,False,0.46808510638297873,continuous_float_like,False,False,False,True
+maxssO,Atom type electrotopological state,Summary.Descriptor type,False,False,0.47315096251266464,continuous_float_like,False,False,False,True
+maxaaO,Atom type electrotopological state,Summary.Descriptor type,False,False,0.8556231003039514,continuous_float_like,False,False,False,True
+maxaOm,Atom type electrotopological state,Summary.Descriptor type,True,False,1.0,binary_like,True,True,True,False
+maxsOm,Atom type electrotopological state,Summary.Descriptor type,False,True,0.9908814589665653,continuous_float_like,False,False,True,True
+maxsF,Atom type electrotopological state,Summary.Descriptor type,False,False,0.8348530901722391,continuous_float_like,False,False,False,True
+maxsSiH3,Atom type electrotopological state,Summary.Descriptor type,True,False,1.0,binary_like,True,True,True,False
+maxssSiH2,Atom type electrotopological state,Summary.Descriptor type,True,False,1.0,binary_like,True,True,True,False
+maxsssSiH,Atom type electrotopological state,Summary.Descriptor type,True,False,1.0,binary_like,True,True,True,False
+maxssssSi,Atom type electrotopological state,Summary.Descriptor type,True,False,1.0,binary_like,True,True,True,False
+maxsPH2,Atom type electrotopological state,Summary.Descriptor type,True,False,1.0,binary_like,True,True,True,False
+maxssPH,Atom type electrotopological state,Summary.Descriptor type,True,False,1.0,binary_like,True,True,True,False
+maxsssP,Atom type electrotopological state,Summary.Descriptor type,True,False,1.0,binary_like,True,True,True,False
+maxdsssP,Atom type electrotopological state,Summary.Descriptor type,True,False,1.0,binary_like,True,True,True,False
+maxddsP,Atom type electrotopological state,Summary.Descriptor type,True,False,1.0,binary_like,True,True,True,False
+maxsssssP,Atom type electrotopological state,Summary.Descriptor type,True,False,1.0,binary_like,True,True,True,False
+maxsSH,Atom type electrotopological state,Summary.Descriptor type,False,True,0.9994934143870314,continuous_float_like,False,False,True,True
+maxdS,Atom type electrotopological state,Summary.Descriptor type,False,True,0.9832826747720365,continuous_float_like,False,False,False,True
+maxssS,Atom type electrotopological state,Summary.Descriptor type,True,False,1.0,binary_like,True,True,True,False
+maxaaS,Atom type electrotopological state,Summary.Descriptor type,True,False,1.0,binary_like,True,True,True,False
+maxdssS,Atom type electrotopological state,Summary.Descriptor type,True,False,1.0,binary_like,True,True,True,False
+maxddssS,Atom type electrotopological state,Summary.Descriptor type,True,False,1.0,binary_like,True,True,True,False
+maxssssssS,Atom type electrotopological state,Summary.Descriptor type,True,False,1.0,binary_like,True,True,True,False
+maxSm,Atom type electrotopological state,Summary.Descriptor type,True,False,1.0,binary_like,True,True,True,False
+maxsCl,Atom type electrotopological state,Summary.Descriptor type,False,False,0.9123606889564336,continuous_float_like,False,False,False,True
+maxsGeH3,Atom type electrotopological state,Summary.Descriptor type,True,False,1.0,binary_like,True,True,True,False
+maxssGeH2,Atom type electrotopological state,Summary.Descriptor type,True,False,1.0,binary_like,True,True,True,False
+maxsssGeH,Atom type electrotopological state,Summary.Descriptor type,True,False,1.0,binary_like,True,True,True,False
+maxssssGe,Atom type electrotopological state,Summary.Descriptor type,True,False,1.0,binary_like,True,True,True,False
+maxsAsH2,Atom type electrotopological state,Summary.Descriptor type,True,False,1.0,binary_like,True,True,True,False
+maxssAsH,Atom type electrotopological state,Summary.Descriptor type,True,False,1.0,binary_like,True,True,True,False
+maxsssAs,Atom type electrotopological state,Summary.Descriptor type,True,False,1.0,binary_like,True,True,True,False
+maxdsssAs,Atom type electrotopological state,Summary.Descriptor type,True,False,1.0,binary_like,True,True,True,False
+maxddsAs,Atom type electrotopological state,Summary.Descriptor type,True,False,1.0,binary_like,True,True,True,False
+maxsssssAs,Atom type electrotopological state,Summary.Descriptor type,True,False,1.0,binary_like,True,True,True,False
+maxsSeH,Atom type electrotopological state,Summary.Descriptor type,True,False,1.0,binary_like,True,True,True,False
+maxdSe,Atom type electrotopological state,Summary.Descriptor type,True,False,1.0,binary_like,True,True,True,False
+maxssSe,Atom type electrotopological state,Summary.Descriptor type,True,False,1.0,binary_like,True,True,True,False
+maxaaSe,Atom type electrotopological state,Summary.Descriptor type,True,False,1.0,binary_like,True,True,True,False
+maxdssSe,Atom type electrotopological state,Summary.Descriptor type,True,False,1.0,binary_like,True,True,True,False
+maxssssssSe,Atom type electrotopological state,Summary.Descriptor type,True,False,1.0,binary_like,True,True,True,False
+maxddssSe,Atom type electrotopological state,Summary.Descriptor type,True,False,1.0,binary_like,True,True,True,False
+maxsBr,Atom type electrotopological state,Summary.Descriptor type,False,True,0.9594731509625126,continuous_float_like,False,False,False,True
+maxsSnH3,Atom type electrotopological state,Summary.Descriptor type,True,False,1.0,binary_like,True,True,True,False
+maxssSnH2,Atom type electrotopological state,Summary.Descriptor type,True,False,1.0,binary_like,True,True,True,False
+maxsssSnH,Atom type electrotopological state,Summary.Descriptor type,True,False,1.0,binary_like,True,True,True,False
+maxssssSn,Atom type electrotopological state,Summary.Descriptor type,True,False,1.0,binary_like,True,True,True,False
+maxsI,Atom type electrotopological state,Summary.Descriptor type,True,False,1.0,binary_like,True,True,True,False
+maxsPbH3,Atom type electrotopological state,Summary.Descriptor type,True,False,1.0,binary_like,True,True,True,False
+maxssPbH2,Atom type electrotopological state,Summary.Descriptor type,True,False,1.0,binary_like,True,True,True,False
+maxsssPbH,Atom type electrotopological state,Summary.Descriptor type,True,False,1.0,binary_like,True,True,True,False
+maxssssPb,Atom type electrotopological state,Summary.Descriptor type,True,False,1.0,binary_like,True,True,True,False
+sumI,Atom type electrotopological state,Summary.Descriptor type,False,False,0.0070921985815602835,continuous_float_like,False,False,False,True
+hmax,Atom type electrotopological state,Summary.Descriptor type,False,False,0.022289766970618033,continuous_float_like,False,False,False,True
+gmax,Atom type electrotopological state,Summary.Descriptor type,False,False,0.00303951367781155,continuous_float_like,False,False,False,True
+hmin,Atom type electrotopological state,Summary.Descriptor type,False,False,0.007598784194528876,continuous_float_like,False,False,False,True
+gmin,Atom type electrotopological state,Summary.Descriptor type,False,False,0.0035460992907801418,continuous_float_like,False,False,False,True
+LipoaffinityIndex,Atom type electrotopological state,Summary.Descriptor type,False,False,0.00303951367781155,continuous_float_like,False,False,False,True
+MAXDN,Atom type electrotopological state,Summary.Descriptor type,False,False,0.0035460992907801418,continuous_float_like,False,False,False,True
+MAXDP,Atom type electrotopological state,Summary.Descriptor type,False,False,0.00303951367781155,continuous_float_like,False,False,False,True
+DELS,Atom type electrotopological state,Summary.Descriptor type,False,False,0.00303951367781155,continuous_float_like,False,False,False,True
+MAXDN2,Atom type electrotopological state,Summary.Descriptor type,False,False,0.0035460992907801418,continuous_float_like,False,False,False,True
+MAXDP2,Atom type electrotopological state,Summary.Descriptor type,False,False,0.00303951367781155,continuous_float_like,False,False,False,True
+DELS2,Atom type electrotopological state,Summary.Descriptor type,False,False,0.00303951367781155,continuous_float_like,False,False,False,True
+ETA_Alpha,Extended topochemical atom,Summary.Descriptor type,False,False,0.018743667679837893,continuous_float_like,False,False,False,True
+ETA_AlphaP,Extended topochemical atom,Summary.Descriptor type,False,False,0.023809523809523808,continuous_float_like,False,False,False,True
+ETA_dAlpha_A,Extended topochemical atom,Summary.Descriptor type,False,False,0.9275582573454914,continuous_float_like,False,False,False,True
+ETA_dAlpha_B,Extended topochemical atom,Summary.Descriptor type,False,False,0.07598784194528875,continuous_float_like,False,False,False,True
+ETA_Epsilon_1,Extended topochemical atom,Summary.Descriptor type,False,False,0.013677811550151976,continuous_float_like,False,False,False,True
+ETA_Epsilon_2,Extended topochemical atom,Summary.Descriptor type,False,False,0.015197568389057751,continuous_float_like,False,False,False,True
+ETA_Epsilon_3,Extended topochemical atom,Summary.Descriptor type,False,False,0.08308004052684904,continuous_float_like,False,False,False,True
+ETA_Epsilon_4,Extended topochemical atom,Summary.Descriptor type,False,False,0.011144883485309016,continuous_float_like,False,False,False,True
+ETA_Epsilon_5,Extended topochemical atom,Summary.Descriptor type,False,False,0.014184397163120567,continuous_float_like,False,False,False,True
+ETA_dEpsilon_A,Extended topochemical atom,Summary.Descriptor type,False,False,0.010638297872340425,continuous_float_like,False,False,False,True
+ETA_dEpsilon_B,Extended topochemical atom,Summary.Descriptor type,False,False,0.010638297872340425,continuous_float_like,False,False,False,True
+ETA_dEpsilon_C,Extended topochemical atom,Summary.Descriptor type,False,False,0.011144883485309016,continuous_float_like,False,False,False,True
+ETA_dEpsilon_D,Extended topochemical atom,Summary.Descriptor type,False,False,0.06332320162107397,continuous_float_like,False,False,False,True
+ETA_Psi_1,Extended topochemical atom,Summary.Descriptor type,False,False,0.015704154002026342,continuous_float_like,False,False,False,True
+ETA_dPsi_A,Extended topochemical atom,Summary.Descriptor type,False,False,0.015704154002026342,continuous_float_like,False,False,False,True
+ETA_dPsi_B,Extended topochemical atom,Summary.Descriptor type,False,True,0.9979736575481256,continuous_float_like,False,False,True,True
+ETA_Shape_P,Extended topochemical atom,Summary.Descriptor type,False,False,0.0070921985815602835,continuous_float_like,False,False,False,True
+ETA_Shape_Y,Extended topochemical atom,Summary.Descriptor type,False,False,0.009625126646403243,continuous_float_like,False,False,False,True
+ETA_Shape_X,Extended topochemical atom,Summary.Descriptor type,False,False,0.7223910840932117,continuous_float_like,False,False,False,True
+ETA_Beta,Extended topochemical atom,Summary.Descriptor type,False,False,0.021783181357649443,continuous_float_like,False,False,False,True
+ETA_BetaP,Extended topochemical atom,Summary.Descriptor type,False,False,0.022796352583586626,continuous_float_like,False,False,False,True
+ETA_Beta_s,Extended topochemical atom,Summary.Descriptor type,False,False,0.03596757852077001,continuous_float_like,False,False,False,True
+ETA_BetaP_s,Extended topochemical atom,Summary.Descriptor type,False,False,0.07649442755825735,continuous_float_like,False,False,False,True
+ETA_Beta_ns,Extended topochemical atom,Summary.Descriptor type,False,False,0.06332320162107397,continuous_float_like,False,False,False,True
+ETA_BetaP_ns,Extended topochemical atom,Summary.Descriptor type,False,False,0.021783181357649443,continuous_float_like,False,False,False,True
+ETA_dBeta,Extended topochemical atom,Summary.Descriptor type,False,False,0.03292806484295846,continuous_float_like,False,False,False,True
+ETA_dBetaP,Extended topochemical atom,Summary.Descriptor type,False,False,0.0243161094224924,continuous_float_like,False,False,False,True
+ETA_Beta_ns_d,Extended topochemical atom,Summary.Descriptor type,False,True,0.32066869300911854,continuous_float_like,False,False,True,True
+ETA_BetaP_ns_d,Extended topochemical atom,Summary.Descriptor type,False,False,0.10283687943262411,continuous_float_like,False,False,False,True
+ETA_Eta,Extended topochemical atom,Summary.Descriptor type,False,False,0.00303951367781155,continuous_float_like,False,False,False,True
+ETA_EtaP,Extended topochemical atom,Summary.Descriptor type,False,False,0.00303951367781155,continuous_float_like,False,False,False,True
+ETA_Eta_R,Extended topochemical atom,Summary.Descriptor type,False,False,0.005572441742654508,continuous_float_like,False,False,False,True
+ETA_Eta_F,Extended topochemical atom,Summary.Descriptor type,False,False,0.00303951367781155,continuous_float_like,False,False,False,True
+ETA_EtaP_F,Extended topochemical atom,Summary.Descriptor type,False,False,0.00303951367781155,continuous_float_like,False,False,False,True
+ETA_Eta_L,Extended topochemical atom,Summary.Descriptor type,False,False,0.004559270516717325,continuous_float_like,False,False,False,True
+ETA_EtaP_L,Extended topochemical atom,Summary.Descriptor type,False,False,0.004559270516717325,continuous_float_like,False,False,False,True
+ETA_Eta_R_L,Extended topochemical atom,Summary.Descriptor type,False,False,0.01165146909827761,continuous_float_like,False,False,False,True
+ETA_Eta_F_L,Extended topochemical atom,Summary.Descriptor type,False,False,0.005065856129685917,continuous_float_like,False,False,False,True
+ETA_EtaP_F_L,Extended topochemical atom,Summary.Descriptor type,False,False,0.004559270516717325,continuous_float_like,False,False,False,True
+ETA_Eta_B,Extended topochemical atom,Summary.Descriptor type,False,False,0.027862208713272545,continuous_float_like,False,False,False,True
+ETA_EtaP_B,Extended topochemical atom,Summary.Descriptor type,False,False,0.013171225937183385,continuous_float_like,False,False,False,True
+ETA_Eta_B_RC,Extended topochemical atom,Summary.Descriptor type,False,False,0.027862208713272545,continuous_float_like,False,False,False,True
+ETA_EtaP_B_RC,Extended topochemical atom,Summary.Descriptor type,False,False,0.012664640324214792,continuous_float_like,False,False,False,True
+FMF,FMFDescriptor,Summary.Descriptor type,False,False,0.0673758865248227,continuous_float_like,False,False,False,True
+fragC,Fragment complexity,Summary.Descriptor type,False,False,0.011144883485309016,continuous_float_like,False,False,False,True
+nHBAcc,Hbond acceptor count,Summary.Descriptor type,False,True,0.2968591691995947,integer_low_cardinality,True,False,True,False
+nHBAcc2,Hbond acceptor count,Summary.Descriptor type,False,True,0.23606889564336372,integer_low_cardinality,True,False,True,False
+nHBAcc3,Hbond acceptor count,Summary.Descriptor type,False,True,0.270516717325228,integer_low_cardinality,True,False,True,False
+nHBAcc_Lipinski,Hbond acceptor count,Summary.Descriptor type,False,True,0.25379939209726443,integer_low_cardinality,True,False,True,False
+nHBDon,Hbond donor count,Summary.Descriptor type,False,True,0.47720364741641336,integer_low_cardinality,True,False,True,False
+nHBDon_Lipinski,Hbond donor count,Summary.Descriptor type,False,True,0.4726443768996961,integer_low_cardinality,True,False,True,False
+HybRatio,HybridizationRatioDescriptor,Summary.Descriptor type,False,False,0.13576494427558258,continuous_float_like,False,False,False,True
+Kier1,Kappa shape indices,Summary.Descriptor type,False,False,0.057750759878419454,continuous_float_like,False,False,False,True
+Kier2,Kappa shape indices,Summary.Descriptor type,False,False,0.028875379939209727,continuous_float_like,False,False,False,True
+Kier3,Kappa shape indices,Summary.Descriptor type,False,False,0.016210739614994935,continuous_float_like,False,False,False,True
+nAtomLC,Largest chain,Summary.Descriptor type,False,False,0.24670719351570417,integer_count_like,True,False,False,False
+nAtomP,Largest Pi system,Summary.Descriptor type,False,False,0.11904761904761904,integer_count_like,True,False,False,False
+nAtomLAC,Longest aliphatic chain,Summary.Descriptor type,False,True,0.4088145896656535,integer_low_cardinality,True,False,True,False
+MLogP,Mannhold LogP,Summary.Descriptor type,False,False,0.05876393110435663,continuous_float_like,False,False,False,True
+McGowan_Volume,McGowan volume,Summary.Descriptor type,False,False,0.010638297872340425,continuous_float_like,False,False,False,True
+MDEC-11,Molecular distance edge,Summary.Descriptor type,False,False,0.6732522796352584,continuous_float_like,False,False,False,True
+MDEC-12,Molecular distance edge,Summary.Descriptor type,False,False,0.35207700101317124,continuous_float_like,False,False,False,True
+MDEC-13,Molecular distance edge,Summary.Descriptor type,False,False,0.35207700101317124,continuous_float_like,False,False,False,True
+MDEC-14,Molecular distance edge,Summary.Descriptor type,False,False,0.8115501519756839,continuous_float_like,False,False,False,True
+MDEC-22,Molecular distance edge,Summary.Descriptor type,False,False,0.047619047619047616,continuous_float_like,False,False,False,True
+MDEC-23,Molecular distance edge,Summary.Descriptor type,False,False,0.0060790273556231,continuous_float_like,False,False,False,True
+MDEC-24,Molecular distance edge,Summary.Descriptor type,False,False,0.779128672745694,continuous_float_like,False,False,False,True
+MDEC-33,Molecular distance edge,Summary.Descriptor type,False,False,0.016717325227963525,continuous_float_like,False,False,False,True
+MDEC-34,Molecular distance edge,Summary.Descriptor type,False,False,0.779128672745694,continuous_float_like,False,False,False,True
+MDEC-44,Molecular distance edge,Summary.Descriptor type,False,True,0.9544072948328267,continuous_float_like,False,False,True,True
+MDEO-11,Molecular distance edge,Summary.Descriptor type,False,False,0.24417426545086118,continuous_float_like,False,False,False,True
+MDEO-12,Molecular distance edge,Summary.Descriptor type,False,False,0.39463019250253295,continuous_float_like,False,False,False,True
+MDEO-22,Molecular distance edge,Summary.Descriptor type,False,False,0.7137791286727457,continuous_float_like,False,False,False,True
+MDEN-11,Molecular distance edge,Summary.Descriptor type,False,True,0.9883485309017224,continuous_float_like,False,False,True,True
+MDEN-12,Molecular distance edge,Summary.Descriptor type,False,True,0.9650455927051672,continuous_float_like,False,False,False,True
+MDEN-13,Molecular distance edge,Summary.Descriptor type,False,True,0.9772036474164134,continuous_float_like,False,False,False,True
+MDEN-22,Molecular distance edge,Summary.Descriptor type,False,False,0.8196555217831814,continuous_float_like,False,False,False,True
+MDEN-23,Molecular distance edge,Summary.Descriptor type,False,False,0.8247213779128673,continuous_float_like,False,False,False,True
+MDEN-33,Molecular distance edge,Summary.Descriptor type,False,False,0.8708206686930091,continuous_float_like,False,False,False,True
+MLFER_A,Molecular linear free energy relation,Summary.Descriptor type,False,False,0.232016210739615,continuous_float_like,False,False,False,True
+MLFER_BH,Molecular linear free energy relation,Summary.Descriptor type,False,False,0.010131712259371834,continuous_float_like,False,False,False,True
+MLFER_BO,Molecular linear free energy relation,Summary.Descriptor type,False,False,0.010131712259371834,continuous_float_like,False,False,False,True
+MLFER_S,Molecular linear free energy relation,Summary.Descriptor type,False,False,0.008611955420466059,continuous_float_like,False,False,False,True
+MLFER_E,Molecular linear free energy relation,Summary.Descriptor type,False,False,0.007598784194528876,continuous_float_like,False,False,False,True
+MLFER_L,Molecular linear free energy relation,Summary.Descriptor type,False,False,0.004052684903748734,continuous_float_like,False,False,False,True
+PetitjeanNumber,Petitjean number,Summary.Descriptor type,False,True,0.47922998986828774,continuous_float_like,False,False,True,True
+nRing,Ring count,Summary.Descriptor type,False,True,0.31155015197568386,integer_low_cardinality,True,False,True,False
+n3Ring,Ring count,Summary.Descriptor type,False,True,0.9934143870314083,binary_like,True,True,True,False
+n4Ring,Ring count,Summary.Descriptor type,False,True,0.9908814589665653,integer_low_cardinality,True,False,True,False
+n5Ring,Ring count,Summary.Descriptor type,False,True,0.43566362715298884,integer_low_cardinality,True,False,True,False
+n6Ring,Ring count,Summary.Descriptor type,False,True,0.37031408308004055,integer_low_cardinality,True,False,True,False
+n7Ring,Ring count,Summary.Descriptor type,False,True,0.9493414387031408,integer_low_cardinality,True,False,True,False
+n8Ring,Ring count,Summary.Descriptor type,False,True,0.9979736575481256,binary_like,True,True,True,False
+n9Ring,Ring count,Summary.Descriptor type,True,False,1.0,binary_like,True,True,True,False
+n10Ring,Ring count,Summary.Descriptor type,True,False,1.0,binary_like,True,True,True,False
+n11Ring,Ring count,Summary.Descriptor type,True,False,1.0,binary_like,True,True,True,False
+n12Ring,Ring count,Summary.Descriptor type,False,True,0.9994934143870314,binary_like,True,True,True,False
+nG12Ring,Ring count,Summary.Descriptor type,False,True,0.997467071935157,binary_like,True,True,True,False
+nFRing,Ring count,Summary.Descriptor type,False,True,0.5668693009118541,integer_low_cardinality,True,False,True,False
+nF4Ring,Ring count,Summary.Descriptor type,True,False,1.0,binary_like,True,True,True,False
+nF5Ring,Ring count,Summary.Descriptor type,True,False,1.0,binary_like,True,True,True,False
+nF6Ring,Ring count,Summary.Descriptor type,False,True,0.9696048632218845,integer_low_cardinality,True,False,True,False
+nF7Ring,Ring count,Summary.Descriptor type,False,True,0.9964539007092199,integer_low_cardinality,True,False,True,False
+nF8Ring,Ring count,Summary.Descriptor type,False,True,0.9701114488348531,integer_low_cardinality,True,False,True,False
+nF9Ring,Ring count,Summary.Descriptor type,False,True,0.6058763931104356,integer_low_cardinality,True,False,True,False
+nF10Ring,Ring count,Summary.Descriptor type,False,True,0.4989868287740628,integer_low_cardinality,True,False,True,False
+nF11Ring,Ring count,Summary.Descriptor type,False,True,0.9579533941236069,integer_low_cardinality,True,False,True,False
+nF12Ring,Ring count,Summary.Descriptor type,False,True,0.9594731509625126,integer_low_cardinality,True,False,True,False
+nFG12Ring,Ring count,Summary.Descriptor type,False,True,0.7836879432624113,integer_low_cardinality,True,False,True,False
+nTRing,RingCountDescriptor,Detailed.Descriptor Java Class,False,True,0.24873353596757852,integer_low_cardinality,True,False,True,False
+nT4Ring,RingCountDescriptor,Detailed.Descriptor Java Class,False,True,0.9908814589665653,integer_low_cardinality,True,False,True,False
+nT5Ring,RingCountDescriptor,Detailed.Descriptor Java Class,False,True,0.43566362715298884,integer_low_cardinality,True,False,True,False
+nT6Ring,RingCountDescriptor,Detailed.Descriptor Java Class,False,True,0.36322188449848025,integer_low_cardinality,True,False,True,False
+nT7Ring,RingCountDescriptor,Detailed.Descriptor Java Class,False,True,0.9457953394123607,integer_low_cardinality,True,False,True,False
+nT8Ring,RingCountDescriptor,Detailed.Descriptor Java Class,False,True,0.9680851063829787,integer_low_cardinality,True,False,True,False
+nT9Ring,RingCountDescriptor,Detailed.Descriptor Java Class,False,True,0.6058763931104356,integer_low_cardinality,True,False,True,False
+nT10Ring,RingCountDescriptor,Detailed.Descriptor Java Class,False,True,0.4989868287740628,integer_low_cardinality,True,False,True,False
+nT11Ring,RingCountDescriptor,Detailed.Descriptor Java Class,False,True,0.9579533941236069,integer_low_cardinality,True,False,True,False
+nT12Ring,RingCountDescriptor,Detailed.Descriptor Java Class,False,True,0.958966565349544,integer_low_cardinality,True,False,True,False
+nTG12Ring,RingCountDescriptor,Detailed.Descriptor Java Class,False,True,0.7811550151975684,integer_low_cardinality,True,False,True,False
+nRotB,Rotatable bonds count,Summary.Descriptor type,False,False,0.171225937183384,integer_count_like,True,False,False,False
+LipinskiFailures,Rule of five,Summary.Descriptor type,False,True,0.89209726443769,integer_low_cardinality,True,False,True,False
+TopoPSA,Topological polar surface area,Summary.Descriptor type,False,False,0.05319148936170213,continuous_float_like,False,False,False,True
+VABC,Van der Waals volume,Summary.Descriptor type,False,False,0.010638297872340425,continuous_float_like,False,False,False,True
+VAdjMat,Vertex adjacency information (magnitude),Summary.Descriptor type,False,False,0.0795339412360689,continuous_float_like,False,False,False,True
+MW,Weight,Summary.Descriptor type,False,False,0.010638297872340425,continuous_float_like,False,False,False,True
+WTPT-1,Weighted path,Summary.Descriptor type,False,False,0.005572441742654508,continuous_float_like,False,False,False,True
+WTPT-2,Weighted path,Summary.Descriptor type,False,False,0.005572441742654508,continuous_float_like,False,False,False,True
+WTPT-3,Weighted path,Summary.Descriptor type,False,False,0.0035460992907801418,continuous_float_like,False,False,False,True
+WTPT-4,Weighted path,Summary.Descriptor type,False,False,0.025329280648429583,continuous_float_like,False,False,False,True
+WTPT-5,Weighted path,Summary.Descriptor type,False,False,0.24924012158054712,continuous_float_like,False,False,False,True
+WPATH,Wiener numbers,Summary.Descriptor type,False,False,0.0060790273556231,integer_count_like,True,False,False,False
+WPOL,Wiener numbers,Summary.Descriptor type,False,False,0.04154002026342452,integer_count_like,True,False,False,False
+XLogP,XLogP,Summary.Descriptor type,False,False,0.004559270516717325,continuous_float_like,False,False,False,True
+Zagreb,Zagreb index,Summary.Descriptor type,False,False,0.034954407294832825,integer_count_like,True,False,False,False

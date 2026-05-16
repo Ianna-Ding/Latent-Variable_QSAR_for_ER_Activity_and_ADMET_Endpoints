@@ -1,0 +1,2 @@
+dataset_name,n_components,rmse_cv_global,mae_cv_global,q2_cv_global,r2_cv_global,fold_rmse_mean,fold_rmse_sd,fold_rmse_se,fold_mae_mean,fold_r2_mean,is_best_rmse,is_one_se_choice
+primary_remove_constant_only,20,0.8555413056106478,0.6410783646229719,0.6383586977759292,0.6383586977759292,0.8545066264410043,0.04669634325033938,0.020883239561684468,0.6410757248209699,0.6379079424042083,False,True

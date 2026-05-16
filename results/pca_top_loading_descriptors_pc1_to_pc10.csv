@@ -1,0 +1,301 @@
+descriptor,PC1_weight,PC1_corr_loading,component,abs_weight,abs_corr_loading,PC2_weight,PC2_corr_loading,PC3_weight,PC3_corr_loading,PC4_weight,PC4_corr_loading,PC5_weight,PC5_corr_loading,PC6_weight,PC6_corr_loading,PC7_weight,PC7_corr_loading,PC8_weight,PC8_corr_loading,PC9_weight,PC9_corr_loading,PC10_weight,PC10_corr_loading,descriptor_category,descriptor_numeric_type,is_binary_like,is_rare_binary_like,is_near_constant,dominant_value_ratio
+ETA_Eta_R,0.1001378423947351,0.9814881778352743,PC1,0.1001378423947351,0.9814881778352743,,,,,,,,,,,,,,,,,,,Extended topochemical atom,continuous_float_like,False,False,False,0.0055724417426545
+SP-0,0.09899262514738373,0.9702634783365811,PC1,0.09899262514738373,0.9702634783365811,,,,,,,,,,,,,,,,,,,Chi path,continuous_float_like,False,False,False,0.0263424518743667
+VABC,0.09870036945635907,0.9673989717845518,PC1,0.09870036945635907,0.9673989717845518,,,,,,,,,,,,,,,,,,,Van der Waals volume,continuous_float_like,False,False,False,0.0106382978723404
+ETA_Eta,0.09857676323559895,0.9661874613157647,PC1,0.09857676323559895,0.9661874613157647,,,,,,,,,,,,,,,,,,,Extended topochemical atom,continuous_float_like,False,False,False,0.0030395136778115
+Kier1,0.09832188685600006,0.9636893232752058,PC1,0.09832188685600006,0.9636893232752058,,,,,,,,,,,,,,,,,,,Kappa shape indices,continuous_float_like,False,False,False,0.0577507598784194
+VP-0,0.0982167332840383,0.9626586740693758,PC1,0.0982167332840383,0.9626586740693758,,,,,,,,,,,,,,,,,,,Chi path,continuous_float_like,False,False,False,0.0060790273556231
+McGowan_Volume,0.09803951996196705,0.9609217404945324,PC1,0.09803951996196705,0.9609217404945324,,,,,,,,,,,,,,,,,,,McGowan volume,continuous_float_like,False,False,False,0.0106382978723404
+nHeavyAtom,0.0979747215428558,0.9602866271270065,PC1,0.0979747215428558,0.9602866271270065,,,,,,,,,,,,,,,,,,,Atom count,integer_count_like,False,False,False,0.0795339412360689
+SP-2,0.0977691152268574,0.9582714032754154,PC1,0.0977691152268574,0.9582714032754154,,,,,,,,,,,,,,,,,,,Chi path,continuous_float_like,False,False,False,0.0055724417426545
+MW,0.09770317565411443,0.9576251050373968,PC1,0.09770317565411443,0.9576251050373968,,,,,,,,,,,,,,,,,,,Weight,continuous_float_like,False,False,False,0.0106382978723404
+ETA_Alpha,0.09729306972358631,0.9536055045262648,PC1,0.09729306972358631,0.9536055045262648,,,,,,,,,,,,,,,,,,,Extended topochemical atom,continuous_float_like,False,False,False,0.0187436676798378
+SP-1,0.0970830265855614,0.9515467937344521,PC1,0.0970830265855614,0.9515467937344521,,,,,,,,,,,,,,,,,,,Chi path,continuous_float_like,False,False,False,0.0116514690982776
+ETA_Eta_R_L,0.09708301753263511,0.9515467050033608,PC1,0.09708301753263511,0.9515467050033608,,,,,,,,,,,,,,,,,,,Extended topochemical atom,continuous_float_like,False,False,False,0.0116514690982776
+WTPT-1,0.0969910955912426,0.9506457439220876,PC1,0.0969910955912426,0.9506457439220876,,,,,,,,,,,,,,,,,,,Weighted path,continuous_float_like,False,False,False,0.0055724417426545
+ETA_Beta_s,0.09673278107557234,0.9481139074331972,PC1,0.09673278107557234,0.9481139074331972,,,,,,,,,,,,,,,,,,,Extended topochemical atom,continuous_float_like,False,False,False,0.03596757852077
+apol,0.09664568149494782,0.9472602121005149,PC1,0.09664568149494782,0.9472602121005149,,,,,,,,,,,,,,,,,,,APol,continuous_float_like,False,False,False,0.0106382978723404
+VP-1,0.09648744027904313,0.945709231183185,PC1,0.09648744027904313,0.945709231183185,,,,,,,,,,,,,,,,,,,Chi path,continuous_float_like,False,False,False,0.0045592705167173
+nBonds,0.0963138511827698,0.9440078199911822,PC1,0.0963138511827698,0.9440078199911822,,,,,,,,,,,,,,,,,,,Bond count,integer_count_like,False,False,False,0.0678824721377912
+nAtom,0.09627184463163924,0.9435960981851176,PC1,0.09627184463163924,0.9435960981851176,,,,,,,,,,,,,,,,,,,Atom count,integer_count_like,False,False,False,0.0430597771023302
+nBonds2,0.09620862186006578,0.942976428324199,PC1,0.09620862186006578,0.942976428324199,,,,,,,,,,,,,,,,,,,Bond count,integer_count_like,False,False,False,0.0450861195542046
+Zagreb,0.09605019923065457,0.9414236693057276,PC1,0.09605019923065457,0.9414236693057276,,,,,,,,,,,,,,,,,,,Zagreb index,integer_count_like,False,False,False,0.0349544072948328
+CrippenMR,0.09589495927714856,0.939902104875638,PC1,0.09589495927714856,0.939902104875638,,,,,,,,,,,,,,,,,,,Crippen logP and MR,continuous_float_like,False,False,False,0.0040526849037487
+MLFER_L,0.09556462051698758,0.9366643320214881,PC1,0.09556462051698758,0.9366643320214881,,,,,,,,,,,,,,,,,,,Molecular linear free energy relation,continuous_float_like,False,False,False,0.0040526849037487
+VP-2,0.09514951780987768,0.9325957562476086,PC1,0.09514951780987768,0.9325957562476086,,,,,,,,,,,,,,,,,,,Chi path,continuous_float_like,False,False,False,0.0035460992907801
+ECCEN,0.0948155168182918,0.9293220885033553,PC1,0.0948155168182918,0.9293220885033553,,,,,,,,,,,,,,,,,,,Eccentric connectivity index,integer_count_like,False,False,False,0.0106382978723404
+ATSp1,0.09416847426455831,0.922980184165708,PC1,0.09416847426455831,0.922980184165708,,,,,,,,,,,,,,,,,,,Autocorrelation (polarizability),continuous_float_like,False,False,False,0.0030395136778115
+ETA_Eta_L,0.09406022052306785,0.9219191490471325,PC1,0.09406022052306785,0.9219191490471325,,,,,,,,,,,,,,,,,,,Extended topochemical atom,continuous_float_like,False,False,False,0.0045592705167173
+nBondsS,0.09400397878803375,0.9213679029176276,PC1,0.09400397878803375,0.9213679029176276,,,,,,,,,,,,,,,,,,,Bond count,integer_count_like,False,False,False,0.0552178318135764
+WPOL,0.09386316218680207,0.9199877071190503,PC1,0.09386316218680207,0.9199877071190503,,,,,,,,,,,,,,,,,,,Wiener numbers,integer_count_like,False,False,False,0.0415400202634245
+SP-3,0.09365829223024849,0.9179797005998129,PC1,0.09365829223024849,0.9179797005998129,,,,,,,,,,,,,,,,,,,Chi path,continuous_float_like,False,False,False,0.0055724417426545
+ETA_dEpsilon_A,,,PC2,0.11452828248218364,0.8017019892313693,0.11452828248218364,0.8017019892313693,,,,,,,,,,,,,,,,,Extended topochemical atom,continuous_float_like,False,False,False,0.0106382978723404
+ETA_Epsilon_1,,,PC2,0.11223199010632791,0.7856278621626543,0.11223199010632791,0.7856278621626543,,,,,,,,,,,,,,,,,Extended topochemical atom,continuous_float_like,False,False,False,0.0136778115501519
+ETA_Epsilon_2,,,PC2,0.11061383889451402,0.7743007469971039,0.11061383889451402,0.7743007469971039,,,,,,,,,,,,,,,,,Extended topochemical atom,continuous_float_like,False,False,False,0.0151975683890577
+ETA_dEpsilon_C,,,PC2,0.10754457976694967,0.7528158255898734,-0.10754457976694967,-0.7528158255898734,,,,,,,,,,,,,,,,,Extended topochemical atom,continuous_float_like,False,False,False,0.011144883485309
+ETA_dPsi_A,,,PC2,0.10574898329107282,0.7402465873600834,0.10574898329107282,0.7402465873600834,,,,,,,,,,,,,,,,,Extended topochemical atom,continuous_float_like,False,False,False,0.0157041540020263
+ETA_Psi_1,,,PC2,0.10541058069756842,0.7378777573515155,-0.10541058069756842,-0.7378777573515155,,,,,,,,,,,,,,,,,Extended topochemical atom,continuous_float_like,False,False,False,0.0157041540020263
+ETA_Epsilon_4,,,PC2,0.10475319765242691,0.7332760530077965,0.10475319765242691,0.7332760530077965,,,,,,,,,,,,,,,,,Extended topochemical atom,continuous_float_like,False,False,False,0.011144883485309
+maxssCH2,,,PC2,0.10024483322657823,0.7017173441015906,-0.10024483322657823,-0.7017173441015906,,,,,,,,,,,,,,,,,Atom type electrotopological state,continuous_float_like,False,False,False,0.2649442755825734
+ETA_EtaP_L,,,PC2,0.09982131624077593,0.6987527103654326,-0.09982131624077593,-0.6987527103654326,,,,,,,,,,,,,,,,,Extended topochemical atom,continuous_float_like,False,False,False,0.0045592705167173
+SssCH2,,,PC2,0.09816184391694831,0.6871363459683333,-0.09816184391694831,-0.6871363459683333,,,,,,,,,,,,,,,,,Atom type electrotopological state,continuous_float_like,False,False,False,0.2548125633232016
+ETA_EtaP_F_L,,,PC2,0.09293870360799851,0.6505741808422547,0.09293870360799851,0.6505741808422547,,,,,,,,,,,,,,,,,Extended topochemical atom,continuous_float_like,False,False,False,0.0045592705167173
+ETA_dEpsilon_B,,,PC2,0.09284037628320507,0.6498858861243554,0.09284037628320507,0.6498858861243554,,,,,,,,,,,,,,,,,Extended topochemical atom,continuous_float_like,False,False,False,0.0106382978723404
+ETA_EtaP_F,,,PC2,0.09252871600391209,0.6477042532520345,0.09252871600391209,0.6477042532520345,,,,,,,,,,,,,,,,,Extended topochemical atom,continuous_float_like,False,False,False,0.0030395136778115
+minssCH2,,,PC2,0.09242383152335501,0.6469700582140949,-0.09242383152335501,-0.6469700582140949,,,,,,,,,,,,,,,,,Atom type electrotopological state,continuous_float_like,False,False,False,0.2548125633232016
+minwHBa,,,PC2,0.09150910027346189,0.6405669074223648,-0.09150910027346189,-0.6405669074223648,,,,,,,,,,,,,,,,,Atom type electrotopological state,continuous_float_like,False,False,False,0.0030395136778115
+VPC-6,,,PC2,0.0908967463625672,0.6362804085957157,-0.0908967463625672,-0.6362804085957157,,,,,,,,,,,,,,,,,Chi path cluster,continuous_float_like,False,False,False,0.0045592705167173
+HybRatio,,,PC2,0.0892404753367428,0.6246864533967786,-0.0892404753367428,-0.6246864533967786,,,,,,,,,,,,,,,,,HybridizationRatioDescriptor,continuous_float_like,False,False,False,0.1357649442755825
+VPC-5,,,PC2,0.08901833473442726,0.623131461399119,-0.08901833473442726,-0.623131461399119,,,,,,,,,,,,,,,,,Chi path cluster,continuous_float_like,False,False,False,0.0045592705167173
+nHBAcc2,,,PC2,0.08846641364642234,0.6192679944496248,0.08846641364642234,0.6192679944496248,,,,,,,,,,,,,,,,,Hbond acceptor count,integer_low_cardinality,False,False,True,0.2360688956433637
+SsssCH,,,PC2,0.08808442235187804,0.6165940420068933,-0.08808442235187804,-0.6165940420068933,,,,,,,,,,,,,,,,,Atom type electrotopological state,continuous_float_like,False,False,False,0.6063829787234043
+VP-7,,,PC2,0.08755127599315139,0.6128619988200128,-0.08755127599315139,-0.6128619988200128,,,,,,,,,,,,,,,,,Chi path,continuous_float_like,False,False,False,0.0030395136778115
+VP-6,,,PC2,0.08687488993322941,0.6081272727071668,-0.08687488993322941,-0.6081272727071668,,,,,,,,,,,,,,,,,Chi path,continuous_float_like,False,False,False,0.0030395136778115
+LipoaffinityIndex,,,PC2,0.08541364451407887,0.5978985035865747,-0.08541364451407887,-0.5978985035865747,,,,,,,,,,,,,,,,,Atom type electrotopological state,continuous_float_like,False,False,False,0.0030395136778115
+ETA_Epsilon_5,,,PC2,0.08489309966295173,0.5942546713943153,0.08489309966295173,0.5942546713943153,,,,,,,,,,,,,,,,,Extended topochemical atom,continuous_float_like,False,False,False,0.0141843971631205
+SHBd,,,PC2,0.08476918284108269,0.5933872493005007,0.08476918284108269,0.5933872493005007,,,,,,,,,,,,,,,,,Atom type electrotopological state,continuous_float_like,False,False,False,0.0633232016210739
+nHBAcc3,,,PC2,0.08475654107856145,0.5932987565200195,0.08475654107856145,0.5932987565200195,,,,,,,,,,,,,,,,,Hbond acceptor count,integer_low_cardinality,False,False,True,0.270516717325228
+VP-5,,,PC2,0.08470411376807396,0.5929317635101093,-0.08470411376807396,-0.5929317635101093,,,,,,,,,,,,,,,,,Chi path,continuous_float_like,False,False,False,0.0030395136778115
+TopoPSA,,,PC2,0.08466114722167402,0.5926309961802179,0.08466114722167402,0.5926309961802179,,,,,,,,,,,,,,,,,Topological polar surface area,continuous_float_like,False,False,False,0.0531914893617021
+SHBa,,,PC2,0.08460546678702151,0.5922412311871998,0.08460546678702151,0.5922412311871998,,,,,,,,,,,,,,,,,Atom type electrotopological state,continuous_float_like,False,False,False,0.0030395136778115
+SdssC,,,PC2,0.08307218182562603,0.5815081827473908,-0.08307218182562603,-0.5815081827473908,,,,,,,,,,,,,,,,,Atom type electrotopological state,continuous_float_like,False,False,False,0.3824721377912867
+C2SP2,,,PC3,0.14148157080265256,0.8932474895362313,,,-0.14148157080265256,-0.8932474895362313,,,,,,,,,,,,,,,Carbon types,integer_count_like,False,False,False,0.1494427558257345
+naAromAtom,,,PC3,0.14075060261506717,0.8886325033243361,,,-0.14075060261506717,-0.8886325033243361,,,,,,,,,,,,,,,Aromatic atoms count,integer_count_like,False,False,False,0.2806484295845998
+SHaaCH,,,PC3,0.1383605984855436,0.8735431515694285,,,-0.1383605984855436,-0.8735431515694285,,,,,,,,,,,,,,,Atom type electrotopological state,continuous_float_like,False,False,False,0.0288753799392097
+SHother,,,PC3,0.13487603005028426,0.8515432402788317,,,-0.13487603005028426,-0.8515432402788317,,,,,,,,,,,,,,,Atom type electrotopological state,continuous_float_like,False,False,False,0.0060790273556231
+nAromBond,,,PC3,0.13486695533462967,0.8514859468311401,,,-0.13486695533462967,-0.8514859468311401,,,,,,,,,,,,,,,Aromatic bonds count,integer_count_like,False,False,False,0.3297872340425531
+nHaaCH,,,PC3,0.13349468174533127,0.8428220626825248,,,-0.13349468174533127,-0.8428220626825248,,,,,,,,,,,,,,,Atom type electrotopological state,integer_count_like,False,False,False,0.2051671732522796
+naaCH,,,PC3,0.13349468174533125,0.8428220626825248,,,-0.13349468174533125,-0.8428220626825248,,,,,,,,,,,,,,,Atom type electrotopological state,integer_count_like,False,False,False,0.2051671732522796
+nwHBa,,,PC3,0.130297844262985,0.8226387480687486,,,-0.130297844262985,-0.8226387480687486,,,,,,,,,,,,,,,Atom type electrotopological state,integer_count_like,False,False,False,0.1236068895643363
+nHother,,,PC3,0.12949391315034772,0.8175631085769811,,,-0.12949391315034772,-0.8175631085769811,,,,,,,,,,,,,,,Atom type electrotopological state,integer_count_like,False,False,False,0.1666666666666666
+nBondsM,,,PC3,0.12625532545301613,0.7971162029208406,,,-0.12625532545301613,-0.7971162029208406,,,,,,,,,,,,,,,Bond count,integer_count_like,False,False,False,0.1752786220871327
+SaaCH,,,PC3,0.12403957227508221,0.7831269889730954,,,-0.12403957227508221,-0.7831269889730954,,,,,,,,,,,,,,,Atom type electrotopological state,continuous_float_like,False,False,False,0.0288753799392097
+ETA_Beta_ns,,,PC3,0.12354838732367697,0.7800258803110158,,,-0.12354838732367697,-0.7800258803110158,,,,,,,,,,,,,,,Extended topochemical atom,continuous_float_like,False,False,False,0.0633232016210739
+SwHBa,,,PC3,0.11379852857257584,0.7184698995331251,,,-0.11379852857257584,-0.7184698995331251,,,,,,,,,,,,,,,Atom type electrotopological state,continuous_float_like,False,False,False,0.0030395136778115
+naasC,,,PC3,0.11223275824575135,0.7085843688191836,,,-0.11223275824575135,-0.7085843688191836,,,,,,,,,,,,,,,Atom type electrotopological state,integer_low_cardinality,False,False,True,0.2411347517730496
+nBondsD,,,PC3,0.11007308067292612,0.6949491896280737,,,-0.11007308067292612,-0.6949491896280737,,,,,,,,,,,,,,,Bond count,integer_low_cardinality,False,False,True,0.171225937183384
+ETA_Eta_F_L,,,PC3,0.10534551053052937,0.6651015554991543,,,-0.10534551053052937,-0.6651015554991543,,,,,,,,,,,,,,,Extended topochemical atom,continuous_float_like,False,False,False,0.0050658561296859
+ETA_EtaP_F,,,PC3,0.10270685673036128,0.6484423477353173,,,-0.10270685673036128,-0.6484423477353173,,,,,,,,,,,,,,,Extended topochemical atom,continuous_float_like,False,False,False,0.0030395136778115
+MDEC-23,,,PC3,0.0991854925981141,0.6262101258775314,,,-0.0991854925981141,-0.6262101258775314,,,,,,,,,,,,,,,Molecular distance edge,continuous_float_like,False,False,False,0.0060790273556231
+C4SP3,,,PC3,0.09725934423489352,0.6140493392806604,,,0.09725934423489352,0.6140493392806604,,,,,,,,,,,,,,,Carbon types,integer_low_cardinality,False,False,True,0.8632218844984803
+ETA_Beta,,,PC3,0.09408415813395492,0.5940027212131394,,,-0.09408415813395492,-0.5940027212131394,,,,,,,,,,,,,,,Extended topochemical atom,continuous_float_like,False,False,False,0.0217831813576494
+ETA_dBeta,,,PC3,0.09133164117621928,0.5766246355129685,,,-0.09133164117621928,-0.5766246355129685,,,,,,,,,,,,,,,Extended topochemical atom,continuous_float_like,False,False,False,0.0329280648429584
+n6Ring,,,PC3,0.09002096188666761,0.5683496285397127,,,-0.09002096188666761,-0.5683496285397127,,,,,,,,,,,,,,,Ring count,integer_low_cardinality,False,False,True,0.3703140830800405
+nT6Ring,,,PC3,0.09000609722373853,0.5682557801128908,,,-0.09000609722373853,-0.5682557801128908,,,,,,,,,,,,,,,RingCountDescriptor,integer_low_cardinality,False,False,True,0.3632218844984802
+VC-4,,,PC3,0.08844367417936909,0.5583913825517172,,,0.08844367417936909,0.5583913825517172,,,,,,,,,,,,,,,Chi cluster,continuous_float_like,False,False,False,0.7223910840932117
+ETA_EtaP_F_L,,,PC3,0.08827737144803925,0.5573414260349732,,,-0.08827737144803925,-0.5573414260349732,,,,,,,,,,,,,,,Extended topochemical atom,continuous_float_like,False,False,False,0.0045592705167173
+maxHaaCH,,,PC3,0.08796575239062458,0.5553740112038535,,,-0.08796575239062458,-0.5553740112038535,,,,,,,,,,,,,,,Atom type electrotopological state,continuous_float_like,False,False,False,0.0288753799392097
+CrippenLogP,,,PC3,0.08790457163106567,0.554987744924975,,,-0.08790457163106567,-0.554987744924975,,,,,,,,,,,,,,,Crippen logP and MR,continuous_float_like,False,False,False,0.0040526849037487
+ETA_Shape_P,,,PC3,0.08481093052205986,0.5354559632344806,,,0.08481093052205986,0.5354559632344806,,,,,,,,,,,,,,,Extended topochemical atom,continuous_float_like,False,False,False,0.0070921985815602
+nRing,,,PC3,0.08433446773094569,0.5324478033052009,,,-0.08433446773094569,-0.5324478033052009,,,,,,,,,,,,,,,Ring count,integer_low_cardinality,False,False,True,0.3115501519756838
+MLFER_E,,,PC3,0.08422220108921914,0.5317390050121651,,,-0.08422220108921914,-0.5317390050121651,,,,,,,,,,,,,,,Molecular linear free energy relation,continuous_float_like,False,False,False,0.0075987841945288
+ETA_EtaP_B_RC,,,PC4,0.12271216220907025,0.6264131247051723,,,,,-0.12271216220907025,-0.6264131247051723,,,,,,,,,,,,,Extended topochemical atom,continuous_float_like,False,False,False,0.0126646403242147
+ETA_EtaP_B,,,PC4,0.1150338699556045,0.5872174740352852,,,,,-0.1150338699556045,-0.5872174740352852,,,,,,,,,,,,,Extended topochemical atom,continuous_float_like,False,False,False,0.0131712259371833
+MAXDN2,,,PC4,0.11321566930619538,0.5779360407231057,,,,,-0.11321566930619538,-0.5779360407231057,,,,,,,,,,,,,Atom type electrotopological state,continuous_float_like,False,False,False,0.0035460992907801
+minaasC,,,PC4,0.11115207291738322,0.5674019270804459,,,,,0.11115207291738322,0.5674019270804459,,,,,,,,,,,,,Atom type electrotopological state,continuous_float_like,False,False,False,0.0268490374873353
+SC-4,,,PC4,0.10692581662004544,0.5458280067341547,,,,,-0.10692581662004544,-0.5458280067341547,,,,,,,,,,,,,Chi cluster,continuous_float_like,False,False,False,0.7223910840932117
+SC-5,,,PC4,0.10438996101070178,0.5328831347063618,,,,,-0.10438996101070178,-0.5328831347063618,,,,,,,,,,,,,Chi cluster,continuous_float_like,False,False,False,0.0354609929078014
+minaaCH,,,PC4,0.10118230110585762,0.5165088794751488,,,,,0.10118230110585762,0.5165088794751488,,,,,,,,,,,,,Atom type electrotopological state,continuous_float_like,False,False,False,0.0288753799392097
+SsF,,,PC4,0.1009308297906811,0.5152251849376458,,,,,-0.1009308297906811,-0.5152251849376458,,,,,,,,,,,,,Atom type electrotopological state,continuous_float_like,False,False,False,0.8348530901722391
+MAXDN,,,PC4,0.10084539860680755,0.514789081344701,,,,,-0.10084539860680755,-0.514789081344701,,,,,,,,,,,,,Atom type electrotopological state,continuous_float_like,False,False,False,0.0035460992907801
+nF,,,PC4,0.10043222777519138,0.5126799535532047,,,,,-0.10043222777519138,-0.5126799535532047,,,,,,,,,,,,,Atom count,integer_low_cardinality,False,False,True,0.8348530901722391
+nsF,,,PC4,0.10043222777519138,0.5126799535532047,,,,,-0.10043222777519138,-0.5126799535532047,,,,,,,,,,,,,Atom type electrotopological state,integer_low_cardinality,False,False,True,0.8348530901722391
+WTPT-5,,,PC4,0.10040094260659048,0.5125202510439484,,,,,0.10040094260659048,0.5125202510439484,,,,,,,,,,,,,Weighted path,continuous_float_like,False,False,False,0.2492401215805471
+nN,,,PC4,0.0992390017367825,0.5065888502938021,,,,,0.0992390017367825,0.5065888502938021,,,,,,,,,,,,,Atom count,integer_low_cardinality,False,False,True,0.3799392097264438
+SPC-6,,,PC4,0.09814636306989775,0.501011218955759,,,,,-0.09814636306989775,-0.501011218955759,,,,,,,,,,,,,Chi path cluster,continuous_float_like,False,False,False,0.0055724417426545
+SC-6,,,PC4,0.0980035269856127,0.5002820785326164,,,,,-0.0980035269856127,-0.5002820785326164,,,,,,,,,,,,,Chi cluster,continuous_float_like,False,False,False,0.7477203647416414
+nHdsCH,,,PC4,0.09724545902018303,0.49641234211517216,,,,,-0.09724545902018303,-0.49641234211517216,,,,,,,,,,,,,Atom type electrotopological state,integer_low_cardinality,False,False,True,0.7781155015197568
+ndsCH,,,PC4,0.09724545902018301,0.49641234211517216,,,,,-0.09724545902018301,-0.49641234211517216,,,,,,,,,,,,,Atom type electrotopological state,integer_low_cardinality,False,False,True,0.7781155015197568
+maxHBa,,,PC4,0.09695121054786117,0.49491028150709243,,,,,-0.09695121054786117,-0.49491028150709243,,,,,,,,,,,,,Atom type electrotopological state,continuous_float_like,False,False,False,0.0030395136778115
+gmax,,,PC4,0.09576065651671548,0.4888328181378978,,,,,-0.09576065651671548,-0.4888328181378978,,,,,,,,,,,,,Atom type electrotopological state,continuous_float_like,False,False,False,0.0030395136778115
+ETA_Shape_X,,,PC4,0.09564027949947879,0.48821832531051634,,,,,-0.09564027949947879,-0.48821832531051634,,,,,,,,,,,,,Extended topochemical atom,continuous_float_like,False,False,False,0.7223910840932117
+SPC-5,,,PC4,0.09462727252502066,0.4830471926958265,,,,,-0.09462727252502066,-0.4830471926958265,,,,,,,,,,,,,Chi path cluster,continuous_float_like,False,False,False,0.0081053698074974
+nssssC,,,PC4,0.09458808194484536,0.4828471351518572,,,,,-0.09458808194484536,-0.4828471351518572,,,,,,,,,,,,,Atom type electrotopological state,integer_low_cardinality,False,False,True,0.779128672745694
+SsOH,,,PC4,0.09372698756954013,0.4784514761675176,,,,,-0.09372698756954013,-0.4784514761675176,,,,,,,,,,,,,Atom type electrotopological state,continuous_float_like,False,False,False,0.21580547112462
+nsOH,,,PC4,0.09368036965912081,0.4782135040675457,,,,,-0.09368036965912081,-0.4782135040675457,,,,,,,,,,,,,Atom type electrotopological state,integer_low_cardinality,False,False,True,0.4290780141843971
+nHsOH,,,PC4,0.0936803696591208,0.4782135040675457,,,,,-0.0936803696591208,-0.4782135040675457,,,,,,,,,,,,,Atom type electrotopological state,integer_low_cardinality,False,False,True,0.4290780141843971
+SHdsCH,,,PC4,0.09208511949518004,0.47007017400237144,,,,,-0.09208511949518004,-0.47007017400237144,,,,,,,,,,,,,Atom type electrotopological state,continuous_float_like,False,False,False,0.7781155015197568
+maxdsCH,,,PC4,0.09173611212415231,0.4682885837028045,,,,,-0.09173611212415231,-0.4682885837028045,,,,,,,,,,,,,Atom type electrotopological state,continuous_float_like,False,False,False,0.7781155015197568
+SdsCH,,,PC4,0.09039762442753754,0.46145595810708284,,,,,-0.09039762442753754,-0.46145595810708284,,,,,,,,,,,,,Atom type electrotopological state,continuous_float_like,False,False,False,0.7781155015197568
+BCUTp-1l,,,PC4,0.08843976768741427,0.4514616173976737,,,,,0.08843976768741427,0.4514616173976737,,,,,,,,,,,,,BCUT,continuous_float_like,False,False,False,0.0030395136778115
+maxHdsCH,,,PC4,0.08819099567966322,0.45019170211047604,,,,,-0.08819099567966322,-0.45019170211047604,,,,,,,,,,,,,Atom type electrotopological state,continuous_float_like,False,False,False,0.7781155015197568
+nT5Ring,,,PC5,0.1543333517217504,0.7117146649446204,,,,,,,-0.1543333517217504,-0.7117146649446204,,,,,,,,,,,RingCountDescriptor,integer_low_cardinality,False,False,True,0.4356636271529888
+n5Ring,,,PC5,0.1543333517217504,0.7117146649446204,,,,,,,-0.1543333517217504,-0.7117146649446204,,,,,,,,,,,Ring count,integer_low_cardinality,False,False,True,0.4356636271529888
+SCH-5,,,PC5,0.13890784650745858,0.6405793066263188,,,,,,,-0.13890784650745858,-0.6405793066263188,,,,,,,,,,,Chi chain,continuous_float_like,False,False,False,0.4265450861195542
+minsOH,,,PC5,0.1321212842784455,0.6092827928847133,,,,,,,0.1321212842784455,0.6092827928847133,,,,,,,,,,,Atom type electrotopological state,continuous_float_like,False,False,False,0.21580547112462
+maxsOH,,,PC5,0.1312941393715986,0.6054683797739379,,,,,,,0.1312941393715986,0.6054683797739379,,,,,,,,,,,Atom type electrotopological state,continuous_float_like,False,False,False,0.21580547112462
+nF9Ring,,,PC5,0.12721363189085963,0.5866509499568623,,,,,,,-0.12721363189085963,-0.5866509499568623,,,,,,,,,,,Ring count,integer_low_cardinality,False,False,True,0.6058763931104356
+nT9Ring,,,PC5,0.1272136318908596,0.5866509499568623,,,,,,,-0.1272136318908596,-0.5866509499568623,,,,,,,,,,,RingCountDescriptor,integer_low_cardinality,False,False,True,0.6058763931104356
+minHsOH,,,PC5,0.12384832447935029,0.571131694979907,,,,,,,0.12384832447935029,0.571131694979907,,,,,,,,,,,Atom type electrotopological state,continuous_float_like,False,False,False,0.21580547112462
+maxHaaNH,,,PC5,0.12208267457693812,0.5629893270815511,,,,,,,-0.12208267457693812,-0.5629893270815511,,,,,,,,,,,Atom type electrotopological state,continuous_float_like,False,False,False,0.9275582573454914
+SCH-6,,,PC5,0.12205632842376252,0.5628678307013407,,,,,,,-0.12205632842376252,-0.5628678307013407,,,,,,,,,,,Chi chain,continuous_float_like,False,False,False,0.0243161094224924
+maxHsOH,,,PC5,0.12191662485261753,0.5622235818774811,,,,,,,0.12191662485261753,0.5622235818774811,,,,,,,,,,,Atom type electrotopological state,continuous_float_like,False,False,False,0.21580547112462
+minHaaNH,,,PC5,0.1218863206168991,0.5620838326351424,,,,,,,-0.1218863206168991,-0.5620838326351424,,,,,,,,,,,Atom type electrotopological state,continuous_float_like,False,False,False,0.9275582573454914
+SHaaNH,,,PC5,0.12128552078464341,0.5593132192418461,,,,,,,-0.12128552078464341,-0.5593132192418461,,,,,,,,,,,Atom type electrotopological state,continuous_float_like,False,False,False,0.9275582573454914
+nsOH,,,PC5,0.11998333755999005,0.553308147187805,,,,,,,0.11998333755999005,0.553308147187805,,,,,,,,,,,Atom type electrotopological state,integer_low_cardinality,False,False,True,0.4290780141843971
+nHsOH,,,PC5,0.11998333755999002,0.553308147187805,,,,,,,0.11998333755999002,0.553308147187805,,,,,,,,,,,Atom type electrotopological state,integer_low_cardinality,False,False,True,0.4290780141843971
+SsOH,,,PC5,0.11973746262771912,0.5521742847200545,,,,,,,0.11973746262771912,0.5521742847200545,,,,,,,,,,,Atom type electrotopological state,continuous_float_like,False,False,False,0.21580547112462
+SCH-7,,,PC5,0.11614377004490622,0.5356018220348536,,,,,,,-0.11614377004490622,-0.5356018220348536,,,,,,,,,,,Chi chain,continuous_float_like,False,False,False,0.0162107396149949
+BCUTc-1l,,,PC5,0.1148488252771176,0.5296301304254467,,,,,,,-0.1148488252771176,-0.5296301304254467,,,,,,,,,,,BCUT,continuous_float_like,False,False,False,0.0065856129685916
+SHsOH,,,PC5,0.11450658283967313,0.5280518652029378,,,,,,,0.11450658283967313,0.5280518652029378,,,,,,,,,,,Atom type electrotopological state,continuous_float_like,False,False,False,0.21580547112462
+naaNH,,,PC5,0.11433455768714007,0.5272585640633517,,,,,,,-0.11433455768714007,-0.5272585640633517,,,,,,,,,,,Atom type electrotopological state,integer_low_cardinality,False,False,True,0.9275582573454914
+nHaaNH,,,PC5,0.11433455768714006,0.5272585640633517,,,,,,,-0.11433455768714006,-0.5272585640633517,,,,,,,,,,,Atom type electrotopological state,integer_low_cardinality,False,False,True,0.9275582573454914
+maxaaNH,,,PC5,0.11093999415906469,0.5116043932890837,,,,,,,-0.11093999415906469,-0.5116043932890837,,,,,,,,,,,Atom type electrotopological state,continuous_float_like,False,False,False,0.9275582573454914
+minaaNH,,,PC5,0.1108524262420734,0.5112005702009037,,,,,,,-0.1108524262420734,-0.5112005702009037,,,,,,,,,,,Atom type electrotopological state,continuous_float_like,False,False,False,0.9275582573454914
+SaaNH,,,PC5,0.11004909076736649,0.5074959552758683,,,,,,,-0.11004909076736649,-0.5074959552758683,,,,,,,,,,,Atom type electrotopological state,continuous_float_like,False,False,False,0.9275582573454914
+naaN,,,PC5,0.10607353893901832,0.48916253281133126,,,,,,,-0.10607353893901832,-0.48916253281133126,,,,,,,,,,,Atom type electrotopological state,integer_low_cardinality,False,False,True,0.7583586626139818
+MLFER_A,,,PC5,0.1052230731092449,0.4852405742953575,,,,,,,0.1052230731092449,0.4852405742953575,,,,,,,,,,,Molecular linear free energy relation,continuous_float_like,False,False,False,0.232016210739615
+SaaN,,,PC5,0.10407662651194269,0.4799536881701417,,,,,,,-0.10407662651194269,-0.4799536881701417,,,,,,,,,,,Atom type electrotopological state,continuous_float_like,False,False,False,0.7583586626139818
+maxaaN,,,PC5,0.10241888607750418,0.47230894926763367,,,,,,,-0.10241888607750418,-0.47230894926763367,,,,,,,,,,,Atom type electrotopological state,continuous_float_like,False,False,False,0.7583586626139818
+minaaN,,,PC5,0.10027138103415384,0.46240564051846245,,,,,,,-0.10027138103415384,-0.46240564051846245,,,,,,,,,,,Atom type electrotopological state,continuous_float_like,False,False,False,0.7583586626139818
+VCH-5,,,PC5,0.09957392495872693,0.45918929284313237,,,,,,,-0.09957392495872693,-0.45918929284313237,,,,,,,,,,,Chi chain,continuous_float_like,False,False,False,0.4265450861195542
+naaaC,,,PC6,0.13928469780053543,0.5428216405815304,,,,,,,,,0.13928469780053543,0.5428216405815304,,,,,,,,,Atom type electrotopological state,integer_low_cardinality,False,False,True,0.6448834853090172
+ETA_Epsilon_3,,,PC6,0.1346462475580326,0.5247446284606653,,,,,,,,,0.1346462475580326,0.5247446284606653,,,,,,,,,Extended topochemical atom,continuous_float_like,False,False,False,0.083080040526849
+maxaaaC,,,PC6,0.13099583946406138,0.5105182235385749,,,,,,,,,0.13099583946406138,0.5105182235385749,,,,,,,,,Atom type electrotopological state,continuous_float_like,False,False,False,0.6474164133738601
+SaaaC,,,PC6,0.12800018365577528,0.49884352541200716,,,,,,,,,0.12800018365577528,0.49884352541200716,,,,,,,,,Atom type electrotopological state,continuous_float_like,False,False,False,0.6448834853090172
+minaaaC,,,PC6,0.12635628385794356,0.49243690358418374,,,,,,,,,0.12635628385794356,0.49243690358418374,,,,,,,,,Atom type electrotopological state,continuous_float_like,False,False,False,0.6448834853090172
+MLFER_A,,,PC6,0.11951740891852583,0.4657843755393377,,,,,,,,,0.11951740891852583,0.4657843755393377,,,,,,,,,Molecular linear free energy relation,continuous_float_like,False,False,False,0.232016210739615
+WTPT-2,,,PC6,0.11658990928202968,0.45437529628958157,,,,,,,,,0.11658990928202968,0.45437529628958157,,,,,,,,,Weighted path,continuous_float_like,False,False,False,0.0055724417426545
+SCH-7,,,PC6,0.11181459694724857,0.43576490392927153,,,,,,,,,0.11181459694724857,0.43576490392927153,,,,,,,,,Chi chain,continuous_float_like,False,False,False,0.0162107396149949
+nT9Ring,,,PC6,0.10821051275502883,0.4217190329548716,,,,,,,,,0.10821051275502883,0.4217190329548716,,,,,,,,,RingCountDescriptor,integer_low_cardinality,False,False,True,0.6058763931104356
+nF9Ring,,,PC6,0.10821051275502883,0.4217190329548716,,,,,,,,,0.10821051275502883,0.4217190329548716,,,,,,,,,Ring count,integer_low_cardinality,False,False,True,0.6058763931104356
+SHBd,,,PC6,0.10243646445176534,0.3992163573396151,,,,,,,,,0.10243646445176534,0.3992163573396151,,,,,,,,,Atom type electrotopological state,continuous_float_like,False,False,False,0.0633232016210739
+SsOH,,,PC6,0.09949294357597675,0.3877448399646784,,,,,,,,,0.09949294357597675,0.3877448399646784,,,,,,,,,Atom type electrotopological state,continuous_float_like,False,False,False,0.21580547112462
+nsOH,,,PC6,0.0990690057915386,0.3860926656247318,,,,,,,,,0.0990690057915386,0.3860926656247318,,,,,,,,,Atom type electrotopological state,integer_low_cardinality,False,False,True,0.4290780141843971
+nHsOH,,,PC6,0.09906900579153857,0.3860926656247318,,,,,,,,,0.09906900579153857,0.3860926656247318,,,,,,,,,Atom type electrotopological state,integer_low_cardinality,False,False,True,0.4290780141843971
+ETA_Shape_Y,,,PC6,0.09647918128928087,0.37599957709933685,,,,,,,,,0.09647918128928087,0.37599957709933685,,,,,,,,,Extended topochemical atom,continuous_float_like,False,False,False,0.0096251266464032
+BCUTc-1h,,,PC6,0.09623116817579115,0.37503301804959116,,,,,,,,,-0.09623116817579115,-0.37503301804959116,,,,,,,,,BCUT,continuous_float_like,False,False,False,0.0030395136778115
+minHssNH,,,PC6,0.09346409499540158,0.36424915430068705,,,,,,,,,-0.09346409499540158,-0.36424915430068705,,,,,,,,,Atom type electrotopological state,continuous_float_like,False,False,False,0.8302938196555217
+SHsOH,,,PC6,0.0933460221785965,0.3637889998031841,,,,,,,,,0.0933460221785965,0.3637889998031841,,,,,,,,,Atom type electrotopological state,continuous_float_like,False,False,False,0.21580547112462
+nHBd,,,PC6,0.09317417762207704,0.3631192855734964,,,,,,,,,0.09317417762207704,0.3631192855734964,,,,,,,,,Atom type electrotopological state,integer_low_cardinality,False,False,True,0.4741641337386018
+minssNH,,,PC6,0.09177874556159034,0.3576809945598035,,,,,,,,,-0.09177874556159034,-0.3576809945598035,,,,,,,,,Atom type electrotopological state,continuous_float_like,False,False,False,0.8302938196555217
+maxssNH,,,PC6,0.09081661566147065,0.3539313728204265,,,,,,,,,-0.09081661566147065,-0.3539313728204265,,,,,,,,,Atom type electrotopological state,continuous_float_like,False,False,False,0.8302938196555217
+ETA_dEpsilon_D,,,PC6,0.090751678865764,0.353678300526512,,,,,,,,,0.090751678865764,0.353678300526512,,,,,,,,,Extended topochemical atom,continuous_float_like,False,False,False,0.0633232016210739
+ETA_Epsilon_5,,,PC6,0.09067123925614597,0.3533648105197119,,,,,,,,,-0.09067123925614597,-0.3533648105197119,,,,,,,,,Extended topochemical atom,continuous_float_like,False,False,False,0.0141843971631205
+maxHssNH,,,PC6,0.09012582197728886,0.3512392051460718,,,,,,,,,-0.09012582197728886,-0.3512392051460718,,,,,,,,,Atom type electrotopological state,continuous_float_like,False,False,False,0.8302938196555217
+nHBDon,,,PC6,0.08887019633892457,0.3463457690419193,,,,,,,,,0.08887019633892457,0.3463457690419193,,,,,,,,,Hbond donor count,integer_low_cardinality,False,False,True,0.4772036474164133
+nHBint10,,,PC6,0.08873775666177608,0.34582962388051164,,,,,,,,,0.08873775666177608,0.34582962388051164,,,,,,,,,Atom type electrotopological state,integer_low_cardinality,False,False,True,0.5015197568389058
+FMF,,,PC6,0.08860763507349624,0.34532251279695,,,,,,,,,0.08860763507349624,0.34532251279695,,,,,,,,,FMFDescriptor,continuous_float_like,False,False,False,0.0673758865248227
+SHBint10,,,PC6,0.0882575156540781,0.3439580240867821,,,,,,,,,0.0882575156540781,0.3439580240867821,,,,,,,,,Atom type electrotopological state,continuous_float_like,False,False,False,0.5015197568389058
+ATSc2,,,PC6,0.08770549755315687,0.3418066939270122,,,,,,,,,0.08770549755315687,0.3418066939270122,,,,,,,,,Autocorrelation (charge),continuous_float_like,False,False,False,0.0035460992907801
+nTRing,,,PC6,0.08733989007042929,0.3403818449901438,,,,,,,,,0.08733989007042929,0.3403818449901438,,,,,,,,,RingCountDescriptor,integer_low_cardinality,False,False,True,0.2487335359675785
+SHdsCH,,,PC7,0.15885936028157033,0.5921024094115859,,,,,,,,,,,0.15885936028157033,0.5921024094115859,,,,,,,Atom type electrotopological state,continuous_float_like,False,False,False,0.7781155015197568
+maxHAvin,,,PC7,0.1575339765793966,0.5871624242444488,,,,,,,,,,,0.1575339765793966,0.5871624242444488,,,,,,,Atom type electrotopological state,continuous_float_like,False,False,False,0.8449848024316109
+minHAvin,,,PC7,0.15725182486554304,0.5861107851764323,,,,,,,,,,,0.15725182486554304,0.5861107851764323,,,,,,,Atom type electrotopological state,continuous_float_like,False,False,False,0.8449848024316109
+nHdsCH,,,PC7,0.1544286012031147,0.5755880339210517,,,,,,,,,,,0.1544286012031147,0.5755880339210517,,,,,,,Atom type electrotopological state,integer_low_cardinality,False,False,True,0.7781155015197568
+ndsCH,,,PC7,0.1544286012031147,0.5755880339210517,,,,,,,,,,,0.1544286012031147,0.5755880339210517,,,,,,,Atom type electrotopological state,integer_low_cardinality,False,False,True,0.7781155015197568
+nHAvin,,,PC7,0.15057804687888113,0.5612362041710911,,,,,,,,,,,0.15057804687888113,0.5612362041710911,,,,,,,Atom type electrotopological state,integer_low_cardinality,False,False,True,0.8449848024316109
+SHAvin,,,PC7,0.14926813078000972,0.5563538700304138,,,,,,,,,,,0.14926813078000972,0.5563538700304138,,,,,,,Atom type electrotopological state,continuous_float_like,False,False,False,0.8449848024316109
+maxHdsCH,,,PC7,0.14921566568847416,0.5561583215461886,,,,,,,,,,,0.14921566568847416,0.5561583215461886,,,,,,,Atom type electrotopological state,continuous_float_like,False,False,False,0.7781155015197568
+minHdsCH,,,PC7,0.14476860490003132,0.5395831861372975,,,,,,,,,,,0.14476860490003132,0.5395831861372975,,,,,,,Atom type electrotopological state,continuous_float_like,False,False,False,0.7781155015197568
+maxdsCH,,,PC7,0.14263833372637644,0.5316432152574869,,,,,,,,,,,0.14263833372637644,0.5316432152574869,,,,,,,Atom type electrotopological state,continuous_float_like,False,False,False,0.7781155015197568
+SdsCH,,,PC7,0.13857450171675223,0.5164964544995576,,,,,,,,,,,0.13857450171675223,0.5164964544995576,,,,,,,Atom type electrotopological state,continuous_float_like,False,False,False,0.7781155015197568
+mindsCH,,,PC7,0.13018921535454112,0.4852427200650791,,,,,,,,,,,0.13018921535454112,0.4852427200650791,,,,,,,Atom type electrotopological state,continuous_float_like,False,False,False,0.7781155015197568
+ETA_BetaP_s,,,PC7,0.12905504882975002,0.4810154417302525,,,,,,,,,,,-0.12905504882975002,-0.4810154417302525,,,,,,,Extended topochemical atom,continuous_float_like,False,False,False,0.0764944275582573
+minHBint2,,,PC7,0.11305006868642832,0.4213614982128621,,,,,,,,,,,0.11305006868642832,0.4213614982128621,,,,,,,Atom type electrotopological state,continuous_float_like,False,False,False,0.7826747720364742
+ALogP,,,PC7,0.11110924989467608,0.4141276563996339,,,,,,,,,,,0.11110924989467608,0.4141276563996339,,,,,,,ALOGP,continuous_float_like,False,False,False,0.0045592705167173
+SssO,,,PC7,0.10709646928625914,0.39917117500330646,,,,,,,,,,,-0.10709646928625914,-0.39917117500330646,,,,,,,Atom type electrotopological state,continuous_float_like,False,False,False,0.4731509625126646
+nssO,,,PC7,0.10578654731977295,0.39428881899278867,,,,,,,,,,,-0.10578654731977295,-0.39428881899278867,,,,,,,Atom type electrotopological state,integer_low_cardinality,False,False,True,0.4731509625126646
+nAcid,,,PC7,0.10509213644826255,0.3917006029165436,,,,,,,,,,,0.10509213644826255,0.3917006029165436,,,,,,,Acidic group count,integer_low_cardinality,False,False,True,0.9017223910840932
+MDEO-12,,,PC7,0.10421895251552063,0.3884460618588454,,,,,,,,,,,-0.10421895251552063,-0.3884460618588454,,,,,,,Molecular distance edge,continuous_float_like,False,False,False,0.3946301925025329
+XLogP,,,PC7,0.10421838609354121,0.3884439506844188,,,,,,,,,,,0.10421838609354121,0.3884439506844188,,,,,,,XLogP,continuous_float_like,False,False,False,0.0045592705167173
+maxHBint2,,,PC7,0.10418800933314538,0.38833073007854124,,,,,,,,,,,0.10418800933314538,0.38833073007854124,,,,,,,Atom type electrotopological state,continuous_float_like,False,False,False,0.7847011144883486
+MDEO-22,,,PC7,0.10076071310537692,0.37555647270628334,,,,,,,,,,,-0.10076071310537692,-0.37555647270628334,,,,,,,Molecular distance edge,continuous_float_like,False,False,False,0.7137791286727457
+nTRing,,,PC7,0.0988190718869989,0.3683195655352061,,,,,,,,,,,-0.0988190718869989,-0.3683195655352061,,,,,,,RingCountDescriptor,integer_low_cardinality,False,False,True,0.2487335359675785
+WTPT-4,,,PC7,0.09819846750480372,0.36600644184304376,,,,,,,,,,,-0.09819846750480372,-0.36600644184304376,,,,,,,Weighted path,continuous_float_like,False,False,False,0.0253292806484295
+nHother,,,PC7,0.09270411866726502,0.34552784253930585,,,,,,,,,,,0.09270411866726502,0.34552784253930585,,,,,,,Atom type electrotopological state,integer_count_like,False,False,False,0.1666666666666666
+nFG12Ring,,,PC7,0.09226906655139368,0.34390631135870336,,,,,,,,,,,-0.09226906655139368,-0.34390631135870336,,,,,,,Ring count,integer_low_cardinality,False,False,True,0.7836879432624113
+SwHBa,,,PC7,0.09193149272973324,0.34264810238187593,,,,,,,,,,,0.09193149272973324,0.34264810238187593,,,,,,,Atom type electrotopological state,continuous_float_like,False,False,False,0.0030395136778115
+nTG12Ring,,,PC7,0.0913284782054494,0.34040053980762225,,,,,,,,,,,-0.0913284782054494,-0.34040053980762225,,,,,,,RingCountDescriptor,integer_low_cardinality,False,False,True,0.7811550151975684
+MDEC-12,,,PC7,0.08979784181123053,0.33469553447873457,,,,,,,,,,,0.08979784181123053,0.33469553447873457,,,,,,,Molecular distance edge,continuous_float_like,False,False,False,0.3520770010131712
+nFRing,,,PC7,0.08953038197313704,0.3336986551366845,,,,,,,,,,,-0.08953038197313704,-0.3336986551366845,,,,,,,Ring count,integer_low_cardinality,False,False,True,0.5668693009118541
+mintsC,,,PC8,0.2234736227628332,0.7815285565870143,,,,,,,,,,,,,0.2234736227628332,0.7815285565870143,,,,,Atom type electrotopological state,continuous_float_like,False,False,False,0.9483282674772036
+maxtsC,,,PC8,0.22308065658150844,0.7801542812310184,,,,,,,,,,,,,0.22308065658150844,0.7801542812310184,,,,,Atom type electrotopological state,continuous_float_like,False,False,False,0.9483282674772036
+nBondsT,,,PC8,0.21522097275167856,0.7526675144134594,,,,,,,,,,,,,0.21522097275167856,0.7526675144134594,,,,,Bond count,integer_low_cardinality,False,False,True,0.9483282674772036
+C1SP1,,,PC8,0.2109474564620133,0.7377222382053674,,,,,,,,,,,,,0.2109474564620133,0.7377222382053674,,,,,Carbon types,integer_low_cardinality,False,False,True,0.9513677811550152
+ntsC,,,PC8,0.20895468006930498,0.7307531308962384,,,,,,,,,,,,,0.20895468006930498,0.7307531308962384,,,,,Atom type electrotopological state,integer_low_cardinality,False,False,True,0.9483282674772036
+StsC,,,PC8,0.20789178126089802,0.7270359773402066,,,,,,,,,,,,,0.20789178126089802,0.7270359773402066,,,,,Atom type electrotopological state,continuous_float_like,False,False,False,0.9483282674772036
+ntCH,,,PC8,0.1680959427102701,0.5878625756826448,,,,,,,,,,,,,0.1680959427102701,0.5878625756826448,,,,,Atom type electrotopological state,binary_like,True,True,True,0.991388044579534
+nHtCH,,,PC8,0.16809594271027006,0.5878625756826448,,,,,,,,,,,,,0.16809594271027006,0.5878625756826448,,,,,Atom type electrotopological state,binary_like,True,True,True,0.991388044579534
+maxtCH,,,PC8,0.16803497066629938,0.5876493451772838,,,,,,,,,,,,,0.16803497066629938,0.5876493451772838,,,,,Atom type electrotopological state,continuous_float_like,False,False,True,0.991388044579534
+StCH,,,PC8,0.16803497066629938,0.5876493451772838,,,,,,,,,,,,,0.16803497066629938,0.5876493451772838,,,,,Atom type electrotopological state,continuous_float_like,False,False,True,0.991388044579534
+mintCH,,,PC8,0.16803497066629935,0.5876493451772838,,,,,,,,,,,,,0.16803497066629935,0.5876493451772838,,,,,Atom type electrotopological state,continuous_float_like,False,False,True,0.991388044579534
+maxHtCH,,,PC8,0.1659778242993064,0.5804551241725507,,,,,,,,,,,,,0.1659778242993064,0.5804551241725507,,,,,Atom type electrotopological state,continuous_float_like,False,False,True,0.991388044579534
+SHtCH,,,PC8,0.1659778242993064,0.5804551241725507,,,,,,,,,,,,,0.1659778242993064,0.5804551241725507,,,,,Atom type electrotopological state,continuous_float_like,False,False,True,0.991388044579534
+minHtCH,,,PC8,0.16597782429930638,0.5804551241725507,,,,,,,,,,,,,0.16597782429930638,0.5804551241725507,,,,,Atom type electrotopological state,continuous_float_like,False,False,True,0.991388044579534
+maxwHBa,,,PC8,0.1561857437980154,0.5462104090891985,,,,,,,,,,,,,0.1561857437980154,0.5462104090891985,,,,,Atom type electrotopological state,continuous_float_like,False,False,False,0.0035460992907801
+StN,,,PC8,0.15613717710678376,0.5460405623948679,,,,,,,,,,,,,0.15613717710678376,0.5460405623948679,,,,,Atom type electrotopological state,continuous_float_like,False,False,True,0.9599797365754812
+ntN,,,PC8,0.1556415594465024,0.5443072958470305,,,,,,,,,,,,,0.1556415594465024,0.5443072958470305,,,,,Atom type electrotopological state,integer_low_cardinality,False,False,True,0.9599797365754812
+maxtN,,,PC8,0.1546128935831736,0.5407098612261634,,,,,,,,,,,,,0.1546128935831736,0.5407098612261634,,,,,Atom type electrotopological state,continuous_float_like,False,False,True,0.9599797365754812
+mintN,,,PC8,0.15457782509126022,0.5405872202293063,,,,,,,,,,,,,0.15457782509126022,0.5405872202293063,,,,,Atom type electrotopological state,continuous_float_like,False,False,True,0.9599797365754812
+C2SP1,,,PC8,0.13955333811686002,0.4880438127640552,,,,,,,,,,,,,0.13955333811686002,0.4880438127640552,,,,,Carbon types,integer_low_cardinality,False,False,True,0.9883485309017224
+minHaaNH,,,PC8,0.09018331074635257,0.3153877034992833,,,,,,,,,,,,,-0.09018331074635257,-0.3153877034992833,,,,,Atom type electrotopological state,continuous_float_like,False,False,False,0.9275582573454914
+maxHaaNH,,,PC8,0.09010701137468138,0.31512087049647297,,,,,,,,,,,,,-0.09010701137468138,-0.31512087049647297,,,,,Atom type electrotopological state,continuous_float_like,False,False,False,0.9275582573454914
+SHaaNH,,,PC8,0.08938761610259607,0.3126050122861958,,,,,,,,,,,,,-0.08938761610259607,-0.3126050122861958,,,,,Atom type electrotopological state,continuous_float_like,False,False,False,0.9275582573454914
+nHaaNH,,,PC8,0.08857273788903267,0.3097552325843814,,,,,,,,,,,,,-0.08857273788903267,-0.3097552325843814,,,,,Atom type electrotopological state,integer_low_cardinality,False,False,True,0.9275582573454914
+naaNH,,,PC8,0.08857273788903264,0.3097552325843814,,,,,,,,,,,,,-0.08857273788903264,-0.3097552325843814,,,,,Atom type electrotopological state,integer_low_cardinality,False,False,True,0.9275582573454914
+minaaNH,,,PC8,0.08808285730245433,0.3080420296434916,,,,,,,,,,,,,-0.08808285730245433,-0.3080420296434916,,,,,Atom type electrotopological state,continuous_float_like,False,False,False,0.9275582573454914
+maxaaNH,,,PC8,0.08806854175846116,0.3079919655406439,,,,,,,,,,,,,-0.08806854175846116,-0.3079919655406439,,,,,Atom type electrotopological state,continuous_float_like,False,False,False,0.9275582573454914
+SaaNH,,,PC8,0.08709934031965615,0.30460248900132414,,,,,,,,,,,,,-0.08709934031965615,-0.30460248900132414,,,,,Atom type electrotopological state,continuous_float_like,False,False,False,0.9275582573454914
+nT9Ring,,,PC8,0.07615813306687061,0.2663390653100925,,,,,,,,,,,,,-0.07615813306687061,-0.2663390653100925,,,,,RingCountDescriptor,integer_low_cardinality,False,False,True,0.6058763931104356
+nF9Ring,,,PC8,0.07615813306687058,0.2663390653100925,,,,,,,,,,,,,-0.07615813306687058,-0.2663390653100925,,,,,Ring count,integer_low_cardinality,False,False,True,0.6058763931104356
+SsF,,,PC9,0.17025837435340196,0.5718879575510285,,,,,,,,,,,,,,,-0.17025837435340196,-0.5718879575510285,,,Atom type electrotopological state,continuous_float_like,False,False,False,0.8348530901722391
+nsF,,,PC9,0.17007619950032749,0.5712760428358937,,,,,,,,,,,,,,,-0.17007619950032749,-0.5712760428358937,,,Atom type electrotopological state,integer_low_cardinality,False,False,True,0.8348530901722391
+nF,,,PC9,0.17007619950032746,0.5712760428358937,,,,,,,,,,,,,,,-0.17007619950032746,-0.5712760428358937,,,Atom count,integer_low_cardinality,False,False,True,0.8348530901722391
+maxsF,,,PC9,0.15161506272196007,0.5092661602304345,,,,,,,,,,,,,,,-0.15161506272196007,-0.5092661602304345,,,Atom type electrotopological state,continuous_float_like,False,False,False,0.8348530901722391
+minsF,,,PC9,0.15068276919333545,0.5061346405977108,,,,,,,,,,,,,,,-0.15068276919333545,-0.5061346405977108,,,Atom type electrotopological state,continuous_float_like,False,False,False,0.8348530901722391
+nX,,,PC9,0.14540557491672557,0.48840885255402894,,,,,,,,,,,,,,,-0.14540557491672557,-0.48840885255402894,,,Atom count,integer_low_cardinality,False,False,True,0.7077001013171226
+mindsCH,,,PC9,0.1425577460847898,0.4788431614663749,,,,,,,,,,,,,,,0.1425577460847898,0.4788431614663749,,,Atom type electrotopological state,continuous_float_like,False,False,False,0.7781155015197568
+maxdsCH,,,PC9,0.1366145103167889,0.45888017886705146,,,,,,,,,,,,,,,0.1366145103167889,0.45888017886705146,,,Atom type electrotopological state,continuous_float_like,False,False,False,0.7781155015197568
+SssssC,,,PC9,0.1290942623614035,0.4336201042315696,,,,,,,,,,,,,,,0.1290942623614035,0.4336201042315696,,,Atom type electrotopological state,continuous_float_like,False,False,False,0.779128672745694
+SdsCH,,,PC9,0.12693430310672868,0.42636492696795114,,,,,,,,,,,,,,,0.12693430310672868,0.42636492696795114,,,Atom type electrotopological state,continuous_float_like,False,False,False,0.7781155015197568
+minssssC,,,PC9,0.12390603551528129,0.41619315260226813,,,,,,,,,,,,,,,0.12390603551528129,0.41619315260226813,,,Atom type electrotopological state,continuous_float_like,False,False,False,0.779128672745694
+minHdsCH,,,PC9,0.12069491318506813,0.4054071798250329,,,,,,,,,,,,,,,0.12069491318506813,0.4054071798250329,,,Atom type electrotopological state,continuous_float_like,False,False,False,0.7781155015197568
+maxHdsCH,,,PC9,0.11799271544587255,0.3963306550911602,,,,,,,,,,,,,,,0.11799271544587255,0.3963306550911602,,,Atom type electrotopological state,continuous_float_like,False,False,False,0.7781155015197568
+ndsCH,,,PC9,0.1163902829132286,0.3909481775966616,,,,,,,,,,,,,,,0.1163902829132286,0.3909481775966616,,,Atom type electrotopological state,integer_low_cardinality,False,False,True,0.7781155015197568
+nHdsCH,,,PC9,0.11639028291322859,0.3909481775966616,,,,,,,,,,,,,,,0.11639028291322859,0.3909481775966616,,,Atom type electrotopological state,integer_low_cardinality,False,False,True,0.7781155015197568
+SHdsCH,,,PC9,0.10538560112003849,0.3539840927573263,,,,,,,,,,,,,,,0.10538560112003849,0.3539840927573263,,,Atom type electrotopological state,continuous_float_like,False,False,False,0.7781155015197568
+maxdsN,,,PC9,0.10262419872293346,0.34470870302772055,,,,,,,,,,,,,,,0.10262419872293346,0.34470870302772055,,,Atom type electrotopological state,continuous_float_like,False,False,False,0.9371833839918946
+mindsN,,,PC9,0.1025706820076839,0.3445289434999133,,,,,,,,,,,,,,,0.1025706820076839,0.3445289434999133,,,Atom type electrotopological state,continuous_float_like,False,False,False,0.9371833839918946
+SdsN,,,PC9,0.10157466250566638,0.34118337203623056,,,,,,,,,,,,,,,0.10157466250566638,0.34118337203623056,,,Atom type electrotopological state,continuous_float_like,False,False,False,0.9371833839918946
+ndsN,,,PC9,0.1007566190019722,0.33843561157926516,,,,,,,,,,,,,,,0.1007566190019722,0.33843561157926516,,,Atom type electrotopological state,integer_low_cardinality,False,False,True,0.9371833839918946
+nS,,,PC9,0.09462521295122117,0.3178405759659118,,,,,,,,,,,,,,,0.09462521295122117,0.3178405759659118,,,Atom count,integer_low_cardinality,False,False,True,0.7325227963525835
+nBondsD2,,,PC9,0.09305672019747334,0.31257210021086534,,,,,,,,,,,,,,,0.09305672019747334,0.31257210021086534,,,Bond count,integer_low_cardinality,False,False,True,0.32016210739615
+LipoaffinityIndex,,,PC9,0.09184180823960215,0.3084912817440501,,,,,,,,,,,,,,,-0.09184180823960215,-0.3084912817440501,,,Atom type electrotopological state,continuous_float_like,False,False,False,0.0030395136778115
+nHAvin,,,PC9,0.09062352135134882,0.30439912708275774,,,,,,,,,,,,,,,0.09062352135134882,0.30439912708275774,,,Atom type electrotopological state,integer_low_cardinality,False,False,True,0.8449848024316109
+SwHBd,,,PC9,0.09041356478706007,0.3036938952186476,,,,,,,,,,,,,,,-0.09041356478706007,-0.3036938952186476,,,Atom type electrotopological state,continuous_float_like,False,False,True,0.9822695035460992
+maxwHBd,,,PC9,0.0895771761936578,0.30088451467442257,,,,,,,,,,,,,,,-0.0895771761936578,-0.30088451467442257,,,Atom type electrotopological state,continuous_float_like,False,False,True,0.9822695035460992
+SHCHnX,,,PC9,0.08851104726469954,0.2973034497313118,,,,,,,,,,,,,,,-0.08851104726469954,-0.2973034497313118,,,Atom type electrotopological state,continuous_float_like,False,False,True,0.9802431610942248
+SHAvin,,,PC9,0.08834847220073852,0.2967573695656201,,,,,,,,,,,,,,,0.08834847220073852,0.2967573695656201,,,Atom type electrotopological state,continuous_float_like,False,False,False,0.8449848024316109
+maxHCHnX,,,PC9,0.08755753462799519,0.2941006563511048,,,,,,,,,,,,,,,-0.08755753462799519,-0.2941006563511048,,,Atom type electrotopological state,continuous_float_like,False,False,True,0.9802431610942248
+minwHBd,,,PC9,0.08710365512344495,0.29257610154540276,,,,,,,,,,,,,,,-0.08710365512344495,-0.29257610154540276,,,Atom type electrotopological state,continuous_float_like,False,False,True,0.9822695035460992
+BCUTw-1h,,,PC10,0.19628531365032215,0.6167249437868225,,,,,,,,,,,,,,,,,0.19628531365032215,0.6167249437868225,BCUT,continuous_float_like,False,False,False,0.0146909827760891
+ETA_AlphaP,,,PC10,0.18523585162292233,0.5820077317805152,,,,,,,,,,,,,,,,,0.18523585162292233,0.5820077317805152,Extended topochemical atom,continuous_float_like,False,False,False,0.0238095238095238
+nS,,,PC10,0.16697872888749904,0.5246441787804574,,,,,,,,,,,,,,,,,0.16697872888749904,0.5246441787804574,Atom count,integer_low_cardinality,False,False,True,0.7325227963525835
+ETA_dAlpha_B,,,PC10,0.1629071137629671,0.5118512369036553,,,,,,,,,,,,,,,,,-0.1629071137629671,-0.5118512369036553,Extended topochemical atom,continuous_float_like,False,False,False,0.0759878419452887
+ATSm1,,,PC10,0.15919205154466107,0.500178577879196,,,,,,,,,,,,,,,,,0.15919205154466107,0.500178577879196,Autocorrelation (mass),continuous_float_like,False,False,False,0.0151975683890577
+ETA_dAlpha_A,,,PC10,0.1397352780020447,0.4390457435056582,,,,,,,,,,,,,,,,,0.1397352780020447,0.4390457435056582,Extended topochemical atom,continuous_float_like,False,False,False,0.9275582573454914
+gmin,,,PC10,0.13111419984988607,0.41195847018961346,,,,,,,,,,,,,,,,,-0.13111419984988607,-0.41195847018961346,Atom type electrotopological state,continuous_float_like,False,False,False,0.0035460992907801
+maxHCsatu,,,PC10,0.11489401436698524,0.36099493759453266,,,,,,,,,,,,,,,,,-0.11489401436698524,-0.36099493759453266,Atom type electrotopological state,continuous_float_like,False,False,False,0.6170212765957447
+nddssS,,,PC10,0.11283319153287102,0.3545198691195273,,,,,,,,,,,,,,,,,0.11283319153287102,0.3545198691195273,Atom type electrotopological state,binary_like,True,False,True,0.9376899696048632
+SddssS,,,PC10,0.11121582589881539,0.3494381352332993,,,,,,,,,,,,,,,,,-0.11121582589881539,-0.3494381352332993,Atom type electrotopological state,continuous_float_like,False,False,False,0.9376899696048632
+minddssS,,,PC10,0.11121582589881539,0.3494381352332993,,,,,,,,,,,,,,,,,-0.11121582589881539,-0.3494381352332993,Atom type electrotopological state,continuous_float_like,False,False,False,0.9376899696048632
+nBr,,,PC10,0.11068539329521203,0.34777152548264445,,,,,,,,,,,,,,,,,0.11068539329521203,0.34777152548264445,Atom count,integer_low_cardinality,False,False,True,0.941742654508612
+nsBr,,,PC10,0.11068539329521182,0.34777152548264445,,,,,,,,,,,,,,,,,0.11068539329521182,0.34777152548264445,Atom type electrotopological state,integer_low_cardinality,False,False,True,0.941742654508612
+nF11Ring,,,PC10,0.10866677784467454,0.3414290718517128,,,,,,,,,,,,,,,,,-0.10866677784467454,-0.3414290718517128,Ring count,integer_low_cardinality,False,False,True,0.9579533941236068
+nT11Ring,,,PC10,0.10866677784467452,0.3414290718517128,,,,,,,,,,,,,,,,,-0.10866677784467452,-0.3414290718517128,RingCountDescriptor,integer_low_cardinality,False,False,True,0.9579533941236068
+minHCsatu,,,PC10,0.10822531346923087,0.34004199868222357,,,,,,,,,,,,,,,,,-0.10822531346923087,-0.34004199868222357,Atom type electrotopological state,continuous_float_like,False,False,False,0.6170212765957447
+C3SP2,,,PC10,0.10274872872539954,0.3228346673976211,,,,,,,,,,,,,,,,,-0.10274872872539954,-0.3228346673976211,Carbon types,integer_low_cardinality,False,False,True,0.2168186423505572
+MAXDN,,,PC10,0.10131035612340157,0.3183153264157885,,,,,,,,,,,,,,,,,0.10131035612340157,0.3183153264157885,Atom type electrotopological state,continuous_float_like,False,False,False,0.0035460992907801
+nssS,,,PC10,0.09651462650629548,0.30324722975831,,,,,,,,,,,,,,,,,0.09651462650629548,0.30324722975831,Atom type electrotopological state,integer_low_cardinality,False,False,True,0.8880445795339412
+ndssC,,,PC10,0.09586178623990413,0.301196017321147,,,,,,,,,,,,,,,,,-0.09586178623990413,-0.301196017321147,Atom type electrotopological state,integer_low_cardinality,False,False,True,0.3824721377912867
+n7Ring,,,PC10,0.09490423917298932,0.29818742156819006,,,,,,,,,,,,,,,,,-0.09490423917298932,-0.29818742156819006,Ring count,integer_low_cardinality,False,False,True,0.9493414387031408
+maxdssC,,,PC10,0.09481081996105528,0.2978939000756384,,,,,,,,,,,,,,,,,-0.09481081996105528,-0.2978939000756384,Atom type electrotopological state,continuous_float_like,False,False,False,0.6266464032421479
+naaS,,,PC10,0.0925366133359782,0.29074838354703536,,,,,,,,,,,,,,,,,0.0925366133359782,0.29074838354703536,Atom type electrotopological state,integer_low_cardinality,False,False,True,0.9052684903748732
+SssS,,,PC10,0.09228204217730328,0.28994852552096234,,,,,,,,,,,,,,,,,-0.09228204217730328,-0.28994852552096234,Atom type electrotopological state,continuous_float_like,False,False,False,0.8880445795339412
+SaaS,,,PC10,0.09051557768693749,0.2843983256957063,,,,,,,,,,,,,,,,,-0.09051557768693749,-0.2843983256957063,Atom type electrotopological state,continuous_float_like,False,False,False,0.9052684903748732
+nT7Ring,,,PC10,0.08922049651189572,0.2803292038137712,,,,,,,,,,,,,,,,,-0.08922049651189572,-0.2803292038137712,RingCountDescriptor,integer_low_cardinality,False,False,True,0.9457953394123608
+nCl,,,PC10,0.08769916123353444,0.27554919558707475,,,,,,,,,,,,,,,,,0.08769916123353444,0.27554919558707475,Atom count,integer_low_cardinality,False,False,True,0.9123606889564336
+nsCl,,,PC10,0.08769916123353437,0.27554919558707475,,,,,,,,,,,,,,,,,0.08769916123353437,0.27554919558707475,Atom type electrotopological state,integer_low_cardinality,False,False,True,0.9123606889564336
+nFRing,,,PC10,0.08724085692843497,0.2741092116598859,,,,,,,,,,,,,,,,,-0.08724085692843497,-0.2741092116598859,Ring count,integer_low_cardinality,False,False,True,0.5668693009118541
+minaaS,,,PC10,0.08654088252855982,0.2719099046185842,,,,,,,,,,,,,,,,,-0.08654088252855982,-0.2719099046185842,Atom type electrotopological state,continuous_float_like,False,False,False,0.9052684903748732

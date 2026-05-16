@@ -1,0 +1,5 @@
+descriptor_numeric_type,n_descriptors
+continuous_float_like,359
+binary_like,241
+integer_low_cardinality,102
+integer_count_like,27

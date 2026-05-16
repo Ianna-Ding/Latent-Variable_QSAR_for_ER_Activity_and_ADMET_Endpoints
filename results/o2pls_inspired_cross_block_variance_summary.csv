@@ -1,0 +1,3 @@
+target_block,predictor_block,n_target_pcs,n_predictor_pcs,cross_block_R2_retained_PC_space,specific_residual_fraction_retained_PC_space
+Block_X,Block_Y,10,10,0.6188008343972706,0.3811991656027294
+Block_Y,Block_X,10,10,0.6558828452121708,0.3441171547878292

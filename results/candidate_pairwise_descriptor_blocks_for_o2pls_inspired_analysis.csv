@@ -1,0 +1,154 @@
+block_x_category,block_y_category,n_descriptors_x,n_descriptors_y,candidate_use
+Atom type electrotopological state,Extended topochemical atom,270,43,pairwise_two_block_analysis
+Atom type electrotopological state,Molecular distance edge,270,19,pairwise_two_block_analysis
+Atom type electrotopological state,Ring count,270,18,pairwise_two_block_analysis
+Atom type electrotopological state,Chi path,270,16,pairwise_two_block_analysis
+Atom type electrotopological state,Atom count,270,13,pairwise_two_block_analysis
+Atom type electrotopological state,RingCountDescriptor,270,11,pairwise_two_block_analysis
+Atom type electrotopological state,Chi chain,270,10,pairwise_two_block_analysis
+Atom type electrotopological state,Carbon types,270,9,pairwise_two_block_analysis
+Atom type electrotopological state,Bond count,270,9,pairwise_two_block_analysis
+Atom type electrotopological state,Chi cluster,270,8,pairwise_two_block_analysis
+Atom type electrotopological state,BCUT,270,6,pairwise_two_block_analysis
+Atom type electrotopological state,Molecular linear free energy relation,270,6,pairwise_two_block_analysis
+Atom type electrotopological state,Chi path cluster,270,6,pairwise_two_block_analysis
+Atom type electrotopological state,Autocorrelation (mass),270,5,pairwise_two_block_analysis
+Atom type electrotopological state,Autocorrelation (charge),270,5,pairwise_two_block_analysis
+Atom type electrotopological state,Weighted path,270,5,pairwise_two_block_analysis
+Atom type electrotopological state,Autocorrelation (polarizability),270,5,pairwise_two_block_analysis
+Extended topochemical atom,Molecular distance edge,43,19,pairwise_two_block_analysis
+Extended topochemical atom,Ring count,43,18,pairwise_two_block_analysis
+Extended topochemical atom,Chi path,43,16,pairwise_two_block_analysis
+Extended topochemical atom,Atom count,43,13,pairwise_two_block_analysis
+Extended topochemical atom,RingCountDescriptor,43,11,pairwise_two_block_analysis
+Extended topochemical atom,Chi chain,43,10,pairwise_two_block_analysis
+Extended topochemical atom,Carbon types,43,9,pairwise_two_block_analysis
+Extended topochemical atom,Bond count,43,9,pairwise_two_block_analysis
+Extended topochemical atom,Chi cluster,43,8,pairwise_two_block_analysis
+Extended topochemical atom,BCUT,43,6,pairwise_two_block_analysis
+Extended topochemical atom,Molecular linear free energy relation,43,6,pairwise_two_block_analysis
+Extended topochemical atom,Chi path cluster,43,6,pairwise_two_block_analysis
+Extended topochemical atom,Autocorrelation (mass),43,5,pairwise_two_block_analysis
+Extended topochemical atom,Autocorrelation (charge),43,5,pairwise_two_block_analysis
+Extended topochemical atom,Weighted path,43,5,pairwise_two_block_analysis
+Extended topochemical atom,Autocorrelation (polarizability),43,5,pairwise_two_block_analysis
+Molecular distance edge,Ring count,19,18,pairwise_two_block_analysis
+Molecular distance edge,Chi path,19,16,pairwise_two_block_analysis
+Molecular distance edge,Atom count,19,13,pairwise_two_block_analysis
+Molecular distance edge,RingCountDescriptor,19,11,pairwise_two_block_analysis
+Molecular distance edge,Chi chain,19,10,pairwise_two_block_analysis
+Molecular distance edge,Carbon types,19,9,pairwise_two_block_analysis
+Molecular distance edge,Bond count,19,9,pairwise_two_block_analysis
+Molecular distance edge,Chi cluster,19,8,pairwise_two_block_analysis
+Molecular distance edge,BCUT,19,6,pairwise_two_block_analysis
+Molecular distance edge,Molecular linear free energy relation,19,6,pairwise_two_block_analysis
+Molecular distance edge,Chi path cluster,19,6,pairwise_two_block_analysis
+Molecular distance edge,Autocorrelation (mass),19,5,pairwise_two_block_analysis
+Molecular distance edge,Autocorrelation (charge),19,5,pairwise_two_block_analysis
+Molecular distance edge,Weighted path,19,5,pairwise_two_block_analysis
+Molecular distance edge,Autocorrelation (polarizability),19,5,pairwise_two_block_analysis
+Ring count,Chi path,18,16,pairwise_two_block_analysis
+Ring count,Atom count,18,13,pairwise_two_block_analysis
+Ring count,RingCountDescriptor,18,11,pairwise_two_block_analysis
+Ring count,Chi chain,18,10,pairwise_two_block_analysis
+Ring count,Carbon types,18,9,pairwise_two_block_analysis
+Ring count,Bond count,18,9,pairwise_two_block_analysis
+Ring count,Chi cluster,18,8,pairwise_two_block_analysis
+Ring count,BCUT,18,6,pairwise_two_block_analysis
+Ring count,Molecular linear free energy relation,18,6,pairwise_two_block_analysis
+Ring count,Chi path cluster,18,6,pairwise_two_block_analysis
+Ring count,Autocorrelation (mass),18,5,pairwise_two_block_analysis
+Ring count,Autocorrelation (charge),18,5,pairwise_two_block_analysis
+Ring count,Weighted path,18,5,pairwise_two_block_analysis
+Ring count,Autocorrelation (polarizability),18,5,pairwise_two_block_analysis
+Chi path,Atom count,16,13,pairwise_two_block_analysis
+Chi path,RingCountDescriptor,16,11,pairwise_two_block_analysis
+Chi path,Chi chain,16,10,pairwise_two_block_analysis
+Chi path,Carbon types,16,9,pairwise_two_block_analysis
+Chi path,Bond count,16,9,pairwise_two_block_analysis
+Chi path,Chi cluster,16,8,pairwise_two_block_analysis
+Chi path,BCUT,16,6,pairwise_two_block_analysis
+Chi path,Molecular linear free energy relation,16,6,pairwise_two_block_analysis
+Chi path,Chi path cluster,16,6,pairwise_two_block_analysis
+Chi path,Autocorrelation (mass),16,5,pairwise_two_block_analysis
+Chi path,Autocorrelation (charge),16,5,pairwise_two_block_analysis
+Chi path,Weighted path,16,5,pairwise_two_block_analysis
+Chi path,Autocorrelation (polarizability),16,5,pairwise_two_block_analysis
+Atom count,RingCountDescriptor,13,11,pairwise_two_block_analysis
+Atom count,Chi chain,13,10,pairwise_two_block_analysis
+Atom count,Carbon types,13,9,pairwise_two_block_analysis
+Atom count,Bond count,13,9,pairwise_two_block_analysis
+Atom count,Chi cluster,13,8,pairwise_two_block_analysis
+Atom count,BCUT,13,6,pairwise_two_block_analysis
+Atom count,Molecular linear free energy relation,13,6,pairwise_two_block_analysis
+Atom count,Chi path cluster,13,6,pairwise_two_block_analysis
+Atom count,Autocorrelation (mass),13,5,pairwise_two_block_analysis
+Atom count,Autocorrelation (charge),13,5,pairwise_two_block_analysis
+Atom count,Weighted path,13,5,pairwise_two_block_analysis
+Atom count,Autocorrelation (polarizability),13,5,pairwise_two_block_analysis
+RingCountDescriptor,Chi chain,11,10,pairwise_two_block_analysis
+RingCountDescriptor,Carbon types,11,9,pairwise_two_block_analysis
+RingCountDescriptor,Bond count,11,9,pairwise_two_block_analysis
+RingCountDescriptor,Chi cluster,11,8,pairwise_two_block_analysis
+RingCountDescriptor,BCUT,11,6,pairwise_two_block_analysis
+RingCountDescriptor,Molecular linear free energy relation,11,6,pairwise_two_block_analysis
+RingCountDescriptor,Chi path cluster,11,6,pairwise_two_block_analysis
+RingCountDescriptor,Autocorrelation (mass),11,5,pairwise_two_block_analysis
+RingCountDescriptor,Autocorrelation (charge),11,5,pairwise_two_block_analysis
+RingCountDescriptor,Weighted path,11,5,pairwise_two_block_analysis
+RingCountDescriptor,Autocorrelation (polarizability),11,5,pairwise_two_block_analysis
+Chi chain,Carbon types,10,9,pairwise_two_block_analysis
+Chi chain,Bond count,10,9,pairwise_two_block_analysis
+Chi chain,Chi cluster,10,8,pairwise_two_block_analysis
+Chi chain,BCUT,10,6,pairwise_two_block_analysis
+Chi chain,Molecular linear free energy relation,10,6,pairwise_two_block_analysis
+Chi chain,Chi path cluster,10,6,pairwise_two_block_analysis
+Chi chain,Autocorrelation (mass),10,5,pairwise_two_block_analysis
+Chi chain,Autocorrelation (charge),10,5,pairwise_two_block_analysis
+Chi chain,Weighted path,10,5,pairwise_two_block_analysis
+Chi chain,Autocorrelation (polarizability),10,5,pairwise_two_block_analysis
+Carbon types,Bond count,9,9,pairwise_two_block_analysis
+Carbon types,Chi cluster,9,8,pairwise_two_block_analysis
+Carbon types,BCUT,9,6,pairwise_two_block_analysis
+Carbon types,Molecular linear free energy relation,9,6,pairwise_two_block_analysis
+Carbon types,Chi path cluster,9,6,pairwise_two_block_analysis
+Carbon types,Autocorrelation (mass),9,5,pairwise_two_block_analysis
+Carbon types,Autocorrelation (charge),9,5,pairwise_two_block_analysis
+Carbon types,Weighted path,9,5,pairwise_two_block_analysis
+Carbon types,Autocorrelation (polarizability),9,5,pairwise_two_block_analysis
+Bond count,Chi cluster,9,8,pairwise_two_block_analysis
+Bond count,BCUT,9,6,pairwise_two_block_analysis
+Bond count,Molecular linear free energy relation,9,6,pairwise_two_block_analysis
+Bond count,Chi path cluster,9,6,pairwise_two_block_analysis
+Bond count,Autocorrelation (mass),9,5,pairwise_two_block_analysis
+Bond count,Autocorrelation (charge),9,5,pairwise_two_block_analysis
+Bond count,Weighted path,9,5,pairwise_two_block_analysis
+Bond count,Autocorrelation (polarizability),9,5,pairwise_two_block_analysis
+Chi cluster,BCUT,8,6,pairwise_two_block_analysis
+Chi cluster,Molecular linear free energy relation,8,6,pairwise_two_block_analysis
+Chi cluster,Chi path cluster,8,6,pairwise_two_block_analysis
+Chi cluster,Autocorrelation (mass),8,5,pairwise_two_block_analysis
+Chi cluster,Autocorrelation (charge),8,5,pairwise_two_block_analysis
+Chi cluster,Weighted path,8,5,pairwise_two_block_analysis
+Chi cluster,Autocorrelation (polarizability),8,5,pairwise_two_block_analysis
+BCUT,Molecular linear free energy relation,6,6,pairwise_two_block_analysis
+BCUT,Chi path cluster,6,6,pairwise_two_block_analysis
+BCUT,Autocorrelation (mass),6,5,pairwise_two_block_analysis
+BCUT,Autocorrelation (charge),6,5,pairwise_two_block_analysis
+BCUT,Weighted path,6,5,pairwise_two_block_analysis
+BCUT,Autocorrelation (polarizability),6,5,pairwise_two_block_analysis
+Molecular linear free energy relation,Chi path cluster,6,6,pairwise_two_block_analysis
+Molecular linear free energy relation,Autocorrelation (mass),6,5,pairwise_two_block_analysis
+Molecular linear free energy relation,Autocorrelation (charge),6,5,pairwise_two_block_analysis
+Molecular linear free energy relation,Weighted path,6,5,pairwise_two_block_analysis
+Molecular linear free energy relation,Autocorrelation (polarizability),6,5,pairwise_two_block_analysis
+Chi path cluster,Autocorrelation (mass),6,5,pairwise_two_block_analysis
+Chi path cluster,Autocorrelation (charge),6,5,pairwise_two_block_analysis
+Chi path cluster,Weighted path,6,5,pairwise_two_block_analysis
+Chi path cluster,Autocorrelation (polarizability),6,5,pairwise_two_block_analysis
+Autocorrelation (mass),Autocorrelation (charge),5,5,pairwise_two_block_analysis
+Autocorrelation (mass),Weighted path,5,5,pairwise_two_block_analysis
+Autocorrelation (mass),Autocorrelation (polarizability),5,5,pairwise_two_block_analysis
+Autocorrelation (charge),Weighted path,5,5,pairwise_two_block_analysis
+Autocorrelation (charge),Autocorrelation (polarizability),5,5,pairwise_two_block_analysis
+Weighted path,Autocorrelation (polarizability),5,5,pairwise_two_block_analysis

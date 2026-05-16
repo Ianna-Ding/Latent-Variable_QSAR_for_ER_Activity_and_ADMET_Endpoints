@@ -1,0 +1,7 @@
+table,rows,columns,total_missing_values,columns_with_missing_values,duplicate_rows
+desc_train,1974,730,0,0,0
+desc_test,50,730,0,0,0
+activity_train,1974,3,0,0,0
+activity_test,50,3,100,2,0
+admet_train,1974,6,0,0,0
+admet_test,50,6,250,5,0

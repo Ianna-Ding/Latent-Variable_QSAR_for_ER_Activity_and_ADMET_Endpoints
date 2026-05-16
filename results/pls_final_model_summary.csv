@@ -1,0 +1,2 @@
+dataset_name,n_descriptors,selected_n_components,best_rmse_n_components,training_rmse,training_mae,training_r2,cv_rmse_global,cv_mae_global,cv_q2_global
+primary_remove_constant_only,504,20,43,0.7289751918247939,0.5608005756603497,0.7374442355171508,0.8555413056106478,0.6410783646229719,0.6383586977759292

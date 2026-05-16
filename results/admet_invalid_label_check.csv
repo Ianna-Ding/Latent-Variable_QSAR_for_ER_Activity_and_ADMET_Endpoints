@@ -1,0 +1,6 @@
+endpoint,observed_values,n_invalid_values,invalid_values
+Caco-2,"[0, 1]",0,[]
+CYP3A4,"[0, 1]",0,[]
+hERG,"[0, 1]",0,[]
+HOB,"[0, 1]",0,[]
+MN,"[0, 1]",0,[]

@@ -1,0 +1,4 @@
+dataset_name,n_descriptors
+primary_remove_constant_only,504
+sensitivity_remove_constant_nonbinary_near_constant,335
+sensitivity_remove_constant_all_near_constant,320

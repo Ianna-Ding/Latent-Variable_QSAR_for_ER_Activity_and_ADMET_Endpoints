@@ -1,0 +1,3 @@
+analysis,n_components,n_compounds,rmse_cv_global,mae_cv_global,q2_cv_global,r2_cv_global,n_removed_compounds,n_retained_compounds,fold_rmse_mean,fold_rmse_sd
+main_all_compounds,20,1974,0.8555413056106478,0.641078364622972,0.6383586977759292,0.6383586977759292,0,1974,,
+without_pca_outlier_flagged_compounds,20,1939,0.8323131357049042,0.6350971503572248,0.6553934763249488,0.6553934763249488,35,1939,0.8317355236777638,0.034714390848161435

@@ -1,0 +1,9 @@
+object,rows,columns
+desc_train,1974,730
+desc_test,50,730
+activity_train,1974,3
+activity_test,50,3
+admet_train,1974,6
+admet_test,50,6
+descriptor_summary,53,5
+descriptor_detailed,863,4
