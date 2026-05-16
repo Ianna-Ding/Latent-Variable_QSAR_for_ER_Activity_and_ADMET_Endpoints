@@ -28,7 +28,8 @@ This project is designed around four methodological themes.
 
 The training set contains
 
-$$n=1974 \quad \text{compounds}, \qquad p=729 \quad \text{molecular descriptors}.$$
+$$n=1974 \quad \text{compounds}, \qquad p=729 \quad \text{molecular descriptors}$$
+
 
 The response variables are:
 
@@ -36,19 +37,23 @@ The response variables are:
 - five binary ADMET endpoints: `Caco-2`, `CYP3A4`, `hERG`, `HOB`, `MN`.
 
 The main descriptor matrix is denoted by
+
 $$
-X \in \mathbb{R}^{n \times p},
+X \in \mathbb{R}^{n \times p}
 $$
+
 where rows are compounds and columns are molecular descriptors. After removing constant descriptors, the primary modelling matrix has
 
 $$
-X_c \in \mathbb{R}^{1974 \times 504}.
+X_c \in \mathbb{R}^{1974 \times 504}
 $$
+
 The response used for regression is
 
 $$
 y = \mathrm{pIC50} = 9 - \log_{10}(\mathrm{IC50}_{\mathrm{nM}}),
 $$
+
 so that larger values correspond to stronger ERα inhibitory activity.
 
 ### 1.2 Latent-variable modelling
@@ -58,6 +63,7 @@ The main methods are PCA, PLS regression, and O2PLS-inspired block integration. 
 $$
 X \approx T P^\top,
 $$
+
 where `T` contains compound scores and `P` contains descriptor loadings. This gives a low-dimensional representation that can be interpreted geometrically and chemically.
 
 The project also includes nonlinear predictive models in the last notebook as **complementary benchmarks**. They are included to put the latent-variable results in context and to check whether flexible prediction methods capture additional structure in the data.
@@ -86,6 +92,7 @@ The descriptor matrix is split into chemically meaningful blocks:
 $$
 X = [X^{(1)}, X^{(2)}, X^{(r)}]
 $$
+
 where
 
 - $X^{(1)}$: local electronic / atom-environment descriptors;
@@ -97,6 +104,7 @@ This block structure is used to mimic a two-omics integration problem:
 $$
 X^{(1)} \leftrightarrow X^{(2)}
 $$
+
 The goal is to identify:
 
 - latent structure shared between blocks;
@@ -187,6 +195,7 @@ Let
 $$
 X_{raw} \in \mathbb{R}^{1974 \times 729}
 $$
+
 be the original descriptor matrix. The audit step checks:
 
 - row alignment across descriptor, activity, and ADMET files;
@@ -216,6 +225,7 @@ The primary matrix used for PCA/PLS is obtained by removing constant descriptors
 $$
 \tilde X_{ij} = \frac{X_{ij} - \bar X_j}{s_j}
 $$
+
 This gives each descriptor comparable scale before latent-variable analysis.
 
 ---
@@ -227,21 +237,25 @@ PCA approximates the standardised descriptor matrix by a rank-$k$ matrix:
 $$
 \tilde X \approx T_k P_k^\top,
 $$
+
 where
 
 $$
 T_k = \tilde X V_k.
 $$
+
 Equivalently, PCA solves
 
 $$
 \min_{\mathrm{rank}(M) \le k} \|\tilde X - M\|_F^2.
 $$
+
 The principal axes are obtained from the singular value decomposition
 
 $$
 \tilde X = U D V^\top.
 $$
+
 The score matrix $T_k = U_k D_k$ represents compounds in a low-dimensional latent space; the loading matrix $P_k=V_k$ indicates which descriptors drive each direction.
 
 #### PCA results
@@ -300,16 +314,19 @@ w_1
 = \arg\max_{\|w\|=1} \operatorname{Cov}(\tilde X w, y)^2
 = \arg\max_{\|w\|=1} w^\top \tilde X^\top yy^\top \tilde X w
 $$
+
 The latent score is
 
 $$
 t_1 = \tilde X w_1
 $$
+
 After deflation, additional components are extracted. The final model is
 
 $$
 y = T q + e
 $$
+
 where $T$ contains PLS scores and $q$ contains regression coefficients on the latent scores.
 
 The number of components is selected using cross-validation. Predictive performance is summarised by
@@ -338,16 +355,7 @@ The one-SE rule is preferred because it gives a more parsimonious model while st
 Variable importance in projection is computed as
 
 $$
-\mathrm{VIP}_j
-=
-\sqrt{
- p \cdot
- \frac{
- \sum_{a=1}^{A} SSY_a \frac{w_{ja}^2}{\|w_a\|^2}
- }{
- \sum_{a=1}^{A} SSY_a
- }
-}
+\mathrm{VIP}_j = \sqrt{p \cdot\frac{\sum_{a=1}^{A} SSY_a \frac{w_{ja}^2}{\|w_a\|^2}}{\sum_{a=1}^{A} SSY_a}}
 $$
 where $SSY_a$ is the amount of response variation explained by component $a$.
 
@@ -375,11 +383,13 @@ The cross-validated residual is
 $$
 e_i^{CV} = y_i - \hat y_i^{CV}.
 $$
+
 A large-residual threshold is defined by the 95th percentile of $|e_i^{CV}|$:
 
 $$
 |e_i^{CV}| > 1.670.
 $$
+
 Empirical diagnostics:
 
 | Diagnostic | Value |
@@ -440,11 +450,13 @@ Let
 $$
 Z_1 = \mathrm{PCA}(X^{(1)}), \qquad Z_2 = \mathrm{PCA}(X^{(2)})
 $$
+
 where each contains the leading block-specific PC scores. Shared structure is estimated by directions $a,b$ solving
 
 $$
 \max_{a,b} \operatorname{Corr}(Z_1a, Z_2b)
 $$
+
 Block-specific residual structure is then approximated by
 
 $$
@@ -452,16 +464,11 @@ R_1 = Z_1 - \hat Z_1(Z_2),
 \qquad
 R_2 = Z_2 - \hat Z_2(Z_1)
 $$
+
 This gives a practical approximation to the conceptual O2PLS decomposition:
 
 $$
-\text{observed block variation}
-=
-\text{shared variation}
-+
-\text{block-specific variation}
-+
-\text{residual noise}
+\text{observed block variation} = \text{shared variation} + \text{block-specific variation} + \text{residual noise}
 $$
 
 #### Block PCA results
@@ -580,6 +587,7 @@ E \sim \mathcal{N}(0, \sigma_1^2 I),
 \qquad
 F \sim \mathcal{N}(0, \sigma_2^2 I)
 $$
+
 This would allow likelihood-based model comparison, uncertainty quantification, and more formal goodness-of-fit testing.
 
 Possible next steps:
@@ -596,21 +604,13 @@ A future version can generalise from two descriptor blocks to a collection of ma
 $$
 X_{ij}, \qquad i = 1,\ldots,I, \quad j = 1,\ldots,J.
 $$
+
 A bidimensional factorisation can be written schematically as
 
 $$
-X_{ij}
-=
-G_{ij}
-+
-R_{ij}
-+
-C_{ij}
-+
-I_{ij}
-+
-E_{ij}
+X_{ij} = G_{ij} + R_{ij} + C_{ij} + I_{ij} + E_{ij}
 $$
+
 where
 
 - $G_{ij}$: globally shared structure;
