@@ -310,10 +310,12 @@ This separates compounds that are extreme **within** the principal-component sub
 PLS regression searches for latent score directions that explain both descriptor variation and the response $y$. For a univariate response, the first PLS weight vector can be written as
 
 $$
-w_1
-= \arg\max_{\|w\|=1} \operatorname{Cov}(\tilde X w, y)^2
-= \arg\max_{\|w\|=1} w^\top \tilde X^\top yy^\top \tilde X w
-$$
+					
+				
+				
+				xxxxxxxxxx w_1= \arg\max_{\|w\|=1} \operatorname{Cov}(\tilde X w, y)^2= \arg\max_{\|w\|=1} w^\top \tilde X^\top yy^\top \tilde X w
+				$$
+					
 
 The latent score is
 
@@ -357,6 +359,7 @@ Variable importance in projection is computed as
 $$
 \mathrm{VIP}_j = \sqrt{p \cdot\frac{\sum_{a=1}^{A} SSY_a \frac{w_{ja}^2}{\|w_a\|^2}}{\sum_{a=1}^{A} SSY_a}}
 $$
+
 where $SSY_a$ is the amount of response variation explained by component $a$.
 
 Top descriptors include hydroxyl-related descriptors, lipophilicity descriptors, ring descriptors, hydrogen-bond descriptors, and molecular distance edge descriptors, for example:
@@ -454,8 +457,12 @@ $$
 where each contains the leading block-specific PC scores. Shared structure is estimated by directions $a,b$ solving
 
 $$
-\max_{a,b} \operatorname{Corr}(Z_1a, Z_2b)
-$$
+					
+				
+				
+				xxxxxxxxxx \max_{a,b} \operatorname{Corr}(Z_1a, Z_2b)
+				$$
+					
 
 Block-specific residual structure is then approximated by
 
