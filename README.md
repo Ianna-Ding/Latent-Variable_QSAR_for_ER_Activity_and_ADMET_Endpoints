@@ -567,68 +567,7 @@ Interpretation:
 
 ---
 
-## 6. Relation to probabilistic O2PLS and bidimensional integration
-
-This project can be extended in two natural directions.
-
-### 6.1 Probabilistic two-way PLS
-
-The O2PLS-inspired analysis here is deterministic and exploratory. A probabilistic version would introduce explicit latent variables and noise models, for example:
-
-$$
-X^{(1)} = T W^\top + T_\perp W_\perp^\top + E
-$$
-
-$$
-X^{(2)} = U C^\top + U_\perp C_\perp^\top + F
-$$
-
-with distributional assumptions such as
-
-$$
-E \sim \mathcal{N}(0, \sigma_1^2 I),
-\qquad
-F \sim \mathcal{N}(0, \sigma_2^2 I)
-$$
-
-This would allow likelihood-based model comparison, uncertainty quantification, and more formal goodness-of-fit testing.
-
-Possible next steps:
-
-- implement an explicit probabilistic two-block latent-variable model;
-- compare deterministic O2PLS-style scores with probabilistic posterior scores;
-- study component selection by likelihood, information criteria, cross-validation, and permutation testing;
-- add simulation studies where the true joint and block-specific components are known.
-
-### 6.2 Bidimensionally linked matrices
-
-A future version can generalise from two descriptor blocks to a collection of matrices indexed by two dimensions, for example:
-
-$$
-X_{ij}, \qquad i = 1,\ldots,I, \quad j = 1,\ldots,J.
-$$
-
-A bidimensional factorisation can be written schematically as
-
-$$
-X_{ij} = G_{ij} + R_{ij} + C_{ij} + I_{ij} + E_{ij}
-$$
-
-where
-
-- $G_{ij}$: globally shared structure;
-- $R_{ij}$: row-shared structure;
-- $C_{ij}$: column-shared structure;
-- $I_{ij}$: individual matrix-specific structure;
-- $E_{ij}$: residual noise.
-
-For biomedical data, such a design could represent multiple omics platforms measured across multiple tissues, time points, disease groups, or experimental conditions.
-
-This repository currently provides the first layer of that direction: careful matrix auditing, PCA/PLS score construction, two-block decomposition, residual diagnostics, and endpoint association analysis.
-
----
-
-## 7. Main empirical findings
+## 6. Main empirical findings
 
 | Theme | Finding |
 |---|---|
@@ -644,7 +583,7 @@ This repository currently provides the first layer of that direction: careful ma
 
 ---
 
-## 8. Reproducibility
+## 7. Reproducibility
 
 The analysis is organised to be rerunnable from raw files.
 
@@ -674,7 +613,7 @@ The current implementation is in Python. A useful future step is to re-implement
 
 ---
 
-## 9. Limitations
+## 8. Limitations
 
 This project is deliberately cautious about interpretation.
 
@@ -685,7 +624,7 @@ This project is deliberately cautious about interpretation.
 
 ---
 
-## 10. Planned extensions
+## 9. Planned extensions
 
 The next improvements are methodological rather than purely predictive:
 
@@ -699,14 +638,13 @@ The next improvements are methodological rather than purely predictive:
 
 ---
 
-## 11. Keywords
+## 10. Keywords
 
 ```text
 statistical bioinformatics
 latent-variable modelling
 high-dimensional data integration
 PCA
-SVD
 PLS regression
 O2PLS
 probabilistic PLS
